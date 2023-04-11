@@ -16,8 +16,8 @@ This repository contains a command line executable python file (aact-connect.py)
 
 There are several flags you can use to run different commands
 
-To perform the main search, enter
-`python aact-connect.py -u [your acct username] -p [your aact password] -s`
+To perform a search, create a `.txt` file with a SQL query in the `query_text` directory and enter
+`python aact-connect.py -u [your acct username] -p [your aact password] -s [search string as a .txt file]`
 
 _Optional: To avoid having to re-enter your credentials every time you run the command, create a directory named `private` and place a file named `myconfig.txt` in it. Then type your username on the top line and your password on the second line, so that `private/myconfig.txt` reads as:_
 ```
@@ -25,10 +25,10 @@ _Optional: To avoid having to re-enter your credentials every time you run the c
 [password]
 ```
 
-The results of the search will be in the `queries` directory with the file name `query_[number of results]_results_[search date].csv`
+The results of the search will be in the `query_results` directory with the file name `query_[number of results]_results_[search date].csv`. 
 
 To add additional data of interest to the search results, enter
-`python aact-connect.py -u [your acct username] -p [your aact password] -s -a`
+`python aact-connect.py -u [your acct username] -p [your aact password] -s [query text] -a`
 
 And to add additional data on a search that was already performed, enter
 `python aact-connect.py -u [your acct username] -p [your aact password] -a -us [path of CSV file with prior search results]`

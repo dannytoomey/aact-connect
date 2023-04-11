@@ -7,46 +7,35 @@ from datetime import datetime
 
 cwd = os.getcwd()
 
+parser = argparse.ArgumentParser()
+
 if os.path.exists(cwd+"/private/myconfig.txt"):
   with open(cwd+"/private/myconfig.txt") as file:
     credentials = file.readlines()
-
-  parser = argparse.ArgumentParser()
-  parser.add_argument("-s", "--search", action="store_true", required=False)
-  parser.add_argument("-a", "--add", action="store_true", required=False)
-  parser.add_argument("-us", "--use_search", required=False)
-  parser.add_argument("-l", "--lookup", required=False)
-  parser.add_argument("-ae", "--AE_num", required=False)
-  
-  args = parser.parse_args()
-
-  aact_connect = psycopg2.connect(
-    host = "aact-db.ctti-clinicaltrials.org",
-    user = str(credentials[0]).replace('\n',''),
-    password = str(credentials[1]),
-    database = "aact",
-    port = 5432
-  )
+  user = str(credentials[0]).replace('\n','')
+  password = str(credentials[1])
 
 else:
-  parser = argparse.ArgumentParser()
   parser.add_argument("-u", "--username", required=True)
   parser.add_argument("-p", "--password", required=True)
-  parser.add_argument("-s", "--search", action="store_true", required=False)
-  parser.add_argument("-a", "--add", action="store_true", required=False)
-  parser.add_argument("-us", "--use_search", required=False)
-  parser.add_argument("-l", "--lookup", required=False)
-  parser.add_argument("-ae", "--AE_num", required=False)
-  
-  args = parser.parse_args()
+  user = str(args.username)
+  password = str(args.password)
 
-  aact_connect = psycopg2.connect(
-  	host = "aact-db.ctti-clinicaltrials.org",
-  	user = str(args.username),
-  	password = str(args.password),
-  	database = "aact",
-  	port = 5432
-  )
+parser.add_argument("-s", "--search", required=False)
+parser.add_argument("-a", "--add", action="store_true", required=False)
+parser.add_argument("-us", "--use_search", required=False)
+parser.add_argument("-l", "--lookup", required=False)
+parser.add_argument("-ae", "--AE_num", required=False)
+
+args = parser.parse_args()
+
+aact_connect = psycopg2.connect(
+  host = "aact-db.ctti-clinicaltrials.org",
+  user = user,
+  password = password,
+  database = "aact",
+  port = 5432
+)
 
 
 if args.search:
@@ -54,85 +43,34 @@ if args.search:
   print("Performing query...")
 
   cursor = aact_connect.cursor()
-  
-  query = '''
 
-  select * from studies where
-  study_type = 'Interventional'
-  and
-  enrollment < 1000
-  and
-  study_first_submitted_date < '2022-06-30'
-  and
-  (
-  (official_title ilike '%challenge%') or
-  (official_title ilike '%immunization%' and official_title ilike '%sporozoites%') or
-  (official_title ilike '%human%' and official_title ilike '%carriage%') or
-  (official_title ilike '%infection%' and
-  (official_title ilike '%controlled%' or official_title ilike '%experimental%' or official_title ilike '%induced%')) or
-  (official_title ilike '%efficacy%' and official_title ilike '%vaccine%') or
-  (official_title ilike '%human%' and official_title ilike '%exposure%') or
-  (official_title ilike '%healthy%' and
-  (official_title ilike '%naïve%' or official_title ilike '%naive%')) or
-  (official_title ilike '%competitive%' and official_title ilike '%carriage%')
-  OR
-  (brief_title ilike '%challenge%') or
-  (brief_title ilike '%immunization%' and brief_title ilike '%sporozoites%') or
-  (brief_title ilike '%human%' and brief_title ilike '%carriage%') or
-  (brief_title ilike '%infection%' and
-  (brief_title ilike '%controlled%' or brief_title ilike '%experimental%' or brief_title ilike '%induced%')) or
-  (brief_title ilike '%efficacy%' and brief_title ilike '%vaccine%') or
-  (brief_title ilike '%human%' and brief_title ilike '%exposure%') or
-  (brief_title ilike '%healthy%' and
-  (brief_title ilike '%naïve%' or brief_title ilike '%naive%')) or
-  (brief_title ilike '%competitive%' and brief_title ilike '%carriage%')
-  OR
-  (acronym ilike '%challenge%') or
-  (acronym ilike '%human%')
-  OR
-  nct_id IN
-  (select s.nct_id from studies s, keywords k where
-  s.nct_id = k.nct_id and k.name ilike '%challenge%')
-  OR
-  nct_id IN
-  (select s.nct_id from studies s, detailed_descriptions d where
-  s.nct_id = d.nct_id and
-  ((d.description ilike '%challenge%') and
-  (d.description ilike '%infection%' or
-  d.description ilike '%controlled%' or
-  d.description ilike '%experimental%')))
-  OR
-  nct_id IN
-  (select s.nct_id from studies s, brief_summaries b where
-  s.nct_id = b.nct_id and
-  ((b.description ilike '%challenge%') and
-  (b.description ilike '%infection%' or
-  b.description ilike '%controlled%' or
-  b.description ilike '%experimental%')))
-  ) 
-
-  
-  '''
-  
+  if os.path.exists(cwd+'/'+args.search):
+    with open(cwd+'/'+args.search) as file:
+      read_file = file.read()
+    query = str(read_file).replace('\n',' ')
+  else:
+    aact_connect.close()
+    sys.exit('Error: Please add your search query to the `query_text` directory as a .txt file')
 
   data = sqlio.read_sql_query(query,aact_connect)
   query_frame = pd.DataFrame(data)
-  query_frame.to_csv(cwd+"/queries/query_results.csv",header=True,index=True)
+  query_frame.to_csv(cwd+"/query_results/query_results.csv",header=True,index=True)
 
-  read_csv = pd.read_csv(cwd+"/queries/query_results.csv")
-  count = len(read_csv)-1
+  read_csv = pd.read_csv(cwd+"/query_results/query_results.csv")
+  count = len(read_csv)
   print("Query returned "+str(count)+" results")
 
-  if os.path.exists(cwd+"/queries/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv"):
-    os.remove(cwd+"/queries/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv")
-    os.rename(cwd+"/queries/query_results.csv",cwd+"/queries/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv")
+  if os.path.exists(cwd+"/query_results/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv"):
+    os.remove(cwd+"/query_results/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv")
+    os.rename(cwd+"/query_results/query_results.csv",cwd+"/query_results/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv")
   else:
-    os.rename(cwd+"/queries/query_results.csv",cwd+"/queries/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv")
+    os.rename(cwd+"/query_results/query_results.csv",cwd+"/query_results/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv")
 
-  last_search = cwd+"/queries/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv"
+  last_search = cwd+"/query_results/query_"+str(count)+"_results_"+datetime.today().strftime('%Y-%m-%d')+".csv"
 
   if(args.add == None and args.lookup == None and args.AE_num == None):
     aact_connect.close()
+
   
 if args.add:
 
@@ -226,7 +164,7 @@ if args.add:
   result_concat.to_csv(cwd+"/additional_data/query_additional_data.csv",header=True,index=False)
 
   read_csv = pd.read_csv(cwd+"/additional_data/query_additional_data.csv")
-  count = len(read_csv)-1 
+  count = len(read_csv)
   print("\nAdded additional data for "+str(count)+" results")
 
   if os.path.exists(cwd+"/additional_data/query_"+str(count)+"_additional_data_"+datetime.today().strftime('%Y-%m-%d')+".csv"):
