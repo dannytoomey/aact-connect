@@ -19,7 +19,7 @@ There are several flags you can use to run different commands
 To perform the main search, enter
 `python aact-connect.py -u [your acct username] -p [your aact password] -s`
 
-_Optional: To avoid having to re-enter your credentials every time you run the command, create a text file in the `private` directory called `myconfig.txt`. Then type your username on the top line and your password on the second line, so that the text file reads as:_
+_Optional: To avoid having to re-enter your credentials every time you run the command, create a directory named `private` and place a file named `myconfig.txt` in it. Then type your username on the top line and your password on the second line, so that `private/myconfig.txt` reads as:_
 ```
 [username]
 [password]
@@ -33,7 +33,7 @@ To add additional data of interest to the search results, enter
 And to add additional data on a search that was already performed, enter
 `python aact-connect.py -u [your acct username] -p [your aact password] -a -us [path of CSV file with prior search results]`
 
-The results of the data additions will be in the `additional_data` directory with the file name `query_[number of results]_additional_data.csv`
+The results of the data additions will be in the `additional_data` directory with the file name `query_[number of results]_additional_data_[search date].csv`
 
 _Note: This operation can take a few minutes. A progress bar with an estimate time to completion is provided_
 
