@@ -1,0 +1,4241 @@
+title,param_value,param_type,nct_id,classification,subjects_affected,subjects_at_risk,event_count,adverse_event_term
+,,,NCT00574548,"Total, serious adverse events",2.0,478.0,,
+,,,NCT00574548,"Total, other adverse events",256.0,478.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",1.0,237.0,,
+,,,NCT00574548,"Total, other adverse events",102.0,237.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",15.0,478.0,,
+,,,NCT00574548,"Total, other adverse events",41.0,478.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",6.0,237.0,,
+,,,NCT00574548,"Total, other adverse events",24.0,237.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",0.0,160.0,,
+,,,NCT00574548,"Total, other adverse events",97.0,160.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",2.0,267.0,,
+,,,NCT00574548,"Total, other adverse events",198.0,267.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",1.0,223.0,,
+,,,NCT00574548,"Total, other adverse events",118.0,223.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",5.0,160.0,,
+,,,NCT00574548,"Total, other adverse events",16.0,160.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",6.0,267.0,,
+,,,NCT00574548,"Total, other adverse events",23.0,267.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,"Total, serious adverse events",3.0,223.0,,
+,,,NCT00574548,"Total, other adverse events",16.0,223.0,,
+,,,NCT00574548,"Total, all-cause mortality",,,,
+,,,NCT00574548,,0.0,478.0,,Angina unstable
+,,,NCT00574548,,1.0,237.0,,Angina unstable
+,,,NCT00574548,,0.0,478.0,,Angina unstable
+,,,NCT00574548,,0.0,237.0,,Angina unstable
+,,,NCT00574548,,0.0,160.0,,Angina unstable
+,,,NCT00574548,,0.0,267.0,,Angina unstable
+,,,NCT00574548,,0.0,223.0,,Angina unstable
+,,,NCT00574548,,0.0,160.0,,Angina unstable
+,,,NCT00574548,,0.0,267.0,,Angina unstable
+,,,NCT00574548,,0.0,223.0,,Angina unstable
+,,,NCT00574548,,0.0,478.0,,Arrhythmia
+,,,NCT00574548,,1.0,237.0,,Arrhythmia
+,,,NCT00574548,,0.0,478.0,,Arrhythmia
+,,,NCT00574548,,0.0,237.0,,Arrhythmia
+,,,NCT00574548,,0.0,160.0,,Arrhythmia
+,,,NCT00574548,,0.0,267.0,,Arrhythmia
+,,,NCT00574548,,0.0,223.0,,Arrhythmia
+,,,NCT00574548,,0.0,160.0,,Arrhythmia
+,,,NCT00574548,,0.0,267.0,,Arrhythmia
+,,,NCT00574548,,0.0,223.0,,Arrhythmia
+,,,NCT00574548,,0.0,478.0,,Myocardial infarction
+,,,NCT00574548,,1.0,237.0,,Myocardial infarction
+,,,NCT00574548,,1.0,478.0,,Myocardial infarction
+,,,NCT00574548,,0.0,237.0,,Myocardial infarction
+,,,NCT00574548,,0.0,160.0,,Myocardial infarction
+,,,NCT00574548,,0.0,267.0,,Myocardial infarction
+,,,NCT00574548,,0.0,223.0,,Myocardial infarction
+,,,NCT00574548,,0.0,160.0,,Myocardial infarction
+,,,NCT00574548,,0.0,267.0,,Myocardial infarction
+,,,NCT00574548,,0.0,223.0,,Myocardial infarction
+,,,NCT00574548,,0.0,478.0,,Angina pectoris
+,,,NCT00574548,,0.0,237.0,,Angina pectoris
+,,,NCT00574548,,1.0,478.0,,Angina pectoris
+,,,NCT00574548,,0.0,237.0,,Angina pectoris
+,,,NCT00574548,,0.0,160.0,,Angina pectoris
+,,,NCT00574548,,0.0,267.0,,Angina pectoris
+,,,NCT00574548,,0.0,223.0,,Angina pectoris
+,,,NCT00574548,,0.0,160.0,,Angina pectoris
+,,,NCT00574548,,1.0,267.0,,Angina pectoris
+,,,NCT00574548,,0.0,223.0,,Angina pectoris
+,,,NCT00574548,,0.0,478.0,,Coronary artery disease
+,,,NCT00574548,,0.0,237.0,,Coronary artery disease
+,,,NCT00574548,,0.0,478.0,,Coronary artery disease
+,,,NCT00574548,,0.0,237.0,,Coronary artery disease
+,,,NCT00574548,,0.0,160.0,,Coronary artery disease
+,,,NCT00574548,,0.0,267.0,,Coronary artery disease
+,,,NCT00574548,,0.0,223.0,,Coronary artery disease
+,,,NCT00574548,,0.0,160.0,,Coronary artery disease
+,,,NCT00574548,,0.0,267.0,,Coronary artery disease
+,,,NCT00574548,,1.0,223.0,,Coronary artery disease
+,,,NCT00574548,,0.0,478.0,,Vertigo positional
+,,,NCT00574548,,0.0,237.0,,Vertigo positional
+,,,NCT00574548,,1.0,478.0,,Vertigo positional
+,,,NCT00574548,,0.0,237.0,,Vertigo positional
+,,,NCT00574548,,0.0,160.0,,Vertigo positional
+,,,NCT00574548,,0.0,267.0,,Vertigo positional
+,,,NCT00574548,,0.0,223.0,,Vertigo positional
+,,,NCT00574548,,0.0,160.0,,Vertigo positional
+,,,NCT00574548,,0.0,267.0,,Vertigo positional
+,,,NCT00574548,,0.0,223.0,,Vertigo positional
+,,,NCT00574548,,0.0,478.0,,Goitre
+,,,NCT00574548,,0.0,237.0,,Goitre
+,,,NCT00574548,,0.0,478.0,,Goitre
+,,,NCT00574548,,0.0,237.0,,Goitre
+,,,NCT00574548,,0.0,160.0,,Goitre
+,,,NCT00574548,,0.0,267.0,,Goitre
+,,,NCT00574548,,0.0,223.0,,Goitre
+,,,NCT00574548,,0.0,160.0,,Goitre
+,,,NCT00574548,,1.0,267.0,,Goitre
+,,,NCT00574548,,0.0,223.0,,Goitre
+,,,NCT00574548,,0.0,478.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,237.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,1.0,478.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,237.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,160.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,267.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,223.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,160.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,267.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,223.0,,Gastrointestinal haemorrhage
+,,,NCT00574548,,0.0,478.0,,Intestinal infarction
+,,,NCT00574548,,0.0,237.0,,Intestinal infarction
+,,,NCT00574548,,1.0,478.0,,Intestinal infarction
+,,,NCT00574548,,0.0,237.0,,Intestinal infarction
+,,,NCT00574548,,0.0,160.0,,Intestinal infarction
+,,,NCT00574548,,0.0,267.0,,Intestinal infarction
+,,,NCT00574548,,0.0,223.0,,Intestinal infarction
+,,,NCT00574548,,0.0,160.0,,Intestinal infarction
+,,,NCT00574548,,0.0,267.0,,Intestinal infarction
+,,,NCT00574548,,0.0,223.0,,Intestinal infarction
+,,,NCT00574548,,0.0,478.0,,Pancreatitis
+,,,NCT00574548,,0.0,237.0,,Pancreatitis
+,,,NCT00574548,,1.0,478.0,,Pancreatitis
+,,,NCT00574548,,0.0,237.0,,Pancreatitis
+,,,NCT00574548,,0.0,160.0,,Pancreatitis
+,,,NCT00574548,,0.0,267.0,,Pancreatitis
+,,,NCT00574548,,0.0,223.0,,Pancreatitis
+,,,NCT00574548,,0.0,160.0,,Pancreatitis
+,,,NCT00574548,,0.0,267.0,,Pancreatitis
+,,,NCT00574548,,0.0,223.0,,Pancreatitis
+,,,NCT00574548,,0.0,478.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,237.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,478.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,237.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,160.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,267.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,223.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,160.0,,Small intestinal obstruction
+,,,NCT00574548,,1.0,267.0,,Small intestinal obstruction
+,,,NCT00574548,,1.0,223.0,,Small intestinal obstruction
+,,,NCT00574548,,0.0,478.0,,Non-cardiac chest pain
+,,,NCT00574548,,0.0,237.0,,Non-cardiac chest pain
+,,,NCT00574548,,0.0,478.0,,Non-cardiac chest pain
+,,,NCT00574548,,1.0,237.0,,Non-cardiac chest pain
+,,,NCT00574548,,0.0,160.0,,Non-cardiac chest pain
+,,,NCT00574548,,0.0,267.0,,Non-cardiac chest pain
+,,,NCT00574548,,0.0,223.0,,Non-cardiac chest pain
+,,,NCT00574548,,0.0,160.0,,Non-cardiac chest pain
+,,,NCT00574548,,1.0,267.0,,Non-cardiac chest pain
+,,,NCT00574548,,1.0,223.0,,Non-cardiac chest pain
+,,,NCT00574548,,0.0,478.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,237.0,,Cholecystitis acute
+,,,NCT00574548,,1.0,478.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,237.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,160.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,267.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,223.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,160.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,267.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,223.0,,Cholecystitis acute
+,,,NCT00574548,,0.0,478.0,,Appendicitis
+,,,NCT00574548,,0.0,237.0,,Appendicitis
+,,,NCT00574548,,1.0,478.0,,Appendicitis
+,,,NCT00574548,,0.0,237.0,,Appendicitis
+,,,NCT00574548,,0.0,160.0,,Appendicitis
+,,,NCT00574548,,0.0,267.0,,Appendicitis
+,,,NCT00574548,,0.0,223.0,,Appendicitis
+,,,NCT00574548,,0.0,160.0,,Appendicitis
+,,,NCT00574548,,0.0,267.0,,Appendicitis
+,,,NCT00574548,,0.0,223.0,,Appendicitis
+,,,NCT00574548,,0.0,478.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,237.0,,Cellulitis orbital
+,,,NCT00574548,,1.0,478.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,237.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,160.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,267.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,223.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,160.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,267.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,223.0,,Cellulitis orbital
+,,,NCT00574548,,0.0,478.0,,Perirectal abscess
+,,,NCT00574548,,0.0,237.0,,Perirectal abscess
+,,,NCT00574548,,1.0,478.0,,Perirectal abscess
+,,,NCT00574548,,0.0,237.0,,Perirectal abscess
+,,,NCT00574548,,0.0,160.0,,Perirectal abscess
+,,,NCT00574548,,0.0,267.0,,Perirectal abscess
+,,,NCT00574548,,0.0,223.0,,Perirectal abscess
+,,,NCT00574548,,0.0,160.0,,Perirectal abscess
+,,,NCT00574548,,0.0,267.0,,Perirectal abscess
+,,,NCT00574548,,0.0,223.0,,Perirectal abscess
+,,,NCT00574548,,0.0,478.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,237.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,478.0,,Staphylococcal abscess
+,,,NCT00574548,,1.0,237.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,160.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,267.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,223.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,160.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,267.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,223.0,,Staphylococcal abscess
+,,,NCT00574548,,0.0,478.0,,Fall
+,,,NCT00574548,,0.0,237.0,,Fall
+,,,NCT00574548,,1.0,478.0,,Fall
+,,,NCT00574548,,0.0,237.0,,Fall
+,,,NCT00574548,,0.0,160.0,,Fall
+,,,NCT00574548,,0.0,267.0,,Fall
+,,,NCT00574548,,0.0,223.0,,Fall
+,,,NCT00574548,,0.0,160.0,,Fall
+,,,NCT00574548,,0.0,267.0,,Fall
+,,,NCT00574548,,0.0,223.0,,Fall
+,,,NCT00574548,,0.0,478.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,237.0,,Post procedural bile leak
+,,,NCT00574548,,1.0,478.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,237.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,160.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,267.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,223.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,160.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,267.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,223.0,,Post procedural bile leak
+,,,NCT00574548,,0.0,478.0,,Hip fracture
+,,,NCT00574548,,0.0,237.0,,Hip fracture
+,,,NCT00574548,,0.0,478.0,,Hip fracture
+,,,NCT00574548,,0.0,237.0,,Hip fracture
+,,,NCT00574548,,0.0,160.0,,Hip fracture
+,,,NCT00574548,,0.0,267.0,,Hip fracture
+,,,NCT00574548,,0.0,223.0,,Hip fracture
+,,,NCT00574548,,0.0,160.0,,Hip fracture
+,,,NCT00574548,,1.0,267.0,,Hip fracture
+,,,NCT00574548,,0.0,223.0,,Hip fracture
+,,,NCT00574548,,0.0,478.0,,Accidental overdose
+,,,NCT00574548,,0.0,237.0,,Accidental overdose
+,,,NCT00574548,,0.0,478.0,,Accidental overdose
+,,,NCT00574548,,0.0,237.0,,Accidental overdose
+,,,NCT00574548,,0.0,160.0,,Accidental overdose
+,,,NCT00574548,,0.0,267.0,,Accidental overdose
+,,,NCT00574548,,0.0,223.0,,Accidental overdose
+,,,NCT00574548,,0.0,160.0,,Accidental overdose
+,,,NCT00574548,,0.0,267.0,,Accidental overdose
+,,,NCT00574548,,1.0,223.0,,Accidental overdose
+,,,NCT00574548,,0.0,478.0,,Foot fracture
+,,,NCT00574548,,0.0,237.0,,Foot fracture
+,,,NCT00574548,,0.0,478.0,,Foot fracture
+,,,NCT00574548,,0.0,237.0,,Foot fracture
+,,,NCT00574548,,0.0,160.0,,Foot fracture
+,,,NCT00574548,,0.0,267.0,,Foot fracture
+,,,NCT00574548,,0.0,223.0,,Foot fracture
+,,,NCT00574548,,1.0,160.0,,Foot fracture
+,,,NCT00574548,,0.0,267.0,,Foot fracture
+,,,NCT00574548,,0.0,223.0,,Foot fracture
+,,,NCT00574548,,0.0,478.0,,Hypokalaemia
+,,,NCT00574548,,0.0,237.0,,Hypokalaemia
+,,,NCT00574548,,1.0,478.0,,Hypokalaemia
+,,,NCT00574548,,0.0,237.0,,Hypokalaemia
+,,,NCT00574548,,0.0,160.0,,Hypokalaemia
+,,,NCT00574548,,0.0,267.0,,Hypokalaemia
+,,,NCT00574548,,0.0,223.0,,Hypokalaemia
+,,,NCT00574548,,0.0,160.0,,Hypokalaemia
+,,,NCT00574548,,0.0,267.0,,Hypokalaemia
+,,,NCT00574548,,0.0,223.0,,Hypokalaemia
+,,,NCT00574548,,0.0,478.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,237.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,478.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,237.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,160.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,267.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,223.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,160.0,,Intervertebral disc degeneration
+,,,NCT00574548,,1.0,267.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,223.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,478.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,237.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,478.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,237.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,160.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,267.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,223.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,160.0,,Lumbar spinal stenosis
+,,,NCT00574548,,1.0,267.0,,Lumbar spinal stenosis
+,,,NCT00574548,,0.0,223.0,,Lumbar spinal stenosis
+,,,NCT00574548,,1.0,478.0,,Breast cancer
+,,,NCT00574548,,0.0,237.0,,Breast cancer
+,,,NCT00574548,,0.0,478.0,,Breast cancer
+,,,NCT00574548,,0.0,237.0,,Breast cancer
+,,,NCT00574548,,0.0,160.0,,Breast cancer
+,,,NCT00574548,,0.0,267.0,,Breast cancer
+,,,NCT00574548,,0.0,223.0,,Breast cancer
+,,,NCT00574548,,0.0,160.0,,Breast cancer
+,,,NCT00574548,,0.0,267.0,,Breast cancer
+,,,NCT00574548,,0.0,223.0,,Breast cancer
+,,,NCT00574548,,1.0,478.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,237.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,1.0,478.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,237.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,160.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,267.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,223.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,160.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,267.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,223.0,,Squamous cell carcinoma of skin
+,,,NCT00574548,,0.0,478.0,,Malignant melanoma
+,,,NCT00574548,,0.0,237.0,,Malignant melanoma
+,,,NCT00574548,,1.0,478.0,,Malignant melanoma
+,,,NCT00574548,,1.0,237.0,,Malignant melanoma
+,,,NCT00574548,,0.0,160.0,,Malignant melanoma
+,,,NCT00574548,,0.0,267.0,,Malignant melanoma
+,,,NCT00574548,,0.0,223.0,,Malignant melanoma
+,,,NCT00574548,,0.0,160.0,,Malignant melanoma
+,,,NCT00574548,,0.0,267.0,,Malignant melanoma
+,,,NCT00574548,,0.0,223.0,,Malignant melanoma
+,,,NCT00574548,,0.0,478.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,237.0,,Basal cell carcinoma
+,,,NCT00574548,,1.0,478.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,237.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,160.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,267.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,223.0,,Basal cell carcinoma
+,,,NCT00574548,,1.0,160.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,267.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,223.0,,Basal cell carcinoma
+,,,NCT00574548,,0.0,478.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,237.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,1.0,478.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,237.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,160.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,267.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,223.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,160.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,267.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,223.0,,Gastrointestinal stromal tumour
+,,,NCT00574548,,0.0,478.0,,Prostate cancer
+,,,NCT00574548,,0.0,237.0,,Prostate cancer
+,,,NCT00574548,,0.0,478.0,,Prostate cancer
+,,,NCT00574548,,1.0,237.0,,Prostate cancer
+,,,NCT00574548,,0.0,160.0,,Prostate cancer
+,,,NCT00574548,,1.0,267.0,,Prostate cancer
+,,,NCT00574548,,1.0,223.0,,Prostate cancer
+,,,NCT00574548,,2.0,160.0,,Prostate cancer
+,,,NCT00574548,,0.0,267.0,,Prostate cancer
+,,,NCT00574548,,0.0,223.0,,Prostate cancer
+,,,NCT00574548,,0.0,478.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,237.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,478.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,237.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,160.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,267.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,223.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,160.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,267.0,,Benign neoplasm of skin
+,,,NCT00574548,,1.0,223.0,,Benign neoplasm of skin
+,,,NCT00574548,,0.0,478.0,,Uterine cancer
+,,,NCT00574548,,0.0,237.0,,Uterine cancer
+,,,NCT00574548,,0.0,478.0,,Uterine cancer
+,,,NCT00574548,,0.0,237.0,,Uterine cancer
+,,,NCT00574548,,0.0,160.0,,Uterine cancer
+,,,NCT00574548,,0.0,267.0,,Uterine cancer
+,,,NCT00574548,,0.0,223.0,,Uterine cancer
+,,,NCT00574548,,1.0,160.0,,Uterine cancer
+,,,NCT00574548,,0.0,267.0,,Uterine cancer
+,,,NCT00574548,,0.0,223.0,,Uterine cancer
+,,,NCT00574548,,0.0,478.0,,Renal failure
+,,,NCT00574548,,0.0,237.0,,Renal failure
+,,,NCT00574548,,1.0,478.0,,Renal failure
+,,,NCT00574548,,0.0,237.0,,Renal failure
+,,,NCT00574548,,0.0,160.0,,Renal failure
+,,,NCT00574548,,0.0,267.0,,Renal failure
+,,,NCT00574548,,0.0,223.0,,Renal failure
+,,,NCT00574548,,0.0,160.0,,Renal failure
+,,,NCT00574548,,0.0,267.0,,Renal failure
+,,,NCT00574548,,0.0,223.0,,Renal failure
+,,,NCT00574548,,0.0,478.0,,Endometriosis
+,,,NCT00574548,,0.0,237.0,,Endometriosis
+,,,NCT00574548,,1.0,478.0,,Endometriosis
+,,,NCT00574548,,0.0,237.0,,Endometriosis
+,,,NCT00574548,,0.0,160.0,,Endometriosis
+,,,NCT00574548,,0.0,267.0,,Endometriosis
+,,,NCT00574548,,0.0,223.0,,Endometriosis
+,,,NCT00574548,,0.0,160.0,,Endometriosis
+,,,NCT00574548,,0.0,267.0,,Endometriosis
+,,,NCT00574548,,0.0,223.0,,Endometriosis
+,,,NCT00574548,,0.0,478.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,237.0,,Ovarian adhesion
+,,,NCT00574548,,1.0,478.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,237.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,160.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,267.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,223.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,160.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,267.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,223.0,,Ovarian adhesion
+,,,NCT00574548,,0.0,478.0,,Uterine polyp
+,,,NCT00574548,,0.0,237.0,,Uterine polyp
+,,,NCT00574548,,1.0,478.0,,Uterine polyp
+,,,NCT00574548,,0.0,237.0,,Uterine polyp
+,,,NCT00574548,,0.0,160.0,,Uterine polyp
+,,,NCT00574548,,0.0,267.0,,Uterine polyp
+,,,NCT00574548,,0.0,223.0,,Uterine polyp
+,,,NCT00574548,,0.0,160.0,,Uterine polyp
+,,,NCT00574548,,0.0,267.0,,Uterine polyp
+,,,NCT00574548,,0.0,223.0,,Uterine polyp
+,,,NCT00574548,,0.0,478.0,,Haemothorax
+,,,NCT00574548,,0.0,237.0,,Haemothorax
+,,,NCT00574548,,1.0,478.0,,Haemothorax
+,,,NCT00574548,,0.0,237.0,,Haemothorax
+,,,NCT00574548,,0.0,160.0,,Haemothorax
+,,,NCT00574548,,0.0,267.0,,Haemothorax
+,,,NCT00574548,,0.0,223.0,,Haemothorax
+,,,NCT00574548,,0.0,160.0,,Haemothorax
+,,,NCT00574548,,0.0,267.0,,Haemothorax
+,,,NCT00574548,,0.0,223.0,,Haemothorax
+,,,NCT00574548,,0.0,478.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,237.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,478.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,1.0,237.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,160.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,267.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,223.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,160.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,267.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,223.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,478.0,,Pleural effusion
+,,,NCT00574548,,0.0,237.0,,Pleural effusion
+,,,NCT00574548,,0.0,478.0,,Pleural effusion
+,,,NCT00574548,,1.0,237.0,,Pleural effusion
+,,,NCT00574548,,0.0,160.0,,Pleural effusion
+,,,NCT00574548,,0.0,267.0,,Pleural effusion
+,,,NCT00574548,,0.0,223.0,,Pleural effusion
+,,,NCT00574548,,0.0,160.0,,Pleural effusion
+,,,NCT00574548,,0.0,267.0,,Pleural effusion
+,,,NCT00574548,,0.0,223.0,,Pleural effusion
+,,,NCT00574548,,0.0,478.0,,Dyspnoea
+,,,NCT00574548,,0.0,237.0,,Dyspnoea
+,,,NCT00574548,,0.0,478.0,,Dyspnoea
+,,,NCT00574548,,0.0,237.0,,Dyspnoea
+,,,NCT00574548,,0.0,160.0,,Dyspnoea
+,,,NCT00574548,,1.0,267.0,,Dyspnoea
+,,,NCT00574548,,0.0,223.0,,Dyspnoea
+,,,NCT00574548,,0.0,160.0,,Dyspnoea
+,,,NCT00574548,,0.0,267.0,,Dyspnoea
+,,,NCT00574548,,0.0,223.0,,Dyspnoea
+,,,NCT00574548,,0.0,478.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,237.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,478.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,237.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,160.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,267.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,223.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,160.0,,Deep vein thrombosis
+,,,NCT00574548,,1.0,267.0,,Deep vein thrombosis
+,,,NCT00574548,,0.0,223.0,,Deep vein thrombosis
+,,,NCT00574548,,1.0,478.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,237.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,478.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,237.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,160.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,267.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,223.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,160.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,267.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,223.0,,Lymphadenopathy
+,,,NCT00574548,,0.0,478.0,,Anaemia
+,,,NCT00574548,,1.0,237.0,,Anaemia
+,,,NCT00574548,,1.0,478.0,,Anaemia
+,,,NCT00574548,,0.0,237.0,,Anaemia
+,,,NCT00574548,,0.0,160.0,,Anaemia
+,,,NCT00574548,,0.0,267.0,,Anaemia
+,,,NCT00574548,,0.0,223.0,,Anaemia
+,,,NCT00574548,,0.0,160.0,,Anaemia
+,,,NCT00574548,,1.0,267.0,,Anaemia
+,,,NCT00574548,,1.0,223.0,,Anaemia
+,,,NCT00574548,,0.0,478.0,,Polycythaemia
+,,,NCT00574548,,0.0,237.0,,Polycythaemia
+,,,NCT00574548,,0.0,478.0,,Polycythaemia
+,,,NCT00574548,,0.0,237.0,,Polycythaemia
+,,,NCT00574548,,0.0,160.0,,Polycythaemia
+,,,NCT00574548,,0.0,267.0,,Polycythaemia
+,,,NCT00574548,,0.0,223.0,,Polycythaemia
+,,,NCT00574548,,0.0,160.0,,Polycythaemia
+,,,NCT00574548,,1.0,267.0,,Polycythaemia
+,,,NCT00574548,,0.0,223.0,,Polycythaemia
+,,,NCT00574548,,0.0,478.0,,Cardiac failure congestive
+,,,NCT00574548,,1.0,237.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,478.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,237.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,160.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,267.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,223.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,160.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,267.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,223.0,,Cardiac failure congestive
+,,,NCT00574548,,0.0,478.0,,Coronary artery disease
+,,,NCT00574548,,1.0,237.0,,Coronary artery disease
+,,,NCT00574548,,1.0,478.0,,Coronary artery disease
+,,,NCT00574548,,0.0,237.0,,Coronary artery disease
+,,,NCT00574548,,0.0,160.0,,Coronary artery disease
+,,,NCT00574548,,0.0,267.0,,Coronary artery disease
+,,,NCT00574548,,0.0,223.0,,Coronary artery disease
+,,,NCT00574548,,0.0,160.0,,Coronary artery disease
+,,,NCT00574548,,0.0,267.0,,Coronary artery disease
+,,,NCT00574548,,0.0,223.0,,Coronary artery disease
+,,,NCT00574548,,0.0,478.0,,Angina pectoris
+,,,NCT00574548,,0.0,237.0,,Angina pectoris
+,,,NCT00574548,,1.0,478.0,,Angina pectoris
+,,,NCT00574548,,0.0,237.0,,Angina pectoris
+,,,NCT00574548,,0.0,160.0,,Angina pectoris
+,,,NCT00574548,,0.0,267.0,,Angina pectoris
+,,,NCT00574548,,0.0,223.0,,Angina pectoris
+,,,NCT00574548,,0.0,160.0,,Angina pectoris
+,,,NCT00574548,,0.0,267.0,,Angina pectoris
+,,,NCT00574548,,0.0,223.0,,Angina pectoris
+,,,NCT00574548,,0.0,478.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,237.0,,Aortic valve incompetence
+,,,NCT00574548,,1.0,478.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,237.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,160.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,267.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,223.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,160.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,267.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,223.0,,Aortic valve incompetence
+,,,NCT00574548,,0.0,478.0,,Cardiomegaly
+,,,NCT00574548,,0.0,237.0,,Cardiomegaly
+,,,NCT00574548,,0.0,478.0,,Cardiomegaly
+,,,NCT00574548,,1.0,237.0,,Cardiomegaly
+,,,NCT00574548,,0.0,160.0,,Cardiomegaly
+,,,NCT00574548,,0.0,267.0,,Cardiomegaly
+,,,NCT00574548,,0.0,223.0,,Cardiomegaly
+,,,NCT00574548,,0.0,160.0,,Cardiomegaly
+,,,NCT00574548,,0.0,267.0,,Cardiomegaly
+,,,NCT00574548,,0.0,223.0,,Cardiomegaly
+,,,NCT00574548,,0.0,478.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,237.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,478.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,237.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,160.0,,Coronary artery stenosis
+,,,NCT00574548,,1.0,267.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,223.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,160.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,267.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,223.0,,Coronary artery stenosis
+,,,NCT00574548,,0.0,478.0,,Pericardial effusion
+,,,NCT00574548,,0.0,237.0,,Pericardial effusion
+,,,NCT00574548,,0.0,478.0,,Pericardial effusion
+,,,NCT00574548,,0.0,237.0,,Pericardial effusion
+,,,NCT00574548,,0.0,160.0,,Pericardial effusion
+,,,NCT00574548,,0.0,267.0,,Pericardial effusion
+,,,NCT00574548,,0.0,223.0,,Pericardial effusion
+,,,NCT00574548,,0.0,160.0,,Pericardial effusion
+,,,NCT00574548,,1.0,267.0,,Pericardial effusion
+,,,NCT00574548,,0.0,223.0,,Pericardial effusion
+,,,NCT00574548,,0.0,478.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,237.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,478.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,237.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,160.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,267.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,223.0,,Atrioventricular block first degree
+,,,NCT00574548,,1.0,160.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,267.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,223.0,,Atrioventricular block first degree
+,,,NCT00574548,,0.0,478.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,237.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,478.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,237.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,160.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,267.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,1.0,223.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,160.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,267.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,223.0,,Mixed hyperlipidaemia
+,,,NCT00574548,,0.0,478.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,237.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,478.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,237.0,,Gastrointestinal malformation
+,,,NCT00574548,,1.0,160.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,267.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,223.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,160.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,267.0,,Gastrointestinal malformation
+,,,NCT00574548,,0.0,223.0,,Gastrointestinal malformation
+,,,NCT00574548,,1.0,478.0,,Cerumen impaction
+,,,NCT00574548,,0.0,237.0,,Cerumen impaction
+,,,NCT00574548,,0.0,478.0,,Cerumen impaction
+,,,NCT00574548,,0.0,237.0,,Cerumen impaction
+,,,NCT00574548,,0.0,160.0,,Cerumen impaction
+,,,NCT00574548,,0.0,267.0,,Cerumen impaction
+,,,NCT00574548,,0.0,223.0,,Cerumen impaction
+,,,NCT00574548,,0.0,160.0,,Cerumen impaction
+,,,NCT00574548,,0.0,267.0,,Cerumen impaction
+,,,NCT00574548,,0.0,223.0,,Cerumen impaction
+,,,NCT00574548,,1.0,478.0,,Middle ear effusion
+,,,NCT00574548,,0.0,237.0,,Middle ear effusion
+,,,NCT00574548,,0.0,478.0,,Middle ear effusion
+,,,NCT00574548,,0.0,237.0,,Middle ear effusion
+,,,NCT00574548,,0.0,160.0,,Middle ear effusion
+,,,NCT00574548,,0.0,267.0,,Middle ear effusion
+,,,NCT00574548,,0.0,223.0,,Middle ear effusion
+,,,NCT00574548,,0.0,160.0,,Middle ear effusion
+,,,NCT00574548,,0.0,267.0,,Middle ear effusion
+,,,NCT00574548,,0.0,223.0,,Middle ear effusion
+,,,NCT00574548,,0.0,478.0,,Ear pruritus
+,,,NCT00574548,,0.0,237.0,,Ear pruritus
+,,,NCT00574548,,0.0,478.0,,Ear pruritus
+,,,NCT00574548,,1.0,237.0,,Ear pruritus
+,,,NCT00574548,,0.0,160.0,,Ear pruritus
+,,,NCT00574548,,0.0,267.0,,Ear pruritus
+,,,NCT00574548,,0.0,223.0,,Ear pruritus
+,,,NCT00574548,,0.0,160.0,,Ear pruritus
+,,,NCT00574548,,0.0,267.0,,Ear pruritus
+,,,NCT00574548,,0.0,223.0,,Ear pruritus
+,,,NCT00574548,,0.0,478.0,,Vertigo positional
+,,,NCT00574548,,0.0,237.0,,Vertigo positional
+,,,NCT00574548,,0.0,478.0,,Vertigo positional
+,,,NCT00574548,,0.0,237.0,,Vertigo positional
+,,,NCT00574548,,0.0,160.0,,Vertigo positional
+,,,NCT00574548,,0.0,267.0,,Vertigo positional
+,,,NCT00574548,,0.0,223.0,,Vertigo positional
+,,,NCT00574548,,0.0,160.0,,Vertigo positional
+,,,NCT00574548,,1.0,267.0,,Vertigo positional
+,,,NCT00574548,,0.0,223.0,,Vertigo positional
+,,,NCT00574548,,0.0,478.0,,Testicular failure
+,,,NCT00574548,,0.0,237.0,,Testicular failure
+,,,NCT00574548,,0.0,478.0,,Testicular failure
+,,,NCT00574548,,0.0,237.0,,Testicular failure
+,,,NCT00574548,,0.0,160.0,,Testicular failure
+,,,NCT00574548,,0.0,267.0,,Testicular failure
+,,,NCT00574548,,1.0,223.0,,Testicular failure
+,,,NCT00574548,,0.0,160.0,,Testicular failure
+,,,NCT00574548,,0.0,267.0,,Testicular failure
+,,,NCT00574548,,0.0,223.0,,Testicular failure
+,,,NCT00574548,,0.0,478.0,,Androgen deficiency
+,,,NCT00574548,,0.0,237.0,,Androgen deficiency
+,,,NCT00574548,,0.0,478.0,,Androgen deficiency
+,,,NCT00574548,,0.0,237.0,,Androgen deficiency
+,,,NCT00574548,,0.0,160.0,,Androgen deficiency
+,,,NCT00574548,,0.0,267.0,,Androgen deficiency
+,,,NCT00574548,,0.0,223.0,,Androgen deficiency
+,,,NCT00574548,,0.0,160.0,,Androgen deficiency
+,,,NCT00574548,,0.0,267.0,,Androgen deficiency
+,,,NCT00574548,,1.0,223.0,,Androgen deficiency
+,,,NCT00574548,,0.0,478.0,,Hypothyroidism
+,,,NCT00574548,,0.0,237.0,,Hypothyroidism
+,,,NCT00574548,,0.0,478.0,,Hypothyroidism
+,,,NCT00574548,,0.0,237.0,,Hypothyroidism
+,,,NCT00574548,,0.0,160.0,,Hypothyroidism
+,,,NCT00574548,,0.0,267.0,,Hypothyroidism
+,,,NCT00574548,,0.0,223.0,,Hypothyroidism
+,,,NCT00574548,,1.0,160.0,,Hypothyroidism
+,,,NCT00574548,,0.0,267.0,,Hypothyroidism
+,,,NCT00574548,,0.0,223.0,,Hypothyroidism
+,,,NCT00574548,,1.0,478.0,,Conjunctivitis
+,,,NCT00574548,,0.0,237.0,,Conjunctivitis
+,,,NCT00574548,,0.0,478.0,,Conjunctivitis
+,,,NCT00574548,,0.0,237.0,,Conjunctivitis
+,,,NCT00574548,,0.0,160.0,,Conjunctivitis
+,,,NCT00574548,,0.0,267.0,,Conjunctivitis
+,,,NCT00574548,,0.0,223.0,,Conjunctivitis
+,,,NCT00574548,,0.0,160.0,,Conjunctivitis
+,,,NCT00574548,,0.0,267.0,,Conjunctivitis
+,,,NCT00574548,,0.0,223.0,,Conjunctivitis
+,,,NCT00574548,,1.0,478.0,,Eyelid pain
+,,,NCT00574548,,0.0,237.0,,Eyelid pain
+,,,NCT00574548,,0.0,478.0,,Eyelid pain
+,,,NCT00574548,,0.0,237.0,,Eyelid pain
+,,,NCT00574548,,0.0,160.0,,Eyelid pain
+,,,NCT00574548,,0.0,267.0,,Eyelid pain
+,,,NCT00574548,,0.0,223.0,,Eyelid pain
+,,,NCT00574548,,0.0,160.0,,Eyelid pain
+,,,NCT00574548,,0.0,267.0,,Eyelid pain
+,,,NCT00574548,,0.0,223.0,,Eyelid pain
+,,,NCT00574548,,0.0,478.0,,Glaucoma
+,,,NCT00574548,,0.0,237.0,,Glaucoma
+,,,NCT00574548,,0.0,478.0,,Glaucoma
+,,,NCT00574548,,1.0,237.0,,Glaucoma
+,,,NCT00574548,,0.0,160.0,,Glaucoma
+,,,NCT00574548,,0.0,267.0,,Glaucoma
+,,,NCT00574548,,0.0,223.0,,Glaucoma
+,,,NCT00574548,,0.0,160.0,,Glaucoma
+,,,NCT00574548,,0.0,267.0,,Glaucoma
+,,,NCT00574548,,0.0,223.0,,Glaucoma
+,,,NCT00574548,,0.0,478.0,,Eyelid irritation
+,,,NCT00574548,,0.0,237.0,,Eyelid irritation
+,,,NCT00574548,,0.0,478.0,,Eyelid irritation
+,,,NCT00574548,,0.0,237.0,,Eyelid irritation
+,,,NCT00574548,,0.0,160.0,,Eyelid irritation
+,,,NCT00574548,,1.0,267.0,,Eyelid irritation
+,,,NCT00574548,,0.0,223.0,,Eyelid irritation
+,,,NCT00574548,,0.0,160.0,,Eyelid irritation
+,,,NCT00574548,,0.0,267.0,,Eyelid irritation
+,,,NCT00574548,,0.0,223.0,,Eyelid irritation
+,,,NCT00574548,,0.0,478.0,,Maculopathy
+,,,NCT00574548,,0.0,237.0,,Maculopathy
+,,,NCT00574548,,0.0,478.0,,Maculopathy
+,,,NCT00574548,,0.0,237.0,,Maculopathy
+,,,NCT00574548,,0.0,160.0,,Maculopathy
+,,,NCT00574548,,1.0,267.0,,Maculopathy
+,,,NCT00574548,,0.0,223.0,,Maculopathy
+,,,NCT00574548,,0.0,160.0,,Maculopathy
+,,,NCT00574548,,0.0,267.0,,Maculopathy
+,,,NCT00574548,,0.0,223.0,,Maculopathy
+,,,NCT00574548,,3.0,478.0,,Nausea
+,,,NCT00574548,,2.0,237.0,,Nausea
+,,,NCT00574548,,0.0,478.0,,Nausea
+,,,NCT00574548,,0.0,237.0,,Nausea
+,,,NCT00574548,,0.0,160.0,,Nausea
+,,,NCT00574548,,0.0,267.0,,Nausea
+,,,NCT00574548,,0.0,223.0,,Nausea
+,,,NCT00574548,,0.0,160.0,,Nausea
+,,,NCT00574548,,0.0,267.0,,Nausea
+,,,NCT00574548,,0.0,22.0,,Nausea
+,,,NCT00574548,,3.0,478.0,,Diarrhoea
+,,,NCT00574548,,1.0,237.0,,Diarrhoea
+,,,NCT00574548,,0.0,478.0,,Diarrhoea
+,,,NCT00574548,,0.0,237.0,,Diarrhoea
+,,,NCT00574548,,2.0,160.0,,Diarrhoea
+,,,NCT00574548,,0.0,267.0,,Diarrhoea
+,,,NCT00574548,,0.0,223.0,,Diarrhoea
+,,,NCT00574548,,0.0,160.0,,Diarrhoea
+,,,NCT00574548,,0.0,267.0,,Diarrhoea
+,,,NCT00574548,,0.0,223.0,,Diarrhoea
+,,,NCT00574548,,2.0,478.0,,Abdominal pain
+,,,NCT00574548,,0.0,237.0,,Abdominal pain
+,,,NCT00574548,,0.0,478.0,,Abdominal pain
+,,,NCT00574548,,0.0,237.0,,Abdominal pain
+,,,NCT00574548,,0.0,160.0,,Abdominal pain
+,,,NCT00574548,,0.0,267.0,,Abdominal pain
+,,,NCT00574548,,0.0,223.0,,Abdominal pain
+,,,NCT00574548,,0.0,160.0,,Abdominal pain
+,,,NCT00574548,,0.0,267.0,,Abdominal pain
+,,,NCT00574548,,0.0,223.0,,Abdominal pain
+,,,NCT00574548,,1.0,478.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,237.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,478.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,237.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,160.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,267.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,223.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,160.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,267.0,,Abdominal pain upper
+,,,NCT00574548,,0.0,223.0,,Abdominal pain upper
+,,,NCT00574548,,1.0,478.0,,Colonic polyp
+,,,NCT00574548,,0.0,237.0,,Colonic polyp
+,,,NCT00574548,,0.0,478.0,,Colonic polyp
+,,,NCT00574548,,0.0,237.0,,Colonic polyp
+,,,NCT00574548,,0.0,160.0,,Colonic polyp
+,,,NCT00574548,,0.0,267.0,,Colonic polyp
+,,,NCT00574548,,0.0,223.0,,Colonic polyp
+,,,NCT00574548,,0.0,160.0,,Colonic polyp
+,,,NCT00574548,,0.0,267.0,,Colonic polyp
+,,,NCT00574548,,0.0,223.0,,Colonic polyp
+,,,NCT00574548,,1.0,478.0,,Dry mouth
+,,,NCT00574548,,0.0,237.0,,Dry mouth
+,,,NCT00574548,,0.0,478.0,,Dry mouth
+,,,NCT00574548,,0.0,237.0,,Dry mouth
+,,,NCT00574548,,0.0,160.0,,Dry mouth
+,,,NCT00574548,,0.0,267.0,,Dry mouth
+,,,NCT00574548,,0.0,223.0,,Dry mouth
+,,,NCT00574548,,0.0,160.0,,Dry mouth
+,,,NCT00574548,,0.0,267.0,,Dry mouth
+,,,NCT00574548,,0.0,223.0,,Dry mouth
+,,,NCT00574548,,1.0,478.0,,Gingivitis
+,,,NCT00574548,,0.0,237.0,,Gingivitis
+,,,NCT00574548,,0.0,478.0,,Gingivitis
+,,,NCT00574548,,0.0,237.0,,Gingivitis
+,,,NCT00574548,,0.0,160.0,,Gingivitis
+,,,NCT00574548,,0.0,267.0,,Gingivitis
+,,,NCT00574548,,0.0,223.0,,Gingivitis
+,,,NCT00574548,,0.0,160.0,,Gingivitis
+,,,NCT00574548,,0.0,267.0,,Gingivitis
+,,,NCT00574548,,0.0,223.0,,Gingivitis
+,,,NCT00574548,,1.0,478.0,,Haematochezia
+,,,NCT00574548,,0.0,237.0,,Haematochezia
+,,,NCT00574548,,0.0,478.0,,Haematochezia
+,,,NCT00574548,,0.0,237.0,,Haematochezia
+,,,NCT00574548,,0.0,160.0,,Haematochezia
+,,,NCT00574548,,0.0,267.0,,Haematochezia
+,,,NCT00574548,,0.0,223.0,,Haematochezia
+,,,NCT00574548,,0.0,160.0,,Haematochezia
+,,,NCT00574548,,0.0,267.0,,Haematochezia
+,,,NCT00574548,,0.0,223.0,,Haematochezia
+,,,NCT00574548,,0.0,478.0,,Constipation
+,,,NCT00574548,,1.0,237.0,,Constipation
+,,,NCT00574548,,0.0,478.0,,Constipation
+,,,NCT00574548,,0.0,237.0,,Constipation
+,,,NCT00574548,,0.0,160.0,,Constipation
+,,,NCT00574548,,0.0,267.0,,Constipation
+,,,NCT00574548,,1.0,223.0,,Constipation
+,,,NCT00574548,,1.0,160.0,,Constipation
+,,,NCT00574548,,0.0,267.0,,Constipation
+,,,NCT00574548,,0.0,223.0,,Constipation
+,,,NCT00574548,,0.0,478.0,,Dental caries
+,,,NCT00574548,,1.0,237.0,,Dental caries
+,,,NCT00574548,,0.0,478.0,,Dental caries
+,,,NCT00574548,,0.0,237.0,,Dental caries
+,,,NCT00574548,,0.0,160.0,,Dental caries
+,,,NCT00574548,,0.0,267.0,,Dental caries
+,,,NCT00574548,,0.0,223.0,,Dental caries
+,,,NCT00574548,,0.0,160.0,,Dental caries
+,,,NCT00574548,,0.0,267.0,,Dental caries
+,,,NCT00574548,,0.0,223.0,,Dental caries
+,,,NCT00574548,,0.0,478.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,0.0,237.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,1.0,478.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,1.0,237.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,0.0,160.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,0.0,267.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,1.0,223.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,1.0,160.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,1.0,267.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,0.0,223.0,,Gastrooesophageal reflux disease
+,,,NCT00574548,,0.0,478.0,,Diverticulum
+,,,NCT00574548,,0.0,237.0,,Diverticulum
+,,,NCT00574548,,2.0,478.0,,Diverticulum
+,,,NCT00574548,,0.0,237.0,,Diverticulum
+,,,NCT00574548,,0.0,160.0,,Diverticulum
+,,,NCT00574548,,0.0,267.0,,Diverticulum
+,,,NCT00574548,,0.0,223.0,,Diverticulum
+,,,NCT00574548,,0.0,160.0,,Diverticulum
+,,,NCT00574548,,1.0,267.0,,Diverticulum
+,,,NCT00574548,,0.0,223.0,,Diverticulum
+,,,NCT00574548,,0.0,478.0,,Anal fissure
+,,,NCT00574548,,0.0,237.0,,Anal fissure
+,,,NCT00574548,,1.0,478.0,,Anal fissure
+,,,NCT00574548,,0.0,237.0,,Anal fissure
+,,,NCT00574548,,0.0,160.0,,Anal fissure
+,,,NCT00574548,,0.0,267.0,,Anal fissure
+,,,NCT00574548,,0.0,223.0,,Anal fissure
+,,,NCT00574548,,0.0,160.0,,Anal fissure
+,,,NCT00574548,,0.0,267.0,,Anal fissure
+,,,NCT00574548,,0.0,223.0,,Anal fissure
+,,,NCT00574548,,0.0,478.0,,Ileus
+,,,NCT00574548,,0.0,237.0,,Ileus
+,,,NCT00574548,,1.0,478.0,,Ileus
+,,,NCT00574548,,0.0,237.0,,Ileus
+,,,NCT00574548,,0.0,160.0,,Ileus
+,,,NCT00574548,,0.0,267.0,,Ileus
+,,,NCT00574548,,0.0,223.0,,Ileus
+,,,NCT00574548,,0.0,160.0,,Ileus
+,,,NCT00574548,,0.0,267.0,,Ileus
+,,,NCT00574548,,0.0,223.0,,Ileus
+,,,NCT00574548,,0.0,478.0,,Vomiting
+,,,NCT00574548,,0.0,237.0,,Vomiting
+,,,NCT00574548,,0.0,478.0,,Vomiting
+,,,NCT00574548,,0.0,237.0,,Vomiting
+,,,NCT00574548,,1.0,160.0,,Vomiting
+,,,NCT00574548,,1.0,267.0,,Vomiting
+,,,NCT00574548,,0.0,223.0,,Vomiting
+,,,NCT00574548,,0.0,160.0,,Vomiting
+,,,NCT00574548,,0.0,267.0,,Vomiting
+,,,NCT00574548,,0.0,223.0,,Vomiting
+,,,NCT00574548,,0.0,478.0,,Malabsorption
+,,,NCT00574548,,0.0,237.0,,Malabsorption
+,,,NCT00574548,,0.0,478.0,,Malabsorption
+,,,NCT00574548,,0.0,237.0,,Malabsorption
+,,,NCT00574548,,1.0,160.0,,Malabsorption
+,,,NCT00574548,,0.0,267.0,,Malabsorption
+,,,NCT00574548,,0.0,223.0,,Malabsorption
+,,,NCT00574548,,0.0,160.0,,Malabsorption
+,,,NCT00574548,,0.0,267.0,,Malabsorption
+,,,NCT00574548,,0.0,223.0,,Malabsorption
+,,,NCT00574548,,0.0,478.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,237.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,478.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,237.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,160.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,267.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,223.0,,Diverticulum intestinal
+,,,NCT00574548,,1.0,160.0,,Diverticulum intestinal
+,,,NCT00574548,,1.0,267.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,223.0,,Diverticulum intestinal
+,,,NCT00574548,,0.0,478.0,,Ascites
+,,,NCT00574548,,0.0,237.0,,Ascites
+,,,NCT00574548,,0.0,478.0,,Ascites
+,,,NCT00574548,,0.0,237.0,,Ascites
+,,,NCT00574548,,0.0,160.0,,Ascites
+,,,NCT00574548,,0.0,267.0,,Ascites
+,,,NCT00574548,,0.0,223.0,,Ascites
+,,,NCT00574548,,0.0,160.0,,Ascites
+,,,NCT00574548,,1.0,267.0,,Ascites
+,,,NCT00574548,,0.0,223.0,,Ascites
+,,,NCT00574548,,0.0,478.0,,Dysphagia
+,,,NCT00574548,,0.0,237.0,,Dysphagia
+,,,NCT00574548,,0.0,478.0,,Dysphagia
+,,,NCT00574548,,0.0,237.0,,Dysphagia
+,,,NCT00574548,,0.0,160.0,,Dysphagia
+,,,NCT00574548,,0.0,267.0,,Dysphagia
+,,,NCT00574548,,0.0,223.0,,Dysphagia
+,,,NCT00574548,,0.0,160.0,,Dysphagia
+,,,NCT00574548,,0.0,267.0,,Dysphagia
+,,,NCT00574548,,1.0,223.0,,Dysphagia
+,,,NCT00574548,,0.0,478.0,,Crohn's disease
+,,,NCT00574548,,0.0,237.0,,Crohn's disease
+,,,NCT00574548,,0.0,478.0,,Crohn's disease
+,,,NCT00574548,,0.0,237.0,,Crohn's disease
+,,,NCT00574548,,0.0,160.0,,Crohn's disease
+,,,NCT00574548,,0.0,267.0,,Crohn's disease
+,,,NCT00574548,,0.0,223.0,,Crohn's disease
+,,,NCT00574548,,1.0,160.0,,Crohn's disease
+,,,NCT00574548,,0.0,267.0,,Crohn's disease
+,,,NCT00574548,,0.0,223.0,,Crohn's disease
+,,,NCT00574548,,0.0,478.0,,Gastritis
+,,,NCT00574548,,0.0,237.0,,Gastritis
+,,,NCT00574548,,0.0,478.0,,Gastritis
+,,,NCT00574548,,0.0,237.0,,Gastritis
+,,,NCT00574548,,0.0,160.0,,Gastritis
+,,,NCT00574548,,0.0,267.0,,Gastritis
+,,,NCT00574548,,0.0,223.0,,Gastritis
+,,,NCT00574548,,1.0,160.0,,Gastritis
+,,,NCT00574548,,0.0,267.0,,Gastritis
+,,,NCT00574548,,0.0,223.0,,Gastritis
+,,,NCT00574548,,4.0,478.0,,Injection site erythema
+,,,NCT00574548,,1.0,237.0,,Injection site erythema
+,,,NCT00574548,,0.0,478.0,,Injection site erythema
+,,,NCT00574548,,0.0,237.0,,Injection site erythema
+,,,NCT00574548,,0.0,160.0,,Injection site erythema
+,,,NCT00574548,,1.0,267.0,,Injection site erythema
+,,,NCT00574548,,0.0,223.0,,Injection site erythema
+,,,NCT00574548,,0.0,160.0,,Injection site erythema
+,,,NCT00574548,,0.0,267.0,,Injection site erythema
+,,,NCT00574548,,0.0,223.0,,Injection site erythema
+,,,NCT00574548,,3.0,478.0,,Injection site haematoma
+,,,NCT00574548,,1.0,237.0,,Injection site haematoma
+,,,NCT00574548,,0.0,478.0,,Injection site haematoma
+,,,NCT00574548,,0.0,237.0,,Injection site haematoma
+,,,NCT00574548,,1.0,160.0,,Injection site haematoma
+,,,NCT00574548,,0.0,267.0,,Injection site haematoma
+,,,NCT00574548,,2.0,223.0,,Injection site haematoma
+,,,NCT00574548,,0.0,160.0,,Injection site haematoma
+,,,NCT00574548,,0.0,267.0,,Injection site haematoma
+,,,NCT00574548,,0.0,223.0,,Injection site haematoma
+,,,NCT00574548,,2.0,478.0,,Fatigue
+,,,NCT00574548,,1.0,237.0,,Fatigue
+,,,NCT00574548,,1.0,478.0,,Fatigue
+,,,NCT00574548,,0.0,237.0,,Fatigue
+,,,NCT00574548,,1.0,160.0,,Fatigue
+,,,NCT00574548,,0.0,267.0,,Fatigue
+,,,NCT00574548,,0.0,223.0,,Fatigue
+,,,NCT00574548,,0.0,160.0,,Fatigue
+,,,NCT00574548,,1.0,267.0,,Fatigue
+,,,NCT00574548,,2.0,223.0,,Fatigue
+,,,NCT00574548,,2.0,478.0,,Injection site pain
+,,,NCT00574548,,0.0,237.0,,Injection site pain
+,,,NCT00574548,,0.0,478.0,,Injection site pain
+,,,NCT00574548,,0.0,237.0,,Injection site pain
+,,,NCT00574548,,0.0,160.0,,Injection site pain
+,,,NCT00574548,,2.0,267.0,,Injection site pain
+,,,NCT00574548,,0.0,223.0,,Injection site pain
+,,,NCT00574548,,0.0,160.0,,Injection site pain
+,,,NCT00574548,,0.0,267.0,,Injection site pain
+,,,NCT00574548,,0.0,223.0,,Injection site pain
+,,,NCT00574548,,1.0,478.0,,Chills
+,,,NCT00574548,,0.0,237.0,,Chills
+,,,NCT00574548,,0.0,478.0,,Chills
+,,,NCT00574548,,0.0,237.0,,Chills
+,,,NCT00574548,,0.0,160.0,,Chills
+,,,NCT00574548,,0.0,267.0,,Chills
+,,,NCT00574548,,0.0,223.0,,Chills
+,,,NCT00574548,,0.0,160.0,,Chills
+,,,NCT00574548,,0.0,267.0,,Chills
+,,,NCT00574548,,0.0,223.0,,Chills
+,,,NCT00574548,,1.0,478.0,,Influenza like illness
+,,,NCT00574548,,0.0,237.0,,Influenza like illness
+,,,NCT00574548,,0.0,478.0,,Influenza like illness
+,,,NCT00574548,,0.0,237.0,,Influenza like illness
+,,,NCT00574548,,0.0,160.0,,Influenza like illness
+,,,NCT00574548,,0.0,267.0,,Influenza like illness
+,,,NCT00574548,,0.0,223.0,,Influenza like illness
+,,,NCT00574548,,0.0,160.0,,Influenza like illness
+,,,NCT00574548,,0.0,267.0,,Influenza like illness
+,,,NCT00574548,,0.0,223.0,,Influenza like illness
+,,,NCT00574548,,1.0,478.0,,Injection site induration
+,,,NCT00574548,,0.0,237.0,,Injection site induration
+,,,NCT00574548,,0.0,478.0,,Injection site induration
+,,,NCT00574548,,0.0,237.0,,Injection site induration
+,,,NCT00574548,,0.0,160.0,,Injection site induration
+,,,NCT00574548,,1.0,267.0,,Injection site induration
+,,,NCT00574548,,0.0,223.0,,Injection site induration
+,,,NCT00574548,,0.0,160.0,,Injection site induration
+,,,NCT00574548,,0.0,267.0,,Injection site induration
+,,,NCT00574548,,0.0,223.0,,Injection site induration
+,,,NCT00574548,,1.0,478.0,,Injection site swelling
+,,,NCT00574548,,0.0,237.0,,Injection site swelling
+,,,NCT00574548,,0.0,478.0,,Injection site swelling
+,,,NCT00574548,,0.0,237.0,,Injection site swelling
+,,,NCT00574548,,0.0,160.0,,Injection site swelling
+,,,NCT00574548,,0.0,267.0,,Injection site swelling
+,,,NCT00574548,,0.0,223.0,,Injection site swelling
+,,,NCT00574548,,0.0,160.0,,Injection site swelling
+,,,NCT00574548,,0.0,267.0,,Injection site swelling
+,,,NCT00574548,,0.0,223.0,,Injection site swelling
+,,,NCT00574548,,1.0,478.0,,Oedema peripheral
+,,,NCT00574548,,0.0,237.0,,Oedema peripheral
+,,,NCT00574548,,0.0,478.0,,Oedema peripheral
+,,,NCT00574548,,1.0,237.0,,Oedema peripheral
+,,,NCT00574548,,0.0,160.0,,Oedema peripheral
+,,,NCT00574548,,0.0,267.0,,Oedema peripheral
+,,,NCT00574548,,0.0,223.0,,Oedema peripheral
+,,,NCT00574548,,0.0,160.0,,Oedema peripheral
+,,,NCT00574548,,0.0,267.0,,Oedema peripheral
+,,,NCT00574548,,0.0,223.0,,Oedema peripheral
+,,,NCT00574548,,0.0,478.0,,Pyrexia
+,,,NCT00574548,,1.0,237.0,,Pyrexia
+,,,NCT00574548,,0.0,478.0,,Pyrexia
+,,,NCT00574548,,0.0,237.0,,Pyrexia
+,,,NCT00574548,,0.0,160.0,,Pyrexia
+,,,NCT00574548,,0.0,267.0,,Pyrexia
+,,,NCT00574548,,0.0,223.0,,Pyrexia
+,,,NCT00574548,,0.0,160.0,,Pyrexia
+,,,NCT00574548,,0.0,267.0,,Pyrexia
+,,,NCT00574548,,0.0,223.0,,Pyrexia
+,,,NCT00574548,,0.0,478.0,,Cyst
+,,,NCT00574548,,0.0,237.0,,Cyst
+,,,NCT00574548,,0.0,478.0,,Cyst
+,,,NCT00574548,,0.0,237.0,,Cyst
+,,,NCT00574548,,0.0,160.0,,Cyst
+,,,NCT00574548,,1.0,267.0,,Cyst
+,,,NCT00574548,,0.0,223.0,,Cyst
+,,,NCT00574548,,1.0,160.0,,Cyst
+,,,NCT00574548,,0.0,267.0,,Cyst
+,,,NCT00574548,,0.0,223.0,,Cyst
+,,,NCT00574548,,0.0,478.0,,Injection site rash
+,,,NCT00574548,,0.0,237.0,,Injection site rash
+,,,NCT00574548,,0.0,478.0,,Injection site rash
+,,,NCT00574548,,0.0,237.0,,Injection site rash
+,,,NCT00574548,,0.0,160.0,,Injection site rash
+,,,NCT00574548,,1.0,267.0,,Injection site rash
+,,,NCT00574548,,0.0,223.0,,Injection site rash
+,,,NCT00574548,,0.0,160.0,,Injection site rash
+,,,NCT00574548,,0.0,267.0,,Injection site rash
+,,,NCT00574548,,0.0,223.0,,Injection site rash
+,,,NCT00574548,,0.0,478.0,,Cholelithiasis
+,,,NCT00574548,,0.0,237.0,,Cholelithiasis
+,,,NCT00574548,,0.0,478.0,,Cholelithiasis
+,,,NCT00574548,,0.0,237.0,,Cholelithiasis
+,,,NCT00574548,,0.0,160.0,,Cholelithiasis
+,,,NCT00574548,,0.0,267.0,,Cholelithiasis
+,,,NCT00574548,,0.0,223.0,,Cholelithiasis
+,,,NCT00574548,,1.0,160.0,,Cholelithiasis
+,,,NCT00574548,,0.0,267.0,,Cholelithiasis
+,,,NCT00574548,,1.0,223.0,,Cholelithiasis
+,,,NCT00574548,,1.0,478.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,237.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,478.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,237.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,160.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,267.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,223.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,160.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,267.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,223.0,,Allergy to vaccine
+,,,NCT00574548,,0.0,478.0,,Drug hypersensitivity
+,,,NCT00574548,,0.0,237.0,,Drug hypersensitivity
+,,,NCT00574548,,0.0,478.0,,Drug hypersensitivity
+,,,NCT00574548,,0.0,237.0,,Drug hypersensitivity
+,,,NCT00574548,,0.0,160.0,,Drug hypersensitivity
+,,,NCT00574548,,0.0,267.0,,Drug hypersensitivity
+,,,NCT00574548,,1.0,223.0,,Drug hypersensitivity
+,,,NCT00574548,,1.0,160.0,,Drug hypersensitivity
+,,,NCT00574548,,0.0,267.0,,Drug hypersensitivity
+,,,NCT00574548,,0.0,223.0,,Drug hypersensitivity
+,,,NCT00574548,,9.0,478.0,,Nasopharyngitis
+,,,NCT00574548,,6.0,237.0,,Nasopharyngitis
+,,,NCT00574548,,0.0,478.0,,Nasopharyngitis
+,,,NCT00574548,,1.0,237.0,,Nasopharyngitis
+,,,NCT00574548,,4.0,160.0,,Nasopharyngitis
+,,,NCT00574548,,4.0,267.0,,Nasopharyngitis
+,,,NCT00574548,,1.0,223.0,,Nasopharyngitis
+,,,NCT00574548,,0.0,160.0,,Nasopharyngitis
+,,,NCT00574548,,0.0,267.0,,Nasopharyngitis
+,,,NCT00574548,,0.0,223.0,,Nasopharyngitis
+,,,NCT00574548,,7.0,478.0,,Upper respiratory tract infection
+,,,NCT00574548,,8.0,237.0,,Upper respiratory tract infection
+,,,NCT00574548,,1.0,478.0,,Upper respiratory tract infection
+,,,NCT00574548,,0.0,237.0,,Upper respiratory tract infection
+,,,NCT00574548,,2.0,160.0,,Upper respiratory tract infection
+,,,NCT00574548,,6.0,267.0,,Upper respiratory tract infection
+,,,NCT00574548,,2.0,223.0,,Upper respiratory tract infection
+,,,NCT00574548,,0.0,160.0,,Upper respiratory tract infection
+,,,NCT00574548,,0.0,267.0,,Upper respiratory tract infection
+,,,NCT00574548,,0.0,223.0,,Upper respiratory tract infection
+,,,NCT00574548,,7.0,478.0,,Influenza
+,,,NCT00574548,,2.0,237.0,,Influenza
+,,,NCT00574548,,0.0,478.0,,Influenza
+,,,NCT00574548,,0.0,237.0,,Influenza
+,,,NCT00574548,,1.0,160.0,,Influenza
+,,,NCT00574548,,0.0,267.0,,Influenza
+,,,NCT00574548,,0.0,223.0,,Influenza
+,,,NCT00574548,,0.0,160.0,,Influenza
+,,,NCT00574548,,0.0,267.0,,Influenza
+,,,NCT00574548,,0.0,223.0,,Influenza
+,,,NCT00574548,,6.0,478.0,,Sinusitis
+,,,NCT00574548,,1.0,237.0,,Sinusitis
+,,,NCT00574548,,0.0,478.0,,Sinusitis
+,,,NCT00574548,,1.0,237.0,,Sinusitis
+,,,NCT00574548,,3.0,160.0,,Sinusitis
+,,,NCT00574548,,3.0,267.0,,Sinusitis
+,,,NCT00574548,,0.0,223.0,,Sinusitis
+,,,NCT00574548,,0.0,160.0,,Sinusitis
+,,,NCT00574548,,0.0,267.0,,Sinusitis
+,,,NCT00574548,,0.0,223.0,,Sinusitis
+,,,NCT00574548,,4.0,478.0,,Bronchitis
+,,,NCT00574548,,2.0,237.0,,Bronchitis
+,,,NCT00574548,,0.0,478.0,,Bronchitis
+,,,NCT00574548,,0.0,237.0,,Bronchitis
+,,,NCT00574548,,1.0,160.0,,Bronchitis
+,,,NCT00574548,,4.0,267.0,,Bronchitis
+,,,NCT00574548,,3.0,223.0,,Bronchitis
+,,,NCT00574548,,1.0,160.0,,Bronchitis
+,,,NCT00574548,,1.0,267.0,,Bronchitis
+,,,NCT00574548,,0.0,223.0,,Bronchitis
+,,,NCT00574548,,2.0,478.0,,Gastroenteritis viral
+,,,NCT00574548,,1.0,237.0,,Gastroenteritis viral
+,,,NCT00574548,,0.0,478.0,,Gastroenteritis viral
+,,,NCT00574548,,1.0,237.0,,Gastroenteritis viral
+,,,NCT00574548,,0.0,160.0,,Gastroenteritis viral
+,,,NCT00574548,,0.0,267.0,,Gastroenteritis viral
+,,,NCT00574548,,0.0,223.0,,Gastroenteritis viral
+,,,NCT00574548,,0.0,160.0,,Gastroenteritis viral
+,,,NCT00574548,,0.0,267.0,,Gastroenteritis viral
+,,,NCT00574548,,0.0,223.0,,Gastroenteritis viral
+,,,NCT00574548,,3.0,478.0,,Herpes zoster
+,,,NCT00574548,,0.0,237.0,,Herpes zoster
+,,,NCT00574548,,0.0,478.0,,Herpes zoster
+,,,NCT00574548,,0.0,237.0,,Herpes zoster
+,,,NCT00574548,,0.0,160.0,,Herpes zoster
+,,,NCT00574548,,0.0,267.0,,Herpes zoster
+,,,NCT00574548,,0.0,223.0,,Herpes zoster
+,,,NCT00574548,,0.0,160.0,,Herpes zoster
+,,,NCT00574548,,0.0,267.0,,Herpes zoster
+,,,NCT00574548,,0.0,223.0,,Herpes zoster
+,,,NCT00574548,,1.0,478.0,,Pharyngitis streptococcal
+,,,NCT00574548,,1.0,237.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,478.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,237.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,160.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,267.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,223.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,160.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,267.0,,Pharyngitis streptococcal
+,,,NCT00574548,,0.0,223.0,,Pharyngitis streptococcal
+,,,NCT00574548,,1.0,478.0,,Viral infection
+,,,NCT00574548,,1.0,237.0,,Viral infection
+,,,NCT00574548,,2.0,478.0,,Viral infection
+,,,NCT00574548,,0.0,237.0,,Viral infection
+,,,NCT00574548,,0.0,160.0,,Viral infection
+,,,NCT00574548,,0.0,267.0,,Viral infection
+,,,NCT00574548,,0.0,223.0,,Viral infection
+,,,NCT00574548,,0.0,160.0,,Viral infection
+,,,NCT00574548,,0.0,267.0,,Viral infection
+,,,NCT00574548,,0.0,223.0,,Viral infection
+,,,NCT00574548,,0.0,478.0,,Acute sinusitis
+,,,NCT00574548,,2.0,237.0,,Acute sinusitis
+,,,NCT00574548,,0.0,478.0,,Acute sinusitis
+,,,NCT00574548,,0.0,237.0,,Acute sinusitis
+,,,NCT00574548,,0.0,160.0,,Acute sinusitis
+,,,NCT00574548,,0.0,267.0,,Acute sinusitis
+,,,NCT00574548,,1.0,223.0,,Acute sinusitis
+,,,NCT00574548,,0.0,160.0,,Acute sinusitis
+,,,NCT00574548,,0.0,267.0,,Acute sinusitis
+,,,NCT00574548,,0.0,223.0,,Acute sinusitis
+,,,NCT00574548,,0.0,478.0,,Gastroenteritis
+,,,NCT00574548,,2.0,237.0,,Gastroenteritis
+,,,NCT00574548,,0.0,478.0,,Gastroenteritis
+,,,NCT00574548,,0.0,237.0,,Gastroenteritis
+,,,NCT00574548,,0.0,160.0,,Gastroenteritis
+,,,NCT00574548,,0.0,267.0,,Gastroenteritis
+,,,NCT00574548,,0.0,223.0,,Gastroenteritis
+,,,NCT00574548,,0.0,160.0,,Gastroenteritis
+,,,NCT00574548,,0.0,267.0,,Gastroenteritis
+,,,NCT00574548,,0.0,223.0,,Gastroenteritis
+,,,NCT00574548,,1.0,478.0,,Otitis media
+,,,NCT00574548,,0.0,237.0,,Otitis media
+,,,NCT00574548,,0.0,478.0,,Otitis media
+,,,NCT00574548,,0.0,237.0,,Otitis media
+,,,NCT00574548,,1.0,160.0,,Otitis media
+,,,NCT00574548,,1.0,267.0,,Otitis media
+,,,NCT00574548,,0.0,223.0,,Otitis media
+,,,NCT00574548,,0.0,160.0,,Otitis media
+,,,NCT00574548,,0.0,267.0,,Otitis media
+,,,NCT00574548,,0.0,223.0,,Otitis media
+,,,NCT00574548,,1.0,478.0,,Tooth infection
+,,,NCT00574548,,0.0,237.0,,Tooth infection
+,,,NCT00574548,,0.0,478.0,,Tooth infection
+,,,NCT00574548,,0.0,237.0,,Tooth infection
+,,,NCT00574548,,0.0,160.0,,Tooth infection
+,,,NCT00574548,,1.0,267.0,,Tooth infection
+,,,NCT00574548,,0.0,223.0,,Tooth infection
+,,,NCT00574548,,0.0,160.0,,Tooth infection
+,,,NCT00574548,,0.0,267.0,,Tooth infection
+,,,NCT00574548,,0.0,223.0,,Tooth infection
+,,,NCT00574548,,0.0,478.0,,Lower respiratory tract infection
+,,,NCT00574548,,1.0,237.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,478.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,237.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,160.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,267.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,223.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,160.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,267.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,223.0,,Lower respiratory tract infection
+,,,NCT00574548,,0.0,478.0,,Onychomycosis
+,,,NCT00574548,,1.0,237.0,,Onychomycosis
+,,,NCT00574548,,1.0,478.0,,Onychomycosis
+,,,NCT00574548,,0.0,237.0,,Onychomycosis
+,,,NCT00574548,,0.0,160.0,,Onychomycosis
+,,,NCT00574548,,0.0,267.0,,Onychomycosis
+,,,NCT00574548,,0.0,223.0,,Onychomycosis
+,,,NCT00574548,,0.0,160.0,,Onychomycosis
+,,,NCT00574548,,0.0,267.0,,Onychomycosis
+,,,NCT00574548,,0.0,223.0,,Onychomycosis
+,,,NCT00574548,,0.0,478.0,,Pneumonia
+,,,NCT00574548,,1.0,237.0,,Pneumonia
+,,,NCT00574548,,0.0,478.0,,Pneumonia
+,,,NCT00574548,,0.0,237.0,,Pneumonia
+,,,NCT00574548,,0.0,160.0,,Pneumonia
+,,,NCT00574548,,0.0,267.0,,Pneumonia
+,,,NCT00574548,,0.0,223.0,,Pneumonia
+,,,NCT00574548,,0.0,160.0,,Pneumonia
+,,,NCT00574548,,0.0,267.0,,Pneumonia
+,,,NCT00574548,,0.0,223.0,,Pneumonia
+,,,NCT00574548,,0.0,478.0,,Respiratory tract infection
+,,,NCT00574548,,1.0,237.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,478.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,237.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,160.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,267.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,223.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,160.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,267.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,223.0,,Respiratory tract infection
+,,,NCT00574548,,0.0,478.0,,Rhinitis
+,,,NCT00574548,,1.0,237.0,,Rhinitis
+,,,NCT00574548,,0.0,478.0,,Rhinitis
+,,,NCT00574548,,0.0,237.0,,Rhinitis
+,,,NCT00574548,,0.0,160.0,,Rhinitis
+,,,NCT00574548,,0.0,267.0,,Rhinitis
+,,,NCT00574548,,0.0,223.0,,Rhinitis
+,,,NCT00574548,,0.0,160.0,,Rhinitis
+,,,NCT00574548,,0.0,267.0,,Rhinitis
+,,,NCT00574548,,0.0,223.0,,Rhinitis
+,,,NCT00574548,,0.0,478.0,,Tooth abscess
+,,,NCT00574548,,1.0,237.0,,Tooth abscess
+,,,NCT00574548,,0.0,478.0,,Tooth abscess
+,,,NCT00574548,,0.0,237.0,,Tooth abscess
+,,,NCT00574548,,0.0,160.0,,Tooth abscess
+,,,NCT00574548,,0.0,267.0,,Tooth abscess
+,,,NCT00574548,,1.0,223.0,,Tooth abscess
+,,,NCT00574548,,0.0,160.0,,Tooth abscess
+,,,NCT00574548,,0.0,267.0,,Tooth abscess
+,,,NCT00574548,,0.0,223.0,,Tooth abscess
+,,,NCT00574548,,0.0,478.0,,Cystitis
+,,,NCT00574548,,0.0,237.0,,Cystitis
+,,,NCT00574548,,1.0,478.0,,Cystitis
+,,,NCT00574548,,0.0,237.0,,Cystitis
+,,,NCT00574548,,0.0,160.0,,Cystitis
+,,,NCT00574548,,0.0,267.0,,Cystitis
+,,,NCT00574548,,0.0,223.0,,Cystitis
+,,,NCT00574548,,0.0,160.0,,Cystitis
+,,,NCT00574548,,0.0,267.0,,Cystitis
+,,,NCT00574548,,0.0,223.0,,Cystitis
+,,,NCT00574548,,0.0,478.0,,Ear infection
+,,,NCT00574548,,0.0,237.0,,Ear infection
+,,,NCT00574548,,1.0,478.0,,Ear infection
+,,,NCT00574548,,0.0,237.0,,Ear infection
+,,,NCT00574548,,0.0,160.0,,Ear infection
+,,,NCT00574548,,0.0,267.0,,Ear infection
+,,,NCT00574548,,0.0,223.0,,Ear infection
+,,,NCT00574548,,0.0,160.0,,Ear infection
+,,,NCT00574548,,0.0,267.0,,Ear infection
+,,,NCT00574548,,0.0,223.0,,Ear infection
+,,,NCT00574548,,0.0,478.0,,Vaginal infection
+,,,NCT00574548,,0.0,237.0,,Vaginal infection
+,,,NCT00574548,,1.0,478.0,,Vaginal infection
+,,,NCT00574548,,0.0,237.0,,Vaginal infection
+,,,NCT00574548,,0.0,160.0,,Vaginal infection
+,,,NCT00574548,,0.0,267.0,,Vaginal infection
+,,,NCT00574548,,0.0,223.0,,Vaginal infection
+,,,NCT00574548,,0.0,160.0,,Vaginal infection
+,,,NCT00574548,,0.0,267.0,,Vaginal infection
+,,,NCT00574548,,0.0,223.0,,Vaginal infection
+,,,NCT00574548,,0.0,478.0,,Wound infection
+,,,NCT00574548,,0.0,237.0,,Wound infection
+,,,NCT00574548,,1.0,478.0,,Wound infection
+,,,NCT00574548,,0.0,237.0,,Wound infection
+,,,NCT00574548,,0.0,160.0,,Wound infection
+,,,NCT00574548,,0.0,267.0,,Wound infection
+,,,NCT00574548,,0.0,223.0,,Wound infection
+,,,NCT00574548,,0.0,160.0,,Wound infection
+,,,NCT00574548,,0.0,267.0,,Wound infection
+,,,NCT00574548,,0.0,223.0,,Wound infection
+,,,NCT00574548,,0.0,478.0,,Urinary tract infection
+,,,NCT00574548,,0.0,237.0,,Urinary tract infection
+,,,NCT00574548,,0.0,478.0,,Urinary tract infection
+,,,NCT00574548,,0.0,237.0,,Urinary tract infection
+,,,NCT00574548,,0.0,160.0,,Urinary tract infection
+,,,NCT00574548,,2.0,267.0,,Urinary tract infection
+,,,NCT00574548,,1.0,223.0,,Urinary tract infection
+,,,NCT00574548,,0.0,160.0,,Urinary tract infection
+,,,NCT00574548,,0.0,267.0,,Urinary tract infection
+,,,NCT00574548,,0.0,223.0,,Urinary tract infection
+,,,NCT00574548,,0.0,478.0,,Pharyngitis
+,,,NCT00574548,,0.0,237.0,,Pharyngitis
+,,,NCT00574548,,0.0,478.0,,Pharyngitis
+,,,NCT00574548,,0.0,237.0,,Pharyngitis
+,,,NCT00574548,,0.0,160.0,,Pharyngitis
+,,,NCT00574548,,1.0,267.0,,Pharyngitis
+,,,NCT00574548,,0.0,223.0,,Pharyngitis
+,,,NCT00574548,,0.0,160.0,,Pharyngitis
+,,,NCT00574548,,0.0,267.0,,Pharyngitis
+,,,NCT00574548,,0.0,223.0,,Pharyngitis
+,,,NCT00574548,,0.0,478.0,,Laryngitis
+,,,NCT00574548,,0.0,237.0,,Laryngitis
+,,,NCT00574548,,0.0,478.0,,Laryngitis
+,,,NCT00574548,,0.0,237.0,,Laryngitis
+,,,NCT00574548,,0.0,160.0,,Laryngitis
+,,,NCT00574548,,0.0,267.0,,Laryngitis
+,,,NCT00574548,,1.0,223.0,,Laryngitis
+,,,NCT00574548,,0.0,160.0,,Laryngitis
+,,,NCT00574548,,0.0,267.0,,Laryngitis
+,,,NCT00574548,,0.0,223.0,,Laryngitis
+,,,NCT00574548,,0.0,478.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,237.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,478.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,237.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,160.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,267.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,223.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,160.0,,Infectious mononucleosis
+,,,NCT00574548,,0.0,267.0,,Infectious mononucleosis
+,,,NCT00574548,,1.0,223.0,,Infectious mononucleosis
+,,,NCT00574548,,2.0,478.0,,Fall
+,,,NCT00574548,,0.0,237.0,,Fall
+,,,NCT00574548,,0.0,478.0,,Fall
+,,,NCT00574548,,0.0,237.0,,Fall
+,,,NCT00574548,,0.0,160.0,,Fall
+,,,NCT00574548,,1.0,267.0,,Fall
+,,,NCT00574548,,0.0,223.0,,Fall
+,,,NCT00574548,,0.0,160.0,,Fall
+,,,NCT00574548,,0.0,267.0,,Fall
+,,,NCT00574548,,0.0,223.0,,Fall
+,,,NCT00574548,,1.0,478.0,,Skin laceration
+,,,NCT00574548,,0.0,237.0,,Skin laceration
+,,,NCT00574548,,1.0,478.0,,Skin laceration
+,,,NCT00574548,,0.0,237.0,,Skin laceration
+,,,NCT00574548,,0.0,160.0,,Skin laceration
+,,,NCT00574548,,0.0,267.0,,Skin laceration
+,,,NCT00574548,,1.0,223.0,,Skin laceration
+,,,NCT00574548,,0.0,160.0,,Skin laceration
+,,,NCT00574548,,0.0,267.0,,Skin laceration
+,,,NCT00574548,,0.0,223.0,,Skin laceration
+,,,NCT00574548,,1.0,478.0,,Vascular injury
+,,,NCT00574548,,0.0,237.0,,Vascular injury
+,,,NCT00574548,,0.0,478.0,,Vascular injury
+,,,NCT00574548,,0.0,237.0,,Vascular injury
+,,,NCT00574548,,0.0,160.0,,Vascular injury
+,,,NCT00574548,,0.0,267.0,,Vascular injury
+,,,NCT00574548,,0.0,223.0,,Vascular injury
+,,,NCT00574548,,0.0,160.0,,Vascular injury
+,,,NCT00574548,,0.0,267.0,,Vascular injury
+,,,NCT00574548,,0.0,223.0,,Vascular injury
+,,,NCT00574548,,0.0,478.0,,Foot fracture
+,,,NCT00574548,,1.0,237.0,,Foot fracture
+,,,NCT00574548,,0.0,478.0,,Foot fracture
+,,,NCT00574548,,0.0,237.0,,Foot fracture
+,,,NCT00574548,,0.0,160.0,,Foot fracture
+,,,NCT00574548,,0.0,267.0,,Foot fracture
+,,,NCT00574548,,0.0,223.0,,Foot fracture
+,,,NCT00574548,,0.0,160.0,,Foot fracture
+,,,NCT00574548,,0.0,267.0,,Foot fracture
+,,,NCT00574548,,0.0,223.0,,Foot fracture
+,,,NCT00574548,,0.0,478.0,,Joint sprain
+,,,NCT00574548,,0.0,237.0,,Joint sprain
+,,,NCT00574548,,1.0,478.0,,Joint sprain
+,,,NCT00574548,,0.0,237.0,,Joint sprain
+,,,NCT00574548,,0.0,160.0,,Joint sprain
+,,,NCT00574548,,0.0,267.0,,Joint sprain
+,,,NCT00574548,,0.0,223.0,,Joint sprain
+,,,NCT00574548,,0.0,160.0,,Joint sprain
+,,,NCT00574548,,0.0,267.0,,Joint sprain
+,,,NCT00574548,,1.0,223.0,,Joint sprain
+,,,NCT00574548,,0.0,478.0,,Excoriation
+,,,NCT00574548,,0.0,237.0,,Excoriation
+,,,NCT00574548,,0.0,478.0,,Excoriation
+,,,NCT00574548,,0.0,237.0,,Excoriation
+,,,NCT00574548,,0.0,160.0,,Excoriation
+,,,NCT00574548,,1.0,267.0,,Excoriation
+,,,NCT00574548,,0.0,223.0,,Excoriation
+,,,NCT00574548,,0.0,160.0,,Excoriation
+,,,NCT00574548,,0.0,267.0,,Excoriation
+,,,NCT00574548,,0.0,223.0,,Excoriation
+,,,NCT00574548,,0.0,478.0,,Muscle strain
+,,,NCT00574548,,0.0,237.0,,Muscle strain
+,,,NCT00574548,,0.0,478.0,,Muscle strain
+,,,NCT00574548,,0.0,237.0,,Muscle strain
+,,,NCT00574548,,0.0,160.0,,Muscle strain
+,,,NCT00574548,,1.0,267.0,,Muscle strain
+,,,NCT00574548,,0.0,223.0,,Muscle strain
+,,,NCT00574548,,0.0,160.0,,Muscle strain
+,,,NCT00574548,,0.0,267.0,,Muscle strain
+,,,NCT00574548,,0.0,223.0,,Muscle strain
+,,,NCT00574548,,0.0,478.0,,Procedural pain
+,,,NCT00574548,,0.0,237.0,,Procedural pain
+,,,NCT00574548,,0.0,478.0,,Procedural pain
+,,,NCT00574548,,0.0,237.0,,Procedural pain
+,,,NCT00574548,,0.0,160.0,,Procedural pain
+,,,NCT00574548,,1.0,267.0,,Procedural pain
+,,,NCT00574548,,0.0,223.0,,Procedural pain
+,,,NCT00574548,,0.0,160.0,,Procedural pain
+,,,NCT00574548,,0.0,267.0,,Procedural pain
+,,,NCT00574548,,0.0,223.0,,Procedural pain
+,,,NCT00574548,,0.0,478.0,,Upper limb fracture
+,,,NCT00574548,,0.0,237.0,,Upper limb fracture
+,,,NCT00574548,,0.0,478.0,,Upper limb fracture
+,,,NCT00574548,,0.0,237.0,,Upper limb fracture
+,,,NCT00574548,,0.0,160.0,,Upper limb fracture
+,,,NCT00574548,,1.0,267.0,,Upper limb fracture
+,,,NCT00574548,,0.0,223.0,,Upper limb fracture
+,,,NCT00574548,,0.0,160.0,,Upper limb fracture
+,,,NCT00574548,,0.0,267.0,,Upper limb fracture
+,,,NCT00574548,,0.0,223.0,,Upper limb fracture
+,,,NCT00574548,,0.0,478.0,,Avulsion fracture
+,,,NCT00574548,,0.0,237.0,,Avulsion fracture
+,,,NCT00574548,,0.0,478.0,,Avulsion fracture
+,,,NCT00574548,,0.0,237.0,,Avulsion fracture
+,,,NCT00574548,,0.0,160.0,,Avulsion fracture
+,,,NCT00574548,,0.0,267.0,,Avulsion fracture
+,,,NCT00574548,,1.0,223.0,,Avulsion fracture
+,,,NCT00574548,,0.0,160.0,,Avulsion fracture
+,,,NCT00574548,,0.0,267.0,,Avulsion fracture
+,,,NCT00574548,,0.0,223.0,,Avulsion fracture
+,,,NCT00574548,,0.0,478.0,,Limb injury
+,,,NCT00574548,,0.0,237.0,,Limb injury
+,,,NCT00574548,,0.0,478.0,,Limb injury
+,,,NCT00574548,,0.0,237.0,,Limb injury
+,,,NCT00574548,,0.0,160.0,,Limb injury
+,,,NCT00574548,,0.0,267.0,,Limb injury
+,,,NCT00574548,,1.0,223.0,,Limb injury
+,,,NCT00574548,,0.0,160.0,,Limb injury
+,,,NCT00574548,,0.0,267.0,,Limb injury
+,,,NCT00574548,,0.0,223.0,,Limb injury
+,,,NCT00574548,,0.0,478.0,,Meniscus lesion
+,,,NCT00574548,,0.0,237.0,,Meniscus lesion
+,,,NCT00574548,,0.0,478.0,,Meniscus lesion
+,,,NCT00574548,,0.0,237.0,,Meniscus lesion
+,,,NCT00574548,,0.0,160.0,,Meniscus lesion
+,,,NCT00574548,,0.0,267.0,,Meniscus lesion
+,,,NCT00574548,,1.0,223.0,,Meniscus lesion
+,,,NCT00574548,,0.0,160.0,,Meniscus lesion
+,,,NCT00574548,,0.0,267.0,,Meniscus lesion
+,,,NCT00574548,,1.0,223.0,,Meniscus lesion
+,,,NCT00574548,,1.0,478.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,237.0,,Blood cholesterol increased
+,,,NCT00574548,,2.0,478.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,237.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,160.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,267.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,223.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,160.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,267.0,,Blood cholesterol increased
+,,,NCT00574548,,0.0,223.0,,Blood cholesterol increased
+,,,NCT00574548,,1.0,478.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,237.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,478.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,237.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,160.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,267.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,223.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,160.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,267.0,,Blood pressure decreased
+,,,NCT00574548,,0.0,223.0,,Blood pressure decreased
+,,,NCT00574548,,1.0,478.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,237.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,478.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,237.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,160.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,267.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,223.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,160.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,267.0,,Blood triglycerides increased
+,,,NCT00574548,,0.0,223.0,,Blood triglycerides increased
+,,,NCT00574548,,1.0,478.0,,Body temperature decreased
+,,,NCT00574548,,0.0,237.0,,Body temperature decreased
+,,,NCT00574548,,0.0,478.0,,Body temperature decreased
+,,,NCT00574548,,0.0,237.0,,Body temperature decreased
+,,,NCT00574548,,0.0,160.0,,Body temperature decreased
+,,,NCT00574548,,0.0,267.0,,Body temperature decreased
+,,,NCT00574548,,0.0,223.0,,Body temperature decreased
+,,,NCT00574548,,0.0,160.0,,Body temperature decreased
+,,,NCT00574548,,0.0,267.0,,Body temperature decreased
+,,,NCT00574548,,0.0,223.0,,Body temperature decreased
+,,,NCT00574548,,1.0,478.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,237.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,478.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,237.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,160.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,267.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,223.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,160.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,267.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,223.0,,Haemoglobin increased
+,,,NCT00574548,,0.0,478.0,,Blood pressure increased
+,,,NCT00574548,,1.0,237.0,,Blood pressure increased
+,,,NCT00574548,,0.0,478.0,,Blood pressure increased
+,,,NCT00574548,,0.0,237.0,,Blood pressure increased
+,,,NCT00574548,,0.0,160.0,,Blood pressure increased
+,,,NCT00574548,,0.0,267.0,,Blood pressure increased
+,,,NCT00574548,,0.0,223.0,,Blood pressure increased
+,,,NCT00574548,,0.0,160.0,,Blood pressure increased
+,,,NCT00574548,,0.0,267.0,,Blood pressure increased
+,,,NCT00574548,,0.0,223.0,,Blood pressure increased
+,,,NCT00574548,,0.0,478.0,,Weight increased
+,,,NCT00574548,,0.0,237.0,,Weight increased
+,,,NCT00574548,,1.0,478.0,,Weight increased
+,,,NCT00574548,,0.0,237.0,,Weight increased
+,,,NCT00574548,,0.0,160.0,,Weight increased
+,,,NCT00574548,,0.0,267.0,,Weight increased
+,,,NCT00574548,,0.0,223.0,,Weight increased
+,,,NCT00574548,,0.0,160.0,,Weight increased
+,,,NCT00574548,,0.0,267.0,,Weight increased
+,,,NCT00574548,,0.0,223.0,,Weight increased
+,,,NCT00574548,,0.0,478.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,237.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,478.0,,Blood testosterone decreased
+,,,NCT00574548,,1.0,237.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,160.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,267.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,223.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,160.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,267.0,,Blood testosterone decreased
+,,,NCT00574548,,0.0,223.0,,Blood testosterone decreased
+,,,NCT00574548,,1.0,478.0,,Diabetic foot
+,,,NCT00574548,,0.0,237.0,,Diabetic foot
+,,,NCT00574548,,0.0,478.0,,Diabetic foot
+,,,NCT00574548,,0.0,237.0,,Diabetic foot
+,,,NCT00574548,,0.0,160.0,,Diabetic foot
+,,,NCT00574548,,0.0,267.0,,Diabetic foot
+,,,NCT00574548,,0.0,223.0,,Diabetic foot
+,,,NCT00574548,,0.0,160.0,,Diabetic foot
+,,,NCT00574548,,0.0,267.0,,Diabetic foot
+,,,NCT00574548,,0.0,223.0,,Diabetic foot
+,,,NCT00574548,,0.0,478.0,,Hypomagnesaemia
+,,,NCT00574548,,1.0,237.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,478.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,237.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,160.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,267.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,223.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,160.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,267.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,223.0,,Hypomagnesaemia
+,,,NCT00574548,,0.0,478.0,,Hypercholesterolaemia
+,,,NCT00574548,,0.0,237.0,,Hypercholesterolaemia
+,,,NCT00574548,,4.0,478.0,,Hypercholesterolaemia
+,,,NCT00574548,,3.0,237.0,,Hypercholesterolaemia
+,,,NCT00574548,,1.0,160.0,,Hypercholesterolaemia
+,,,NCT00574548,,0.0,267.0,,Hypercholesterolaemia
+,,,NCT00574548,,0.0,223.0,,Hypercholesterolaemia
+,,,NCT00574548,,2.0,160.0,,Hypercholesterolaemia
+,,,NCT00574548,,0.0,267.0,,Hypercholesterolaemia
+,,,NCT00574548,,1.0,223.0,,Hypercholesterolaemia
+,,,NCT00574548,,0.0,478.0,,Gout
+,,,NCT00574548,,0.0,237.0,,Gout
+,,,NCT00574548,,1.0,478.0,,Gout
+,,,NCT00574548,,1.0,237.0,,Gout
+,,,NCT00574548,,0.0,160.0,,Gout
+,,,NCT00574548,,1.0,267.0,,Gout
+,,,NCT00574548,,0.0,223.0,,Gout
+,,,NCT00574548,,0.0,160.0,,Gout
+,,,NCT00574548,,0.0,267.0,,Gout
+,,,NCT00574548,,0.0,223.0,,Gout
+,,,NCT00574548,,0.0,478.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,237.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,478.0,,Hyperlipidaemia
+,,,NCT00574548,,1.0,237.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,160.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,267.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,223.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,160.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,267.0,,Hyperlipidaemia
+,,,NCT00574548,,2.0,223.0,,Hyperlipidaemia
+,,,NCT00574548,,0.0,478.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,0.0,237.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,0.0,478.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,1.0,237.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,1.0,160.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,0.0,267.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,0.0,223.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,0.0,160.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,0.0,267.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,1.0,223.0,,Type 2 diabetes mellitus
+,,,NCT00574548,,0.0,478.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,237.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,478.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,237.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,160.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,267.0,,Diabetes mellitus
+,,,NCT00574548,,1.0,223.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,160.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,267.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,223.0,,Diabetes mellitus
+,,,NCT00574548,,0.0,478.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,237.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,478.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,237.0,,Vitamin B12 deficiency
+,,,NCT00574548,,1.0,160.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,267.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,223.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,160.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,267.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,223.0,,Vitamin B12 deficiency
+,,,NCT00574548,,0.0,478.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,237.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,478.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,237.0,,Vitamin D deficiency
+,,,NCT00574548,,1.0,160.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,267.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,223.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,160.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,267.0,,Vitamin D deficiency
+,,,NCT00574548,,1.0,223.0,,Vitamin D deficiency
+,,,NCT00574548,,0.0,478.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,237.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,478.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,237.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,160.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,267.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,223.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,160.0,,Dyslipidaemia
+,,,NCT00574548,,1.0,267.0,,Dyslipidaemia
+,,,NCT00574548,,0.0,223.0,,Dyslipidaemia
+,,,NCT00574548,,2.0,478.0,,Arthralgia
+,,,NCT00574548,,2.0,237.0,,Arthralgia
+,,,NCT00574548,,0.0,478.0,,Arthralgia
+,,,NCT00574548,,0.0,237.0,,Arthralgia
+,,,NCT00574548,,0.0,160.0,,Arthralgia
+,,,NCT00574548,,1.0,267.0,,Arthralgia
+,,,NCT00574548,,2.0,223.0,,Arthralgia
+,,,NCT00574548,,0.0,160.0,,Arthralgia
+,,,NCT00574548,,1.0,267.0,,Arthralgia
+,,,NCT00574548,,0.0,223.0,,Arthralgia
+,,,NCT00574548,,1.0,478.0,,Muscle spasms
+,,,NCT00574548,,1.0,237.0,,Muscle spasms
+,,,NCT00574548,,0.0,478.0,,Muscle spasms
+,,,NCT00574548,,0.0,237.0,,Muscle spasms
+,,,NCT00574548,,0.0,160.0,,Muscle spasms
+,,,NCT00574548,,0.0,267.0,,Muscle spasms
+,,,NCT00574548,,1.0,223.0,,Muscle spasms
+,,,NCT00574548,,0.0,160.0,,Muscle spasms
+,,,NCT00574548,,0.0,267.0,,Muscle spasms
+,,,NCT00574548,,0.0,223.0,,Muscle spasms
+,,,NCT00574548,,1.0,478.0,,Osteopenia
+,,,NCT00574548,,1.0,237.0,,Osteopenia
+,,,NCT00574548,,0.0,478.0,,Osteopenia
+,,,NCT00574548,,0.0,237.0,,Osteopenia
+,,,NCT00574548,,0.0,160.0,,Osteopenia
+,,,NCT00574548,,0.0,267.0,,Osteopenia
+,,,NCT00574548,,0.0,223.0,,Osteopenia
+,,,NCT00574548,,0.0,160.0,,Osteopenia
+,,,NCT00574548,,1.0,267.0,,Osteopenia
+,,,NCT00574548,,0.0,223.0,,Osteopenia
+,,,NCT00574548,,2.0,478.0,,Pain in extremity
+,,,NCT00574548,,0.0,237.0,,Pain in extremity
+,,,NCT00574548,,0.0,478.0,,Pain in extremity
+,,,NCT00574548,,2.0,237.0,,Pain in extremity
+,,,NCT00574548,,0.0,160.0,,Pain in extremity
+,,,NCT00574548,,1.0,267.0,,Pain in extremity
+,,,NCT00574548,,1.0,223.0,,Pain in extremity
+,,,NCT00574548,,0.0,160.0,,Pain in extremity
+,,,NCT00574548,,0.0,267.0,,Pain in extremity
+,,,NCT00574548,,0.0,223.0,,Pain in extremity
+,,,NCT00574548,,1.0,478.0,,Bursa disorder
+,,,NCT00574548,,0.0,237.0,,Bursa disorder
+,,,NCT00574548,,0.0,478.0,,Bursa disorder
+,,,NCT00574548,,0.0,237.0,,Bursa disorder
+,,,NCT00574548,,0.0,160.0,,Bursa disorder
+,,,NCT00574548,,0.0,267.0,,Bursa disorder
+,,,NCT00574548,,0.0,223.0,,Bursa disorder
+,,,NCT00574548,,0.0,160.0,,Bursa disorder
+,,,NCT00574548,,0.0,267.0,,Bursa disorder
+,,,NCT00574548,,0.0,223.0,,Bursa disorder
+,,,NCT00574548,,1.0,478.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,237.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,478.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,237.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,160.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,267.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,223.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,160.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,267.0,,Musculoskeletal stiffness
+,,,NCT00574548,,0.0,223.0,,Musculoskeletal stiffness
+,,,NCT00574548,,1.0,478.0,,Myalgia
+,,,NCT00574548,,0.0,237.0,,Myalgia
+,,,NCT00574548,,0.0,478.0,,Myalgia
+,,,NCT00574548,,0.0,237.0,,Myalgia
+,,,NCT00574548,,0.0,160.0,,Myalgia
+,,,NCT00574548,,0.0,267.0,,Myalgia
+,,,NCT00574548,,2.0,223.0,,Myalgia
+,,,NCT00574548,,0.0,160.0,,Myalgia
+,,,NCT00574548,,0.0,267.0,,Myalgia
+,,,NCT00574548,,0.0,223.0,,Myalgia
+,,,NCT00574548,,1.0,478.0,,Osteoarthritis
+,,,NCT00574548,,0.0,237.0,,Osteoarthritis
+,,,NCT00574548,,0.0,478.0,,Osteoarthritis
+,,,NCT00574548,,2.0,237.0,,Osteoarthritis
+,,,NCT00574548,,0.0,160.0,,Osteoarthritis
+,,,NCT00574548,,0.0,267.0,,Osteoarthritis
+,,,NCT00574548,,0.0,223.0,,Osteoarthritis
+,,,NCT00574548,,0.0,160.0,,Osteoarthritis
+,,,NCT00574548,,3.0,267.0,,Osteoarthritis
+,,,NCT00574548,,1.0,223.0,,Osteoarthritis
+,,,NCT00574548,,1.0,478.0,,Synovial cyst
+,,,NCT00574548,,0.0,237.0,,Synovial cyst
+,,,NCT00574548,,0.0,478.0,,Synovial cyst
+,,,NCT00574548,,0.0,237.0,,Synovial cyst
+,,,NCT00574548,,0.0,160.0,,Synovial cyst
+,,,NCT00574548,,0.0,267.0,,Synovial cyst
+,,,NCT00574548,,0.0,223.0,,Synovial cyst
+,,,NCT00574548,,0.0,160.0,,Synovial cyst
+,,,NCT00574548,,0.0,267.0,,Synovial cyst
+,,,NCT00574548,,0.0,223.0,,Synovial cyst
+,,,NCT00574548,,1.0,478.0,,Tendon disorder
+,,,NCT00574548,,0.0,237.0,,Tendon disorder
+,,,NCT00574548,,0.0,478.0,,Tendon disorder
+,,,NCT00574548,,0.0,237.0,,Tendon disorder
+,,,NCT00574548,,0.0,160.0,,Tendon disorder
+,,,NCT00574548,,0.0,267.0,,Tendon disorder
+,,,NCT00574548,,0.0,223.0,,Tendon disorder
+,,,NCT00574548,,0.0,160.0,,Tendon disorder
+,,,NCT00574548,,0.0,267.0,,Tendon disorder
+,,,NCT00574548,,0.0,223.0,,Tendon disorder
+,,,NCT00574548,,0.0,478.0,,Back pain
+,,,NCT00574548,,1.0,237.0,,Back pain
+,,,NCT00574548,,0.0,478.0,,Back pain
+,,,NCT00574548,,1.0,237.0,,Back pain
+,,,NCT00574548,,0.0,160.0,,Back pain
+,,,NCT00574548,,2.0,267.0,,Back pain
+,,,NCT00574548,,0.0,223.0,,Back pain
+,,,NCT00574548,,0.0,160.0,,Back pain
+,,,NCT00574548,,0.0,267.0,,Back pain
+,,,NCT00574548,,0.0,223.0,,Back pain
+,,,NCT00574548,,0.0,478.0,,Intervertebral disc protrusion
+,,,NCT00574548,,1.0,237.0,,Intervertebral disc protrusion
+,,,NCT00574548,,0.0,478.0,,Intervertebral disc protrusion
+,,,NCT00574548,,1.0,237.0,,Intervertebral disc protrusion
+,,,NCT00574548,,0.0,160.0,,Intervertebral disc protrusion
+,,,NCT00574548,,0.0,267.0,,Intervertebral disc protrusion
+,,,NCT00574548,,1.0,223.0,,Intervertebral disc protrusion
+,,,NCT00574548,,0.0,160.0,,Intervertebral disc protrusion
+,,,NCT00574548,,0.0,267.0,,Intervertebral disc protrusion
+,,,NCT00574548,,0.0,223.0,,Intervertebral disc protrusion
+,,,NCT00574548,,0.0,478.0,,Musculoskeletal pain
+,,,NCT00574548,,1.0,237.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,478.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,237.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,160.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,267.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,223.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,160.0,,Musculoskeletal pain
+,,,NCT00574548,,1.0,267.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,223.0,,Musculoskeletal pain
+,,,NCT00574548,,0.0,478.0,,Neck pain
+,,,NCT00574548,,1.0,237.0,,Neck pain
+,,,NCT00574548,,0.0,478.0,,Neck pain
+,,,NCT00574548,,0.0,237.0,,Neck pain
+,,,NCT00574548,,0.0,160.0,,Neck pain
+,,,NCT00574548,,0.0,267.0,,Neck pain
+,,,NCT00574548,,1.0,223.0,,Neck pain
+,,,NCT00574548,,0.0,160.0,,Neck pain
+,,,NCT00574548,,0.0,267.0,,Neck pain
+,,,NCT00574548,,1.0,223.0,,Neck pain
+,,,NCT00574548,,0.0,478.0,,Periarthritis
+,,,NCT00574548,,0.0,237.0,,Periarthritis
+,,,NCT00574548,,1.0,478.0,,Periarthritis
+,,,NCT00574548,,0.0,237.0,,Periarthritis
+,,,NCT00574548,,0.0,160.0,,Periarthritis
+,,,NCT00574548,,0.0,267.0,,Periarthritis
+,,,NCT00574548,,0.0,223.0,,Periarthritis
+,,,NCT00574548,,0.0,160.0,,Periarthritis
+,,,NCT00574548,,0.0,267.0,,Periarthritis
+,,,NCT00574548,,0.0,223.0,,Periarthritis
+,,,NCT00574548,,0.0,478.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,237.0,,Rotator cuff syndrome
+,,,NCT00574548,,1.0,478.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,237.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,160.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,267.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,223.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,160.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,267.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,223.0,,Rotator cuff syndrome
+,,,NCT00574548,,0.0,478.0,,Exostosis
+,,,NCT00574548,,0.0,237.0,,Exostosis
+,,,NCT00574548,,0.0,478.0,,Exostosis
+,,,NCT00574548,,1.0,237.0,,Exostosis
+,,,NCT00574548,,0.0,160.0,,Exostosis
+,,,NCT00574548,,0.0,267.0,,Exostosis
+,,,NCT00574548,,0.0,223.0,,Exostosis
+,,,NCT00574548,,0.0,160.0,,Exostosis
+,,,NCT00574548,,0.0,267.0,,Exostosis
+,,,NCT00574548,,0.0,223.0,,Exostosis
+,,,NCT00574548,,0.0,478.0,,Arthritis
+,,,NCT00574548,,0.0,237.0,,Arthritis
+,,,NCT00574548,,0.0,478.0,,Arthritis
+,,,NCT00574548,,0.0,237.0,,Arthritis
+,,,NCT00574548,,0.0,160.0,,Arthritis
+,,,NCT00574548,,1.0,267.0,,Arthritis
+,,,NCT00574548,,0.0,223.0,,Arthritis
+,,,NCT00574548,,0.0,160.0,,Arthritis
+,,,NCT00574548,,0.0,267.0,,Arthritis
+,,,NCT00574548,,0.0,223.0,,Arthritis
+,,,NCT00574548,,0.0,478.0,,Arthropathy
+,,,NCT00574548,,0.0,237.0,,Arthropathy
+,,,NCT00574548,,0.0,478.0,,Arthropathy
+,,,NCT00574548,,0.0,237.0,,Arthropathy
+,,,NCT00574548,,0.0,160.0,,Arthropathy
+,,,NCT00574548,,1.0,267.0,,Arthropathy
+,,,NCT00574548,,0.0,223.0,,Arthropathy
+,,,NCT00574548,,0.0,160.0,,Arthropathy
+,,,NCT00574548,,0.0,267.0,,Arthropathy
+,,,NCT00574548,,0.0,223.0,,Arthropathy
+,,,NCT00574548,,0.0,478.0,,Flank pain
+,,,NCT00574548,,0.0,237.0,,Flank pain
+,,,NCT00574548,,0.0,478.0,,Flank pain
+,,,NCT00574548,,0.0,237.0,,Flank pain
+,,,NCT00574548,,0.0,160.0,,Flank pain
+,,,NCT00574548,,1.0,267.0,,Flank pain
+,,,NCT00574548,,0.0,223.0,,Flank pain
+,,,NCT00574548,,0.0,160.0,,Flank pain
+,,,NCT00574548,,0.0,267.0,,Flank pain
+,,,NCT00574548,,0.0,223.0,,Flank pain
+,,,NCT00574548,,0.0,478.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,237.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,478.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,237.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,160.0,,Joint range of motion decreased
+,,,NCT00574548,,1.0,267.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,223.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,160.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,267.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,223.0,,Joint range of motion decreased
+,,,NCT00574548,,0.0,478.0,,Joint swelling
+,,,NCT00574548,,0.0,237.0,,Joint swelling
+,,,NCT00574548,,0.0,478.0,,Joint swelling
+,,,NCT00574548,,0.0,237.0,,Joint swelling
+,,,NCT00574548,,0.0,160.0,,Joint swelling
+,,,NCT00574548,,1.0,267.0,,Joint swelling
+,,,NCT00574548,,0.0,223.0,,Joint swelling
+,,,NCT00574548,,0.0,160.0,,Joint swelling
+,,,NCT00574548,,0.0,267.0,,Joint swelling
+,,,NCT00574548,,0.0,223.0,,Joint swelling
+,,,NCT00574548,,0.0,478.0,,Osteoporosis
+,,,NCT00574548,,0.0,237.0,,Osteoporosis
+,,,NCT00574548,,0.0,478.0,,Osteoporosis
+,,,NCT00574548,,0.0,237.0,,Osteoporosis
+,,,NCT00574548,,0.0,160.0,,Osteoporosis
+,,,NCT00574548,,1.0,267.0,,Osteoporosis
+,,,NCT00574548,,0.0,223.0,,Osteoporosis
+,,,NCT00574548,,0.0,160.0,,Osteoporosis
+,,,NCT00574548,,0.0,267.0,,Osteoporosis
+,,,NCT00574548,,0.0,223.0,,Osteoporosis
+,,,NCT00574548,,0.0,478.0,,Tendonitis
+,,,NCT00574548,,0.0,237.0,,Tendonitis
+,,,NCT00574548,,0.0,478.0,,Tendonitis
+,,,NCT00574548,,0.0,237.0,,Tendonitis
+,,,NCT00574548,,0.0,160.0,,Tendonitis
+,,,NCT00574548,,0.0,267.0,,Tendonitis
+,,,NCT00574548,,0.0,223.0,,Tendonitis
+,,,NCT00574548,,0.0,160.0,,Tendonitis
+,,,NCT00574548,,2.0,267.0,,Tendonitis
+,,,NCT00574548,,1.0,223.0,,Tendonitis
+,,,NCT00574548,,0.0,478.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,237.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,478.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,237.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,160.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,267.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,223.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,160.0,,Spinal osteoarthritis
+,,,NCT00574548,,2.0,267.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,223.0,,Spinal osteoarthritis
+,,,NCT00574548,,0.0,478.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,237.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,478.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,237.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,160.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,267.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,223.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,160.0,,Nodal osteoarthritis
+,,,NCT00574548,,1.0,267.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,223.0,,Nodal osteoarthritis
+,,,NCT00574548,,0.0,478.0,,Enthesopathy
+,,,NCT00574548,,0.0,237.0,,Enthesopathy
+,,,NCT00574548,,0.0,478.0,,Enthesopathy
+,,,NCT00574548,,0.0,237.0,,Enthesopathy
+,,,NCT00574548,,0.0,160.0,,Enthesopathy
+,,,NCT00574548,,0.0,267.0,,Enthesopathy
+,,,NCT00574548,,0.0,223.0,,Enthesopathy
+,,,NCT00574548,,0.0,160.0,,Enthesopathy
+,,,NCT00574548,,0.0,267.0,,Enthesopathy
+,,,NCT00574548,,1.0,223.0,,Enthesopathy
+,,,NCT00574548,,0.0,478.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,237.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,478.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,237.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,160.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,267.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,223.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,160.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,267.0,,Intervertebral disc degeneration
+,,,NCT00574548,,1.0,223.0,,Intervertebral disc degeneration
+,,,NCT00574548,,0.0,478.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,237.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,478.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,237.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,160.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,267.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,223.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,160.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,267.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,1.0,223.0,,Patellofemoral pain syndrome
+,,,NCT00574548,,0.0,478.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,237.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,478.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,237.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,160.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,267.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,223.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,160.0,,Tenosynovitis stenosans
+,,,NCT00574548,,0.0,267.0,,Tenosynovitis stenosans
+,,,NCT00574548,,1.0,223.0,,Tenosynovitis stenosans
+,,,NCT00574548,,1.0,478.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,237.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,478.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,237.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,160.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,267.0,,Seborrhoeic keratosis
+,,,NCT00574548,,1.0,223.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,160.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,267.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,223.0,,Seborrhoeic keratosis
+,,,NCT00574548,,0.0,478.0,,Bladder cancer
+,,,NCT00574548,,0.0,237.0,,Bladder cancer
+,,,NCT00574548,,1.0,478.0,,Bladder cancer
+,,,NCT00574548,,0.0,237.0,,Bladder cancer
+,,,NCT00574548,,0.0,160.0,,Bladder cancer
+,,,NCT00574548,,0.0,267.0,,Bladder cancer
+,,,NCT00574548,,0.0,223.0,,Bladder cancer
+,,,NCT00574548,,0.0,160.0,,Bladder cancer
+,,,NCT00574548,,0.0,267.0,,Bladder cancer
+,,,NCT00574548,,0.0,223.0,,Bladder cancer
+,,,NCT00574548,,0.0,478.0,,Lipoma
+,,,NCT00574548,,0.0,237.0,,Lipoma
+,,,NCT00574548,,1.0,478.0,,Lipoma
+,,,NCT00574548,,0.0,237.0,,Lipoma
+,,,NCT00574548,,0.0,160.0,,Lipoma
+,,,NCT00574548,,0.0,267.0,,Lipoma
+,,,NCT00574548,,0.0,223.0,,Lipoma
+,,,NCT00574548,,0.0,160.0,,Lipoma
+,,,NCT00574548,,0.0,267.0,,Lipoma
+,,,NCT00574548,,0.0,223.0,,Lipoma
+,,,NCT00574548,,0.0,478.0,,Lung neoplasm
+,,,NCT00574548,,0.0,237.0,,Lung neoplasm
+,,,NCT00574548,,1.0,478.0,,Lung neoplasm
+,,,NCT00574548,,0.0,237.0,,Lung neoplasm
+,,,NCT00574548,,0.0,160.0,,Lung neoplasm
+,,,NCT00574548,,0.0,267.0,,Lung neoplasm
+,,,NCT00574548,,0.0,223.0,,Lung neoplasm
+,,,NCT00574548,,1.0,160.0,,Lung neoplasm
+,,,NCT00574548,,0.0,267.0,,Lung neoplasm
+,,,NCT00574548,,0.0,223.0,,Lung neoplasm
+,,,NCT00574548,,0.0,478.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,237.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,478.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,237.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,160.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,267.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,223.0,,Benign breast neoplasm
+,,,NCT00574548,,1.0,160.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,267.0,,Benign breast neoplasm
+,,,NCT00574548,,0.0,223.0,,Benign breast neoplasm
+,,,NCT00574548,,2.0,478.0,,Dizziness
+,,,NCT00574548,,0.0,237.0,,Dizziness
+,,,NCT00574548,,0.0,478.0,,Dizziness
+,,,NCT00574548,,0.0,237.0,,Dizziness
+,,,NCT00574548,,0.0,160.0,,Dizziness
+,,,NCT00574548,,0.0,267.0,,Dizziness
+,,,NCT00574548,,1.0,223.0,,Dizziness
+,,,NCT00574548,,0.0,160.0,,Dizziness
+,,,NCT00574548,,0.0,267.0,,Dizziness
+,,,NCT00574548,,0.0,223.0,,Dizziness
+,,,NCT00574548,,2.0,478.0,,Headache
+,,,NCT00574548,,0.0,237.0,,Headache
+,,,NCT00574548,,0.0,478.0,,Headache
+,,,NCT00574548,,0.0,237.0,,Headache
+,,,NCT00574548,,0.0,160.0,,Headache
+,,,NCT00574548,,2.0,267.0,,Headache
+,,,NCT00574548,,0.0,223.0,,Headache
+,,,NCT00574548,,1.0,160.0,,Headache
+,,,NCT00574548,,0.0,267.0,,Headache
+,,,NCT00574548,,1.0,223.0,,Headache
+,,,NCT00574548,,1.0,478.0,,Sinus headache
+,,,NCT00574548,,0.0,237.0,,Sinus headache
+,,,NCT00574548,,0.0,478.0,,Sinus headache
+,,,NCT00574548,,0.0,237.0,,Sinus headache
+,,,NCT00574548,,0.0,160.0,,Sinus headache
+,,,NCT00574548,,0.0,267.0,,Sinus headache
+,,,NCT00574548,,0.0,223.0,,Sinus headache
+,,,NCT00574548,,0.0,160.0,,Sinus headache
+,,,NCT00574548,,0.0,267.0,,Sinus headache
+,,,NCT00574548,,0.0,223.0,,Sinus headache
+,,,NCT00574548,,0.0,478.0,,Tension headache
+,,,NCT00574548,,1.0,237.0,,Tension headache
+,,,NCT00574548,,0.0,478.0,,Tension headache
+,,,NCT00574548,,0.0,237.0,,Tension headache
+,,,NCT00574548,,0.0,160.0,,Tension headache
+,,,NCT00574548,,0.0,267.0,,Tension headache
+,,,NCT00574548,,0.0,223.0,,Tension headache
+,,,NCT00574548,,0.0,160.0,,Tension headache
+,,,NCT00574548,,0.0,267.0,,Tension headache
+,,,NCT00574548,,0.0,223.0,,Tension headache
+,,,NCT00574548,,0.0,478.0,,Restless legs syndrome
+,,,NCT00574548,,0.0,237.0,,Restless legs syndrome
+,,,NCT00574548,,1.0,478.0,,Restless legs syndrome
+,,,NCT00574548,,0.0,237.0,,Restless legs syndrome
+,,,NCT00574548,,1.0,160.0,,Restless legs syndrome
+,,,NCT00574548,,0.0,267.0,,Restless legs syndrome
+,,,NCT00574548,,0.0,223.0,,Restless legs syndrome
+,,,NCT00574548,,0.0,160.0,,Restless legs syndrome
+,,,NCT00574548,,0.0,267.0,,Restless legs syndrome
+,,,NCT00574548,,1.0,223.0,,Restless legs syndrome
+,,,NCT00574548,,0.0,478.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,237.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,478.0,,Carpal tunnel syndrome
+,,,NCT00574548,,1.0,237.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,160.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,267.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,223.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,160.0,,Carpal tunnel syndrome
+,,,NCT00574548,,1.0,267.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,223.0,,Carpal tunnel syndrome
+,,,NCT00574548,,0.0,478.0,,Sciatica
+,,,NCT00574548,,0.0,237.0,,Sciatica
+,,,NCT00574548,,0.0,478.0,,Sciatica
+,,,NCT00574548,,1.0,237.0,,Sciatica
+,,,NCT00574548,,0.0,160.0,,Sciatica
+,,,NCT00574548,,1.0,267.0,,Sciatica
+,,,NCT00574548,,0.0,223.0,,Sciatica
+,,,NCT00574548,,0.0,160.0,,Sciatica
+,,,NCT00574548,,0.0,267.0,,Sciatica
+,,,NCT00574548,,1.0,223.0,,Sciatica
+,,,NCT00574548,,0.0,478.0,,Syncope
+,,,NCT00574548,,0.0,237.0,,Syncope
+,,,NCT00574548,,0.0,478.0,,Syncope
+,,,NCT00574548,,0.0,237.0,,Syncope
+,,,NCT00574548,,0.0,160.0,,Syncope
+,,,NCT00574548,,1.0,267.0,,Syncope
+,,,NCT00574548,,0.0,223.0,,Syncope
+,,,NCT00574548,,0.0,160.0,,Syncope
+,,,NCT00574548,,0.0,267.0,,Syncope
+,,,NCT00574548,,0.0,223.0,,Syncope
+,,,NCT00574548,,0.0,478.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,237.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,478.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,237.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,160.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,267.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,223.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,160.0,,Diabetic neuropathy
+,,,NCT00574548,,1.0,267.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,223.0,,Diabetic neuropathy
+,,,NCT00574548,,0.0,478.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,237.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,478.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,237.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,160.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,267.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,223.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,160.0,,Lumbar radiculopathy
+,,,NCT00574548,,0.0,267.0,,Lumbar radiculopathy
+,,,NCT00574548,,1.0,223.0,,Lumbar radiculopathy
+,,,NCT00574548,,2.0,478.0,,Insomnia
+,,,NCT00574548,,0.0,237.0,,Insomnia
+,,,NCT00574548,,0.0,478.0,,Insomnia
+,,,NCT00574548,,0.0,237.0,,Insomnia
+,,,NCT00574548,,0.0,160.0,,Insomnia
+,,,NCT00574548,,0.0,267.0,,Insomnia
+,,,NCT00574548,,0.0,223.0,,Insomnia
+,,,NCT00574548,,0.0,160.0,,Insomnia
+,,,NCT00574548,,1.0,267.0,,Insomnia
+,,,NCT00574548,,0.0,223.0,,Insomnia
+,,,NCT00574548,,0.0,478.0,,Depression
+,,,NCT00574548,,0.0,237.0,,Depression
+,,,NCT00574548,,1.0,478.0,,Depression
+,,,NCT00574548,,1.0,237.0,,Depression
+,,,NCT00574548,,0.0,160.0,,Depression
+,,,NCT00574548,,1.0,267.0,,Depression
+,,,NCT00574548,,0.0,223.0,,Depression
+,,,NCT00574548,,0.0,160.0,,Depression
+,,,NCT00574548,,0.0,267.0,,Depression
+,,,NCT00574548,,0.0,223.0,,Depression
+,,,NCT00574548,,0.0,478.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,237.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,1.0,478.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,237.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,160.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,267.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,223.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,160.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,267.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,223.0,,Sleep disorder due to a general medical condition
+,,,NCT00574548,,0.0,478.0,,Hallucination
+,,,NCT00574548,,0.0,237.0,,Hallucination
+,,,NCT00574548,,0.0,478.0,,Hallucination
+,,,NCT00574548,,0.0,237.0,,Hallucination
+,,,NCT00574548,,0.0,160.0,,Hallucination
+,,,NCT00574548,,0.0,267.0,,Hallucination
+,,,NCT00574548,,1.0,223.0,,Hallucination
+,,,NCT00574548,,0.0,160.0,,Hallucination
+,,,NCT00574548,,0.0,267.0,,Hallucination
+,,,NCT00574548,,0.0,223.0,,Hallucination
+,,,NCT00574548,,0.0,478.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,237.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,478.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,237.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,160.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,267.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,1.0,223.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,160.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,267.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,0.0,223.0,,"Sleep disorder due to general medical condition, insomnia type"
+,,,NCT00574548,,1.0,478.0,,Renal failure
+,,,NCT00574548,,1.0,237.0,,Renal failure
+,,,NCT00574548,,0.0,478.0,,Renal failure
+,,,NCT00574548,,0.0,237.0,,Renal failure
+,,,NCT00574548,,0.0,160.0,,Renal failure
+,,,NCT00574548,,0.0,267.0,,Renal failure
+,,,NCT00574548,,0.0,223.0,,Renal failure
+,,,NCT00574548,,0.0,160.0,,Renal failure
+,,,NCT00574548,,0.0,267.0,,Renal failure
+,,,NCT00574548,,0.0,223.0,,Renal failure
+,,,NCT00574548,,0.0,478.0,,Hypertonic bladder
+,,,NCT00574548,,1.0,237.0,,Hypertonic bladder
+,,,NCT00574548,,1.0,478.0,,Hypertonic bladder
+,,,NCT00574548,,0.0,237.0,,Hypertonic bladder
+,,,NCT00574548,,0.0,160.0,,Hypertonic bladder
+,,,NCT00574548,,1.0,267.0,,Hypertonic bladder
+,,,NCT00574548,,0.0,223.0,,Hypertonic bladder
+,,,NCT00574548,,1.0,160.0,,Hypertonic bladder
+,,,NCT00574548,,0.0,267.0,,Hypertonic bladder
+,,,NCT00574548,,0.0,223.0,,Hypertonic bladder
+,,,NCT00574548,,0.0,478.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,237.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,478.0,,Nephrolithiasis
+,,,NCT00574548,,1.0,237.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,160.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,267.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,223.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,160.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,267.0,,Nephrolithiasis
+,,,NCT00574548,,1.0,223.0,,Nephrolithiasis
+,,,NCT00574548,,0.0,478.0,,Urinary incontinence
+,,,NCT00574548,,0.0,237.0,,Urinary incontinence
+,,,NCT00574548,,0.0,478.0,,Urinary incontinence
+,,,NCT00574548,,1.0,237.0,,Urinary incontinence
+,,,NCT00574548,,0.0,160.0,,Urinary incontinence
+,,,NCT00574548,,0.0,267.0,,Urinary incontinence
+,,,NCT00574548,,0.0,223.0,,Urinary incontinence
+,,,NCT00574548,,0.0,160.0,,Urinary incontinence
+,,,NCT00574548,,0.0,267.0,,Urinary incontinence
+,,,NCT00574548,,0.0,223.0,,Urinary incontinence
+,,,NCT00574548,,0.0,478.0,,Renal failure chronic
+,,,NCT00574548,,0.0,237.0,,Renal failure chronic
+,,,NCT00574548,,0.0,478.0,,Renal failure chronic
+,,,NCT00574548,,0.0,237.0,,Renal failure chronic
+,,,NCT00574548,,0.0,160.0,,Renal failure chronic
+,,,NCT00574548,,0.0,267.0,,Renal failure chronic
+,,,NCT00574548,,0.0,223.0,,Renal failure chronic
+,,,NCT00574548,,1.0,160.0,,Renal failure chronic
+,,,NCT00574548,,0.0,267.0,,Renal failure chronic
+,,,NCT00574548,,0.0,223.0,,Renal failure chronic
+,,,NCT00574548,,1.0,478.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,0.0,237.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,0.0,478.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,0.0,237.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,0.0,160.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,0.0,267.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,1.0,223.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,0.0,160.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,0.0,267.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,1.0,223.0,,Benign prostatic hyperplasia
+,,,NCT00574548,,1.0,478.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,237.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,478.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,237.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,160.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,267.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,223.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,160.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,267.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,223.0,,Vaginal haemorrhage
+,,,NCT00574548,,0.0,478.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,237.0,,Cervical dysplasia
+,,,NCT00574548,,1.0,478.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,237.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,160.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,267.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,223.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,160.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,267.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,223.0,,Cervical dysplasia
+,,,NCT00574548,,0.0,478.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,237.0,,Sexual dysfunction
+,,,NCT00574548,,1.0,478.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,237.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,160.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,267.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,223.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,160.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,267.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,223.0,,Sexual dysfunction
+,,,NCT00574548,,0.0,478.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,237.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,478.0,,Erectile dysfunction
+,,,NCT00574548,,1.0,237.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,160.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,267.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,223.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,160.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,267.0,,Erectile dysfunction
+,,,NCT00574548,,1.0,223.0,,Erectile dysfunction
+,,,NCT00574548,,0.0,478.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,237.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,478.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,237.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,160.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,267.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,223.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,1.0,160.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,1.0,267.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,223.0,,Atrophic vulvovaginitis
+,,,NCT00574548,,0.0,478.0,,Prostatitis
+,,,NCT00574548,,0.0,237.0,,Prostatitis
+,,,NCT00574548,,0.0,478.0,,Prostatitis
+,,,NCT00574548,,0.0,237.0,,Prostatitis
+,,,NCT00574548,,0.0,160.0,,Prostatitis
+,,,NCT00574548,,0.0,267.0,,Prostatitis
+,,,NCT00574548,,0.0,223.0,,Prostatitis
+,,,NCT00574548,,0.0,160.0,,Prostatitis
+,,,NCT00574548,,1.0,267.0,,Prostatitis
+,,,NCT00574548,,0.0,223.0,,Prostatitis
+,,,NCT00574548,,0.0,478.0,,Breast pain
+,,,NCT00574548,,0.0,237.0,,Breast pain
+,,,NCT00574548,,0.0,478.0,,Breast pain
+,,,NCT00574548,,0.0,237.0,,Breast pain
+,,,NCT00574548,,0.0,160.0,,Breast pain
+,,,NCT00574548,,0.0,267.0,,Breast pain
+,,,NCT00574548,,0.0,223.0,,Breast pain
+,,,NCT00574548,,1.0,160.0,,Breast pain
+,,,NCT00574548,,0.0,267.0,,Breast pain
+,,,NCT00574548,,0.0,223.0,,Breast pain
+,,,NCT00574548,,4.0,478.0,,Cough
+,,,NCT00574548,,2.0,237.0,,Cough
+,,,NCT00574548,,1.0,478.0,,Cough
+,,,NCT00574548,,0.0,237.0,,Cough
+,,,NCT00574548,,2.0,160.0,,Cough
+,,,NCT00574548,,3.0,267.0,,Cough
+,,,NCT00574548,,2.0,223.0,,Cough
+,,,NCT00574548,,0.0,160.0,,Cough
+,,,NCT00574548,,0.0,267.0,,Cough
+,,,NCT00574548,,0.0,223.0,,Cough
+,,,NCT00574548,,4.0,478.0,,Sinus congestion
+,,,NCT00574548,,2.0,237.0,,Sinus congestion
+,,,NCT00574548,,0.0,478.0,,Sinus congestion
+,,,NCT00574548,,0.0,237.0,,Sinus congestion
+,,,NCT00574548,,1.0,160.0,,Sinus congestion
+,,,NCT00574548,,0.0,267.0,,Sinus congestion
+,,,NCT00574548,,0.0,223.0,,Sinus congestion
+,,,NCT00574548,,0.0,160.0,,Sinus congestion
+,,,NCT00574548,,0.0,267.0,,Sinus congestion
+,,,NCT00574548,,0.0,223.0,,Sinus congestion
+,,,NCT00574548,,4.0,478.0,,Oropharyngeal pain
+,,,NCT00574548,,0.0,237.0,,Oropharyngeal pain
+,,,NCT00574548,,0.0,478.0,,Oropharyngeal pain
+,,,NCT00574548,,0.0,237.0,,Oropharyngeal pain
+,,,NCT00574548,,0.0,160.0,,Oropharyngeal pain
+,,,NCT00574548,,1.0,267.0,,Oropharyngeal pain
+,,,NCT00574548,,1.0,223.0,,Oropharyngeal pain
+,,,NCT00574548,,0.0,160.0,,Oropharyngeal pain
+,,,NCT00574548,,0.0,267.0,,Oropharyngeal pain
+,,,NCT00574548,,0.0,223.0,,Oropharyngeal pain
+,,,NCT00574548,,1.0,478.0,,Nasal congestion
+,,,NCT00574548,,1.0,237.0,,Nasal congestion
+,,,NCT00574548,,0.0,478.0,,Nasal congestion
+,,,NCT00574548,,0.0,237.0,,Nasal congestion
+,,,NCT00574548,,1.0,160.0,,Nasal congestion
+,,,NCT00574548,,2.0,267.0,,Nasal congestion
+,,,NCT00574548,,1.0,223.0,,Nasal congestion
+,,,NCT00574548,,0.0,160.0,,Nasal congestion
+,,,NCT00574548,,0.0,267.0,,Nasal congestion
+,,,NCT00574548,,0.0,223.0,,Nasal congestion
+,,,NCT00574548,,2.0,478.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,237.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,478.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,237.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,160.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,267.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,223.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,160.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,267.0,,Rhinorrhoea
+,,,NCT00574548,,0.0,223.0,,Rhinorrhoea
+,,,NCT00574548,,1.0,478.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,237.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,478.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,237.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,160.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,267.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,223.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,160.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,267.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,223.0,,Bronchial hyperreactivity
+,,,NCT00574548,,0.0,478.0,,Respiratory disorder
+,,,NCT00574548,,1.0,237.0,,Respiratory disorder
+,,,NCT00574548,,0.0,478.0,,Respiratory disorder
+,,,NCT00574548,,0.0,237.0,,Respiratory disorder
+,,,NCT00574548,,0.0,160.0,,Respiratory disorder
+,,,NCT00574548,,0.0,267.0,,Respiratory disorder
+,,,NCT00574548,,0.0,223.0,,Respiratory disorder
+,,,NCT00574548,,0.0,160.0,,Respiratory disorder
+,,,NCT00574548,,0.0,267.0,,Respiratory disorder
+,,,NCT00574548,,0.0,223.0,,Respiratory disorder
+,,,NCT00574548,,0.0,478.0,,Rhinitis allergic
+,,,NCT00574548,,1.0,237.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,478.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,237.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,160.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,267.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,223.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,160.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,267.0,,Rhinitis allergic
+,,,NCT00574548,,2.0,223.0,,Rhinitis allergic
+,,,NCT00574548,,0.0,478.0,,Sleep apnoea syndrome
+,,,NCT00574548,,1.0,237.0,,Sleep apnoea syndrome
+,,,NCT00574548,,0.0,478.0,,Sleep apnoea syndrome
+,,,NCT00574548,,0.0,237.0,,Sleep apnoea syndrome
+,,,NCT00574548,,1.0,160.0,,Sleep apnoea syndrome
+,,,NCT00574548,,0.0,267.0,,Sleep apnoea syndrome
+,,,NCT00574548,,0.0,223.0,,Sleep apnoea syndrome
+,,,NCT00574548,,0.0,160.0,,Sleep apnoea syndrome
+,,,NCT00574548,,1.0,267.0,,Sleep apnoea syndrome
+,,,NCT00574548,,1.0,223.0,,Sleep apnoea syndrome
+,,,NCT00574548,,0.0,478.0,,Upper respiratory tract congestion
+,,,NCT00574548,,1.0,237.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,478.0,,Upper respiratory tract congestion
+,,,NCT00574548,,1.0,237.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,160.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,267.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,223.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,160.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,267.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,223.0,,Upper respiratory tract congestion
+,,,NCT00574548,,0.0,478.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,237.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,1.0,478.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,1.0,237.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,160.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,267.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,223.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,160.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,267.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,223.0,,Chronic obstructive pulmonary disease
+,,,NCT00574548,,0.0,478.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,237.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,1.0,478.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,237.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,160.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,267.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,223.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,160.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,267.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,223.0,,Acute respiratory distress syndrome
+,,,NCT00574548,,0.0,478.0,,Atelectasis
+,,,NCT00574548,,0.0,237.0,,Atelectasis
+,,,NCT00574548,,1.0,478.0,,Atelectasis
+,,,NCT00574548,,0.0,237.0,,Atelectasis
+,,,NCT00574548,,0.0,160.0,,Atelectasis
+,,,NCT00574548,,0.0,267.0,,Atelectasis
+,,,NCT00574548,,0.0,223.0,,Atelectasis
+,,,NCT00574548,,0.0,160.0,,Atelectasis
+,,,NCT00574548,,0.0,267.0,,Atelectasis
+,,,NCT00574548,,0.0,223.0,,Atelectasis
+,,,NCT00574548,,0.0,478.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,237.0,,Dyspnoea exertional
+,,,NCT00574548,,1.0,478.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,237.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,160.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,267.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,223.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,160.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,267.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,223.0,,Dyspnoea exertional
+,,,NCT00574548,,0.0,478.0,,Pleural effusion
+,,,NCT00574548,,0.0,237.0,,Pleural effusion
+,,,NCT00574548,,0.0,478.0,,Pleural effusion
+,,,NCT00574548,,1.0,237.0,,Pleural effusion
+,,,NCT00574548,,0.0,160.0,,Pleural effusion
+,,,NCT00574548,,0.0,267.0,,Pleural effusion
+,,,NCT00574548,,0.0,223.0,,Pleural effusion
+,,,NCT00574548,,0.0,160.0,,Pleural effusion
+,,,NCT00574548,,0.0,267.0,,Pleural effusion
+,,,NCT00574548,,0.0,223.0,,Pleural effusion
+,,,NCT00574548,,0.0,478.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,237.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,478.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,237.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,160.0,,Pulmonary congestion
+,,,NCT00574548,,1.0,267.0,,Pulmonary congestion
+,,,NCT00574548,,1.0,223.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,160.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,267.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,223.0,,Pulmonary congestion
+,,,NCT00574548,,0.0,478.0,,Asthma
+,,,NCT00574548,,0.0,237.0,,Asthma
+,,,NCT00574548,,0.0,478.0,,Asthma
+,,,NCT00574548,,0.0,237.0,,Asthma
+,,,NCT00574548,,0.0,160.0,,Asthma
+,,,NCT00574548,,1.0,267.0,,Asthma
+,,,NCT00574548,,0.0,223.0,,Asthma
+,,,NCT00574548,,0.0,160.0,,Asthma
+,,,NCT00574548,,0.0,267.0,,Asthma
+,,,NCT00574548,,0.0,223.0,,Asthma
+,,,NCT00574548,,0.0,478.0,,Bronchospasm
+,,,NCT00574548,,0.0,237.0,,Bronchospasm
+,,,NCT00574548,,0.0,478.0,,Bronchospasm
+,,,NCT00574548,,0.0,237.0,,Bronchospasm
+,,,NCT00574548,,1.0,160.0,,Bronchospasm
+,,,NCT00574548,,0.0,267.0,,Bronchospasm
+,,,NCT00574548,,0.0,223.0,,Bronchospasm
+,,,NCT00574548,,0.0,160.0,,Bronchospasm
+,,,NCT00574548,,0.0,267.0,,Bronchospasm
+,,,NCT00574548,,0.0,223.0,,Bronchospasm
+,,,NCT00574548,,0.0,478.0,,Nasal cyst
+,,,NCT00574548,,0.0,237.0,,Nasal cyst
+,,,NCT00574548,,0.0,478.0,,Nasal cyst
+,,,NCT00574548,,0.0,237.0,,Nasal cyst
+,,,NCT00574548,,1.0,160.0,,Nasal cyst
+,,,NCT00574548,,0.0,267.0,,Nasal cyst
+,,,NCT00574548,,0.0,223.0,,Nasal cyst
+,,,NCT00574548,,0.0,160.0,,Nasal cyst
+,,,NCT00574548,,0.0,267.0,,Nasal cyst
+,,,NCT00574548,,0.0,223.0,,Nasal cyst
+,,,NCT00574548,,0.0,478.0,,Dyspnoea
+,,,NCT00574548,,0.0,237.0,,Dyspnoea
+,,,NCT00574548,,0.0,478.0,,Dyspnoea
+,,,NCT00574548,,0.0,237.0,,Dyspnoea
+,,,NCT00574548,,0.0,160.0,,Dyspnoea
+,,,NCT00574548,,0.0,267.0,,Dyspnoea
+,,,NCT00574548,,0.0,223.0,,Dyspnoea
+,,,NCT00574548,,1.0,160.0,,Dyspnoea
+,,,NCT00574548,,0.0,267.0,,Dyspnoea
+,,,NCT00574548,,0.0,223.0,,Dyspnoea
+,,,NCT00574548,,0.0,478.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,237.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,478.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,237.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,160.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,267.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,223.0,,Obstructive airways disorder
+,,,NCT00574548,,1.0,160.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,267.0,,Obstructive airways disorder
+,,,NCT00574548,,0.0,223.0,,Obstructive airways disorder
+,,,NCT00574548,,1.0,478.0,,Rash
+,,,NCT00574548,,1.0,237.0,,Rash
+,,,NCT00574548,,0.0,478.0,,Rash
+,,,NCT00574548,,0.0,237.0,,Rash
+,,,NCT00574548,,0.0,160.0,,Rash
+,,,NCT00574548,,1.0,267.0,,Rash
+,,,NCT00574548,,0.0,223.0,,Rash
+,,,NCT00574548,,0.0,160.0,,Rash
+,,,NCT00574548,,0.0,267.0,,Rash
+,,,NCT00574548,,0.0,223.0,,Rash
+,,,NCT00574548,,2.0,478.0,,Pruritus
+,,,NCT00574548,,0.0,237.0,,Pruritus
+,,,NCT00574548,,0.0,478.0,,Pruritus
+,,,NCT00574548,,0.0,237.0,,Pruritus
+,,,NCT00574548,,0.0,160.0,,Pruritus
+,,,NCT00574548,,0.0,267.0,,Pruritus
+,,,NCT00574548,,0.0,223.0,,Pruritus
+,,,NCT00574548,,0.0,160.0,,Pruritus
+,,,NCT00574548,,0.0,267.0,,Pruritus
+,,,NCT00574548,,0.0,223.0,,Pruritus
+,,,NCT00574548,,1.0,478.0,,Ecchymosis
+,,,NCT00574548,,0.0,237.0,,Ecchymosis
+,,,NCT00574548,,0.0,478.0,,Ecchymosis
+,,,NCT00574548,,0.0,237.0,,Ecchymosis
+,,,NCT00574548,,0.0,160.0,,Ecchymosis
+,,,NCT00574548,,0.0,267.0,,Ecchymosis
+,,,NCT00574548,,0.0,223.0,,Ecchymosis
+,,,NCT00574548,,0.0,160.0,,Ecchymosis
+,,,NCT00574548,,0.0,267.0,,Ecchymosis
+,,,NCT00574548,,0.0,223.0,,Ecchymosis
+,,,NCT00574548,,0.0,478.0,,Lichen planus
+,,,NCT00574548,,1.0,237.0,,Lichen planus
+,,,NCT00574548,,0.0,478.0,,Lichen planus
+,,,NCT00574548,,0.0,237.0,,Lichen planus
+,,,NCT00574548,,0.0,160.0,,Lichen planus
+,,,NCT00574548,,0.0,267.0,,Lichen planus
+,,,NCT00574548,,0.0,223.0,,Lichen planus
+,,,NCT00574548,,0.0,160.0,,Lichen planus
+,,,NCT00574548,,0.0,267.0,,Lichen planus
+,,,NCT00574548,,0.0,223.0,,Lichen planus
+,,,NCT00574548,,0.0,478.0,,Dermatitis contact
+,,,NCT00574548,,0.0,237.0,,Dermatitis contact
+,,,NCT00574548,,1.0,478.0,,Dermatitis contact
+,,,NCT00574548,,0.0,237.0,,Dermatitis contact
+,,,NCT00574548,,0.0,160.0,,Dermatitis contact
+,,,NCT00574548,,1.0,267.0,,Dermatitis contact
+,,,NCT00574548,,0.0,223.0,,Dermatitis contact
+,,,NCT00574548,,0.0,160.0,,Dermatitis contact
+,,,NCT00574548,,0.0,267.0,,Dermatitis contact
+,,,NCT00574548,,0.0,223.0,,Dermatitis contact
+,,,NCT00574548,,0.0,478.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,237.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,478.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,1.0,237.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,160.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,267.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,223.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,160.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,267.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,223.0,,Cutaneous lupus erythematosus
+,,,NCT00574548,,0.0,478.0,,Rosacea
+,,,NCT00574548,,0.0,237.0,,Rosacea
+,,,NCT00574548,,0.0,478.0,,Rosacea
+,,,NCT00574548,,1.0,237.0,,Rosacea
+,,,NCT00574548,,0.0,160.0,,Rosacea
+,,,NCT00574548,,0.0,267.0,,Rosacea
+,,,NCT00574548,,0.0,223.0,,Rosacea
+,,,NCT00574548,,0.0,160.0,,Rosacea
+,,,NCT00574548,,0.0,267.0,,Rosacea
+,,,NCT00574548,,0.0,223.0,,Rosacea
+,,,NCT00574548,,0.0,478.0,,Xanthoma
+,,,NCT00574548,,0.0,237.0,,Xanthoma
+,,,NCT00574548,,0.0,478.0,,Xanthoma
+,,,NCT00574548,,1.0,237.0,,Xanthoma
+,,,NCT00574548,,0.0,160.0,,Xanthoma
+,,,NCT00574548,,0.0,267.0,,Xanthoma
+,,,NCT00574548,,0.0,223.0,,Xanthoma
+,,,NCT00574548,,0.0,160.0,,Xanthoma
+,,,NCT00574548,,0.0,267.0,,Xanthoma
+,,,NCT00574548,,0.0,223.0,,Xanthoma
+,,,NCT00574548,,0.0,478.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,237.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,478.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,237.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,160.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,267.0,,Precancerous skin lesion
+,,,NCT00574548,,1.0,223.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,160.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,267.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,223.0,,Precancerous skin lesion
+,,,NCT00574548,,0.0,478.0,,Dermal cyst
+,,,NCT00574548,,0.0,237.0,,Dermal cyst
+,,,NCT00574548,,0.0,478.0,,Dermal cyst
+,,,NCT00574548,,0.0,237.0,,Dermal cyst
+,,,NCT00574548,,1.0,160.0,,Dermal cyst
+,,,NCT00574548,,0.0,267.0,,Dermal cyst
+,,,NCT00574548,,0.0,223.0,,Dermal cyst
+,,,NCT00574548,,0.0,160.0,,Dermal cyst
+,,,NCT00574548,,0.0,267.0,,Dermal cyst
+,,,NCT00574548,,0.0,223.0,,Dermal cyst
+,,,NCT00574548,,0.0,478.0,,Eczema nummular
+,,,NCT00574548,,0.0,237.0,,Eczema nummular
+,,,NCT00574548,,0.0,478.0,,Eczema nummular
+,,,NCT00574548,,0.0,237.0,,Eczema nummular
+,,,NCT00574548,,0.0,160.0,,Eczema nummular
+,,,NCT00574548,,0.0,267.0,,Eczema nummular
+,,,NCT00574548,,0.0,223.0,,Eczema nummular
+,,,NCT00574548,,0.0,160.0,,Eczema nummular
+,,,NCT00574548,,1.0,267.0,,Eczema nummular
+,,,NCT00574548,,0.0,223.0,,Eczema nummular
+,,,NCT00574548,,0.0,478.0,,Nail discolouration
+,,,NCT00574548,,0.0,237.0,,Nail discolouration
+,,,NCT00574548,,0.0,478.0,,Nail discolouration
+,,,NCT00574548,,0.0,237.0,,Nail discolouration
+,,,NCT00574548,,0.0,160.0,,Nail discolouration
+,,,NCT00574548,,0.0,267.0,,Nail discolouration
+,,,NCT00574548,,0.0,223.0,,Nail discolouration
+,,,NCT00574548,,0.0,160.0,,Nail discolouration
+,,,NCT00574548,,1.0,267.0,,Nail discolouration
+,,,NCT00574548,,0.0,223.0,,Nail discolouration
+,,,NCT00574548,,0.0,478.0,,Psoriasis
+,,,NCT00574548,,0.0,237.0,,Psoriasis
+,,,NCT00574548,,0.0,478.0,,Psoriasis
+,,,NCT00574548,,0.0,237.0,,Psoriasis
+,,,NCT00574548,,0.0,160.0,,Psoriasis
+,,,NCT00574548,,0.0,267.0,,Psoriasis
+,,,NCT00574548,,0.0,223.0,,Psoriasis
+,,,NCT00574548,,0.0,160.0,,Psoriasis
+,,,NCT00574548,,1.0,267.0,,Psoriasis
+,,,NCT00574548,,0.0,223.0,,Psoriasis
+,,,NCT00574548,,0.0,478.0,,Postmenopause
+,,,NCT00574548,,0.0,237.0,,Postmenopause
+,,,NCT00574548,,0.0,478.0,,Postmenopause
+,,,NCT00574548,,1.0,237.0,,Postmenopause
+,,,NCT00574548,,0.0,160.0,,Postmenopause
+,,,NCT00574548,,0.0,267.0,,Postmenopause
+,,,NCT00574548,,0.0,223.0,,Postmenopause
+,,,NCT00574548,,0.0,160.0,,Postmenopause
+,,,NCT00574548,,0.0,267.0,,Postmenopause
+,,,NCT00574548,,0.0,223.0,,Postmenopause
+,,,NCT00574548,,2.0,478.0,,Hypertension
+,,,NCT00574548,,1.0,237.0,,Hypertension
+,,,NCT00574548,,5.0,478.0,,Hypertension
+,,,NCT00574548,,0.0,237.0,,Hypertension
+,,,NCT00574548,,0.0,160.0,,Hypertension
+,,,NCT00574548,,1.0,267.0,,Hypertension
+,,,NCT00574548,,2.0,223.0,,Hypertension
+,,,NCT00574548,,0.0,160.0,,Hypertension
+,,,NCT00574548,,3.0,267.0,,Hypertension
+,,,NCT00574548,,0.0,223.0,,Hypertension
+,,,NCT00574548,,1.0,478.0,,Hypotension
+,,,NCT00574548,,0.0,237.0,,Hypotension
+,,,NCT00574548,,0.0,478.0,,Hypotension
+,,,NCT00574548,,0.0,237.0,,Hypotension
+,,,NCT00574548,,1.0,160.0,,Hypotension
+,,,NCT00574548,,1.0,267.0,,Hypotension
+,,,NCT00574548,,0.0,223.0,,Hypotension
+,,,NCT00574548,,0.0,160.0,,Hypotension
+,,,NCT00574548,,0.0,267.0,,Hypotension
+,,,NCT00574548,,0.0,223.0,,Hypotension
+,,,NCT00574548,,0.0,478.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,237.0,,Orthostatic hypertension
+,,,NCT00574548,,1.0,478.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,237.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,160.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,267.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,223.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,160.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,267.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,223.0,,Orthostatic hypertension
+,,,NCT00574548,,0.0,478.0,,Venous insufficiency
+,,,NCT00574548,,0.0,237.0,,Venous insufficiency
+,,,NCT00574548,,0.0,478.0,,Venous insufficiency
+,,,NCT00574548,,1.0,237.0,,Venous insufficiency
+,,,NCT00574548,,0.0,160.0,,Venous insufficiency
+,,,NCT00574548,,0.0,267.0,,Venous insufficiency
+,,,NCT00574548,,0.0,223.0,,Venous insufficiency
+,,,NCT00574548,,0.0,160.0,,Venous insufficiency
+,,,NCT00574548,,0.0,267.0,,Venous insufficiency
+,,,NCT00574548,,0.0,223.0,,Venous insufficiency
+,,,NCT00574548,,0.0,478.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,237.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,478.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,237.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,160.0,,Venous valve ruptured
+,,,NCT00574548,,1.0,267.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,223.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,160.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,267.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,223.0,,Venous valve ruptured
+,,,NCT00574548,,0.0,478.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,237.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,478.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,237.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,160.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,267.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,223.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,160.0,,Arteriosclerosis
+,,,NCT00574548,,1.0,267.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,223.0,,Arteriosclerosis
+,,,NCT00574548,,0.0,478.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,237.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,478.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,237.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,160.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,267.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,223.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,160.0,,Peripheral vascular disorder
+,,,NCT00574548,,1.0,267.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,223.0,,Peripheral vascular disorder
+,,,NCT00574548,,0.0,478.0,,Diverticulitis
+,,,NCT00574548,,0.0,237.0,,Diverticulitis
+,,,NCT00574548,,0.0,478.0,,Diverticulitis
+,,,NCT00574548,,0.0,237.0,,Diverticulitis
+,,,NCT00574548,,0.0,160.0,,Diverticulitis
+,,,NCT00574548,,1.0,267.0,,Diverticulitis
+,,,NCT00574548,,0.0,223.0,,Diverticulitis
+,,,NCT00574548,,0.0,160.0,,Diverticulitis
+,,,NCT00574548,,0.0,267.0,,Diverticulitis
+,,,NCT00574548,,1.0,223.0,,Diverticulitis
+,,,NCT00574548,,33.0,270.0,,Redness (Any)
+,,,NCT00574548,,15.0,134.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,22.0,266.0,,Redness (Mild)
+,,,NCT00574548,,13.0,134.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,17.0,264.0,,Redness (Moderate)
+,,,NCT00574548,,5.0,128.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,3.0,259.0,,Redness (Severe)
+,,,NCT00574548,,1.0,127.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,27.0,270.0,,Swelling (Any)
+,,,NCT00574548,,14.0,135.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,22.0,268.0,,Swelling (Mild)
+,,,NCT00574548,,8.0,132.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,10.0,263.0,,Swelling (Moderate)
+,,,NCT00574548,,10.0,132.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,258.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,127.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,256.0,370.0,,Pain (Any)
+,,,NCT00574548,,102.0,175.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,238.0,360.0,,Pain (Mild)
+,,,NCT00574548,,90.0,170.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,57.0,284.0,,Pain (Moderate)
+,,,NCT00574548,,31.0,143.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,6.0,261.0,,Pain (Severe)
+,,,NCT00574548,,1.0,127.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,68.0,289.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,40.0,142.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,65.0,286.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,37.0,142.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,3.0,260.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,4.0,127.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,3.0,261.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,3.0,128.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,9.0,61.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,7.0,61.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,4.0,57.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,5.0,57.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,5.0,58.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,2.0,58.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,57.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,2.0,57.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,6.0,60.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,7.0,60.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,4.0,59.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,5.0,59.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,1.0,55.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,2.0,55.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,56.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,1.0,56.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,83.0,108.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,82.0,108.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,73.0,101.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,73.0,101.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,13.0,61.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,16.0,61.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,57.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,2.0,57.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,17.0,65.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,16.0,65.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,17.0,65.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,16.0,65.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,1.0,56.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,56.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,56.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,1.0,56.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,33.0,270.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,5.0,115.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,22.0,266.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,5.0,115.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,17.0,264.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,1.0,115.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,3.0,259.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,115.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,27.0,270.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,6.0,119.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,22.0,268.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,6.0,119.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,10.0,263.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,1.0,116.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,258.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,115.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,256.0,370.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,118.0,169.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,238.0,360.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,113.0,166.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,57.0,284.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,23.0,129.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,6.0,261.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,1.0,116.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,68.0,289.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,24.0,130.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,65.0,286.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,22.0,130.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,3.0,260.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,115.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,3.0,261.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,2.0,115.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,15.0,134.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,42.0,151.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,13.0,134.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,28.0,144.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,5.0,128.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,17.0,138.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,1.0,127.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,9.0,131.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,14.0,135.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,40.0,155.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,8.0,132.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,30.0,149.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,10.0,132.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,17.0,138.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,127.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,8.0,132.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,102.0,175.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,198.0,231.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,90.0,170.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,161.0,205.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,31.0,143.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,87.0,176.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,1.0,127.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,18.0,140.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,40.0,142.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,95.0,178.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,37.0,142.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,81.0,171.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,4.0,127.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,14.0,134.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,3.0,128.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,11.0,135.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,11.0,86.0,,Redness (Any)
+,,,NCT00574548,,42.0,151.0,,Redness (Any)
+,,,NCT00574548,,5.0,115.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Any)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,6.0,83.0,,Redness (Mild)
+,,,NCT00574548,,28.0,144.0,,Redness (Mild)
+,,,NCT00574548,,5.0,115.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Mild)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,6.0,83.0,,Redness (Moderate)
+,,,NCT00574548,,17.0,138.0,,Redness (Moderate)
+,,,NCT00574548,,1.0,115.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Moderate)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,2.0,83.0,,Redness (Severe)
+,,,NCT00574548,,9.0,131.0,,Redness (Severe)
+,,,NCT00574548,,0.0,115.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Redness (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,12.0,86.0,,Swelling (Any)
+,,,NCT00574548,,40.0,155.0,,Swelling (Any)
+,,,NCT00574548,,6.0,119.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Any)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,9.0,85.0,,Swelling (Mild)
+,,,NCT00574548,,30.0,149.0,,Swelling (Mild)
+,,,NCT00574548,,6.0,119.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Mild)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,5.0,82.0,,Swelling (Moderate)
+,,,NCT00574548,,17.0,138.0,,Swelling (Moderate)
+,,,NCT00574548,,1.0,116.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Moderate)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,1.0,82.0,,Swelling (Severe)
+,,,NCT00574548,,8.0,132.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,115.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Swelling (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,97.0,129.0,,Pain (Any)
+,,,NCT00574548,,198.0,231.0,,Pain (Any)
+,,,NCT00574548,,118.0,169.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Any)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,89.0,123.0,,Pain (Mild)
+,,,NCT00574548,,161.0,205.0,,Pain (Mild)
+,,,NCT00574548,,113.0,166.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Mild)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,22.0,91.0,,Pain (Moderate)
+,,,NCT00574548,,87.0,176.0,,Pain (Moderate)
+,,,NCT00574548,,23.0,129.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Moderate)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,2.0,83.0,,Pain (Severe)
+,,,NCT00574548,,18.0,140.0,,Pain (Severe)
+,,,NCT00574548,,1.0,116.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Pain (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,26.0,93.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,95.0,178.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,24.0,130.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Any)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,25.0,92.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,81.0,171.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,22.0,130.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Mild)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,3.0,83.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,14.0,134.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,115.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Moderate)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,1.0,82.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,11.0,135.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,2.0,115.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,0.0,0.0,,Limitation of arm movement (Severe)
+,,,NCT00574548,,12.0,263.0,,Fever (Any)
+,,,NCT00574548,,2.0,127.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,10.0,263.0,,Fever (Mild)
+,,,NCT00574548,,1.0,127.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,2.0,259.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,127.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,1.0,259.0,,Fever (Severe)
+,,,NCT00574548,,1.0,127.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,1.0,258.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,127.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,162.0,321.0,,Fatigue
+,,,NCT00574548,,85.0,173.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,163.0,328.0,,Headache
+,,,NCT00574548,,77.0,167.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,57.0,286.0,,Chills
+,,,NCT00574548,,39.0,145.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,23.0,267.0,,Rash
+,,,NCT00574548,,18.0,134.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,8.0,261.0,,Vomiting
+,,,NCT00574548,,4.0,131.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,41.0,278.0,,Decreased appetite
+,,,NCT00574548,,34.0,148.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,152.0,324.0,,New generalized muscle pain
+,,,NCT00574548,,86.0,167.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,63.0,286.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,50.0,154.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,43.0,278.0,,New generalized joint pain
+,,,NCT00574548,,35.0,147.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,38.0,272.0,,Aggravated generalized joint pain
+,,,NCT00574548,,30.0,142.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,5.0,55.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,2.0,55.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,4.0,55.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,55.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,55.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,1.0,55.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,55.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,55.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,1.0,55.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,1.0,55.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,43.0,76.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,33.0,76.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,40.0,76.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,34.0,76.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,11.0,61.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,12.0,61.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,5.0,60.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,6.0,60.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,4.0,56.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,2.0,56.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,8.0,61.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,13.0,61.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,40.0,84.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,43.0,84.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,18.0,68.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,21.0,68.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,9.0,62.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,10.0,62.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,10.0,62.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,12.0,62.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,12.0,263.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,1.0,116.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,10.0,263.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,1.0,116.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,2.0,259.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,115.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,1.0,259.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,115.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,1.0,258.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,115.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,162.0,321.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,58.0,141.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,163.0,328.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,56.0,139.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,57.0,286.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,25.0,127.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,23.0,267.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,10.0,121.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,8.0,261.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,8.0,118.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,41.0,278.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,16.0,123.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,152.0,324.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,68.0,151.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,63.0,286.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,39.0,136.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,43.0,278.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,25.0,128.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,38.0,272.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,28.0,131.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,2.0,127.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,4.0,129.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,1.0,127.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,4.0,129.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,127.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,127.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,1.0,127.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,127.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,127.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,127.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,85.0,173.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,96.0,185.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,77.0,167.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,87.0,175.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,39.0,145.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,45.0,155.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,18.0,134.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,35.0,146.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,4.0,131.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,6.0,131.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,34.0,148.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,24.0,141.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,86.0,167.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,120.0,196.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,50.0,154.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,68.0,164.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,35.0,147.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,39.0,153.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,30.0,142.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,25.0,143.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,2.0,81.0,,Fever (Any)
+,,,NCT00574548,,4.0,129.0,,Fever (Any)
+,,,NCT00574548,,1.0,116.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Any)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,81.0,,Fever (Mild)
+,,,NCT00574548,,4.0,129.0,,Fever (Mild)
+,,,NCT00574548,,1.0,116.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Mild)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,1.0,81.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,127.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,115.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Moderate)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,81.0,,Fever (Severe)
+,,,NCT00574548,,0.0,127.0,,Fever (Severe)
+,,,NCT00574548,,0.0,115.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Severe)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,1.0,81.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,127.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,115.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fever (Potentially life threatening)
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,39.0,100.0,,Fatigue
+,,,NCT00574548,,96.0,185.0,,Fatigue
+,,,NCT00574548,,58.0,141.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Fatigue
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,40.0,96.0,,Headache
+,,,NCT00574548,,87.0,175.0,,Headache
+,,,NCT00574548,,56.0,139.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Headache
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,17.0,90.0,,Chills
+,,,NCT00574548,,45.0,155.0,,Chills
+,,,NCT00574548,,25.0,127.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Chills
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,9.0,86.0,,Rash
+,,,NCT00574548,,35.0,146.0,,Rash
+,,,NCT00574548,,10.0,121.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Rash
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,3.0,82.0,,Vomiting
+,,,NCT00574548,,6.0,131.0,,Vomiting
+,,,NCT00574548,,8.0,118.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Vomiting
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,16.0,89.0,,Decreased appetite
+,,,NCT00574548,,24.0,141.0,,Decreased appetite
+,,,NCT00574548,,16.0,123.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,Decreased appetite
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,54.0,108.0,,New generalized muscle pain
+,,,NCT00574548,,120.0,196.0,,New generalized muscle pain
+,,,NCT00574548,,68.0,151.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,25.0,94.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,68.0,164.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,39.0,136.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized muscle pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,13.0,87.0,,New generalized joint pain
+,,,NCT00574548,,39.0,153.0,,New generalized joint pain
+,,,NCT00574548,,25.0,128.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,New generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,16.0,91.0,,Aggravated generalized joint pain
+,,,NCT00574548,,25.0,143.0,,Aggravated generalized joint pain
+,,,NCT00574548,,28.0,131.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain
+,,,NCT00574548,,0.0,0.0,,Aggravated generalized joint pain

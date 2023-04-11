@@ -41,3 +41,5 @@ To search for adverse event data for a given clinical trial, enter
 `python aact-connect.py -u [your acct username] -p [your aact password] -l [NCT id]`
 
 The results of the AE look up will be in the `AE_lookup` directory with the file name `AE_lookup_[NCT id]_[search date].csv`
+
+Example outputs for each option are given in the appropreiate directories. 
