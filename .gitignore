@@ -1,4 +1,8 @@
 .DS_Store
 
-private/*
-env/*
+private/**
+env/**
+
+additional_data/*.csv
+AE_lookup/*.csv
+queries/*.csv
