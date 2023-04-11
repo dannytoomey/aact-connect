@@ -1,0 +1,53 @@
+select * from studies where
+study_type = 'Interventional'
+and
+enrollment < 1000
+and
+study_first_submitted_date < '2022-06-30'
+and
+(
+(official_title ilike '%challenge%') or
+(official_title ilike '%immunization%' and official_title ilike '%sporozoites%') or
+(official_title ilike '%human%' and official_title ilike '%carriage%') or
+(official_title ilike '%infection%' and
+(official_title ilike '%controlled%' or official_title ilike '%experimental%' or official_title ilike '%induced%')) or
+(official_title ilike '%efficacy%' and official_title ilike '%vaccine%') or
+(official_title ilike '%human%' and official_title ilike '%exposure%') or
+(official_title ilike '%healthy%' and
+(official_title ilike '%naïve%' or official_title ilike '%naive%')) or
+(official_title ilike '%competitive%' and official_title ilike '%carriage%')
+OR
+(brief_title ilike '%challenge%') or
+(brief_title ilike '%immunization%' and brief_title ilike '%sporozoites%') or
+(brief_title ilike '%human%' and brief_title ilike '%carriage%') or
+(brief_title ilike '%infection%' and
+(brief_title ilike '%controlled%' or brief_title ilike '%experimental%' or brief_title ilike '%induced%')) or
+(brief_title ilike '%efficacy%' and brief_title ilike '%vaccine%') or
+(brief_title ilike '%human%' and brief_title ilike '%exposure%') or
+(brief_title ilike '%healthy%' and
+(brief_title ilike '%naïve%' or brief_title ilike '%naive%')) or
+(brief_title ilike '%competitive%' and brief_title ilike '%carriage%')
+OR
+(acronym ilike '%challenge%') or
+(acronym ilike '%human%')
+OR
+nct_id IN
+(select s.nct_id from studies s, keywords k where
+s.nct_id = k.nct_id and k.name ilike '%challenge%')
+OR
+nct_id IN
+(select s.nct_id from studies s, detailed_descriptions d where
+s.nct_id = d.nct_id and
+((d.description ilike '%challenge%') and
+(d.description ilike '%infection%' or
+d.description ilike '%controlled%' or
+d.description ilike '%experimental%')))
+OR
+nct_id IN
+(select s.nct_id from studies s, brief_summaries b where
+s.nct_id = b.nct_id and
+((b.description ilike '%challenge%') and
+(b.description ilike '%infection%' or
+b.description ilike '%controlled%' or
+b.description ilike '%experimental%')))
+) 
