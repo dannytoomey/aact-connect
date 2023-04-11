@@ -4,7 +4,7 @@ private/
 .env
 
 additional_data/*.csv
-!additional_data/query_5131_additional_data_2023-04-10.csv
+!additional_data/query_5130_additional_data_2023-04-10.csv
 AE_lookup/*.csv
 !AE_lookup/AE_lookup_NCT00574548_2023-04-10.csv
 queries/*.csv
