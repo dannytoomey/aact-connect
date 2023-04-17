@@ -7,12 +7,10 @@ private/
 tests/*.csv
 tests/*.xlsx
 additional_data/*
-!additional_data/query_5131_additional_data_2023-04-11.csv
 !additional_data/query_5131_additional_data_2023-04-15.csv
 AE_lookup/*
 !AE_lookup/AE_lookup_NCT00574548_2023-04-10.csv
 query_results/*
-!query_results/query_5131_results_2023-04-11.csv
 !query_results/query_5131_results_2023-04-15.csv
 query_text/*
 !query_text/systematic_review_query.txt
