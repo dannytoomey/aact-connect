@@ -5,7 +5,6 @@ sys.path.append(cwd)
 import pandas as pd
 from aact_connect import AACTConnect
 from datetime import datetime
-import codon
 from tqdm import tqdm
 
 class TestAACT():
@@ -18,12 +17,12 @@ class TestAACT():
 
 	def test_search_number(self):
 		print("\n --- --- --- --- --- ---")
-		print('\nTesting that the number of results are the same as the 4/11/23 search...')
+		print('\nTesting that the number of results are the same as the 4/15/23 search...')
 		self.results = self.aact_connect.search()
 		try:
 			assert self.results[0] == 5131
 		except:
-			print("Comparison search does not return the same number of results as the 4/11/23 search")
+			print("Comparison search does not return the same number of results as the 4/15/23 search")
 		else:
 			print("Test passed!")
 		print(" --- --- --- --- --- ---")
@@ -33,24 +32,24 @@ class TestAACT():
 			self.df2 = pd.read_csv(self.cwd+self.results[1])
 
 		print("\n --- --- --- --- --- ---")
-		print('\nChecking that the comparison search does not omit results from the 4/11/23 search...')
+		print('\nChecking that the comparison search does not omit results from the 4/15/23 search...')
 		count = 0
 		for index, row in self.df1.iterrows():
 			try:
 				assert row['nct_id'] in self.df2['nct_id'].values
 			except:
-				print("Comparison search omits "+row['nct_id']+" present in 4/11/23 search")
+				print("Comparison search omits "+row['nct_id']+" present in 4/15/23 search")
 				count += 1
 		if count == 0:
 			print("Test passed!")
 
-		print('\nChecking that the 4/11/23 search does not omit results from the comparison search...')
+		print('\nChecking that the 4/15/23 search does not omit results from the comparison search...')
 		count = 0
 		for index, row in self.df2.iterrows():
 			try:
 				assert row['nct_id'] in self.df1['nct_id'].values
 			except:
-				print("4/11/23 search omits "+row['nct_id']+" present in comparison search")
+				print("4/15/23 search omits "+row['nct_id']+" present in comparison search")
 				count += 1
 		if count == 0:
 			print("Test passed!")
@@ -63,7 +62,7 @@ class TestAACT():
 			res = self.aact_connect.add_results()
 			self.df2 = pd.read_csv(self.cwd+res[1])
 		print(" --- --- --- --- --- ---")
-		print('\nComparing all column data from the current search to the 4/11/23 search...')
+		print('\nComparing all column data from the current search to the 4/15/23 search...')
 		change_df = []
 
 		df1_cols = self.df1.columns.tolist()
@@ -74,13 +73,13 @@ class TestAACT():
 			try: 
 				assert col in df1_cols
 			except:
-				print(str("Column '"+col+"' in current search not present in 4/11/23 search"))
+				print(str("Column '"+col+"' in current search not present in 4/15/23 search"))
 				error_count += 1
 		for col in df1_cols:
 			try: 
 				assert col in df2_cols
 			except:
-				print(str("Column '"+col+"' in 4/11/23 search not present in current search"))
+				print(str("Column '"+col+"' in 4/15/23 search not present in current search"))
 				error_count += 1
 
 		self.df1.fillna('Empty',inplace=True)
@@ -109,7 +108,7 @@ class TestAACT():
 						else:
 							this_change = {'nct_id':df1_row['nct_id'].values[0],
 										   'column':df1_row[col_name].name,
-										   '4/11/23 value':df1_row[col_name].values[0],
+										   '4/15/23 value':df1_row[col_name].values[0],
 										   'Current search value':df2_row[col_name].values[0]
 										   }
 							change_df.append(this_change)
@@ -132,7 +131,6 @@ if __name__=='__main__':
 
 	parser = argparse.ArgumentParser()
 	cwd = os.getcwd()
-	print(cwd)
 	
 	parser.add_argument("-s", "--search", required=False)
 	parser.add_argument("-a", "--add", action="store_true", required=False)
@@ -144,7 +142,7 @@ if __name__=='__main__':
 		
 	args = parser.parse_args()
 
-	df1 = pd.read_csv(cwd+"/additional_data/query_5131_additional_data_2023-04-11.csv")
+	df1 = pd.read_csv(cwd+"/additional_data/query_5131_additional_data_2023-04-15.csv")
 	if args.compare_existing_frame != None:
 		df2 = pd.read_csv(cwd+"/"+args.compare_existing_frame)
 	if args.compare_current_frame:
