@@ -43,3 +43,9 @@ To search for adverse event data for a given clinical trial, enter
 The results of the AE look up will be in the `AE_lookup` directory with the file name `AE_lookup_[NCT id]_[search date].csv`
 
 Example outputs for each option are given in the appropreiate directories. 
+
+Testing files are included to log changes to our dataset beyond 4/15/23. To generate a list of updates to clinical trial records posted after data collection was completed, enter
+`python tests/test_aact_connect.py -ccf -s query_text/systematic_review_query.txt`
+
+This will re-generate the search and dataset and provide a list of changes made since 4/15/23. A comparison to an existing data frame can be generated with 
+`python tests/test_aact_connect.py -cef additional_data/[preivously generated frame]`
