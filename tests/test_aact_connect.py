@@ -61,6 +61,13 @@ class TestAACT():
 			self.args.use_search = self.results[1]
 			res = self.aact_connect.add_results()
 			self.df2 = pd.read_csv(self.cwd+res[1])
+
+		with open(cwd+"/tests/included_records.txt") as f:
+			lines = f.readlines()
+			included_records = []
+			for line in lines:
+				included_records.append(line.rstrip())
+			
 		print(" --- --- --- --- --- ---")
 		print('\nComparing all column data from the current search to the 4/15/23 search...')
 		change_df = []
@@ -109,7 +116,8 @@ class TestAACT():
 							this_change = {'nct_id':df1_row['nct_id'].values[0],
 										   'column':df1_row[col_name].name,
 										   '4/15/23 value':df1_row[col_name].values[0],
-										   'Current search value':df2_row[col_name].values[0]
+										   'Current search value':df2_row[col_name].values[0],
+										   'Included in systematic review?':df1_row['nct_id'].values[0] in included_records
 										   }
 							change_df.append(this_change)
 		
