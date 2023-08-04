@@ -1,15 +1,12 @@
 .DS_Store
-__pycache__/
 
 private/
-.env/
+target/
 
-tests/*.csv
-tests/*.xlsx
+comparisons/*
+!comparisons/*.txt
 additional_data/*
 !additional_data/query_5131_additional_data_2023-04-15.csv
-AE_lookup/*
-!AE_lookup/AE_lookup_NCT00574548_2023-04-10.csv
 query_results/*
 !query_results/query_5131_results_2023-04-15.csv
 query_text/*
