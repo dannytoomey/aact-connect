@@ -1,23 +1,19 @@
 ## AACT Connect
 
-This repository contains a command line executable python file (aact-connect.py) and its dependencies.
+This repository contains a CLI for interacting with the ClinicalTrials.gov AACT API, written in rust.
 
-## UNIX Setup
+## Setup
 
 1. Create a free AACT account [here](https://aact.ctti-clinicaltrials.org/users/sign_up) 
 
 2. Clone or download this repository ([tutorial here](https://www.tutorialspoint.com/how-to-clone-a-github-repository))
 
-3. Navigate into repository with `cd aact-python` 
-
-4. Install dependencies with `python3 -m pip install -r requirements.txt`
+4. Install [rust](https://www.rust-lang.org/tools/install) on your local machine. Precompiled binary files are provided as releases for 64-bit macOS 10.7+, 64-bit Windows MinGW (7+), and 64-bit Linux kernel 3.2+ (glic 2.17+). Examples will be given using `cargo run`, but binary files may be used instead for users who do not have rust installed. 
 
 ## Usage
 
-There are several flags you can use to run different commands
-
-To perform a search, create a `.txt` file with a SQL query in the `query_text` directory and enter
-`python aact-connect.py -u [your acct username] -p [your aact password] -s [search string as a .txt file]`
+- To perform a search using the SQL query provided in `./query_text/systematic_review_query.txt`, enter
+`cargo run -- -u [your acct username] -p [your aact password] -s`
 
 _Optional: To avoid having to re-enter your credentials every time you run the command, create a directory named `private` and place a file named `myconfig.txt` in it. Then type your username on the top line and your password on the second line, so that `private/myconfig.txt` reads as:_
 ```
@@ -27,25 +23,19 @@ _Optional: To avoid having to re-enter your credentials every time you run the c
 
 The results of the search will be in the `query_results` directory with the file name `query_[number of results]_results_[search date].csv`. 
 
-To add additional data of interest to the search results, enter
-`python aact-connect.py -u [your acct username] -p [your aact password] -s [query text] -a`
+_Note: This operation is multithreaded for performance. The default number of threads used is 100. This can be adjusted by the `-t` flag followed by the number of threads you would like open on your system at once. To adjust this to an appropreiate number, refer to your system's resources._
 
-And to add additional data on a search that was already performed, enter
-`python aact-connect.py -u [your acct username] -p [your aact password] -a -us [path of CSV file with prior search results]`
-
-The results of the data additions will be in the `additional_data` directory with the file name `query_[number of results]_additional_data_[search date].csv`
-
-_Note: This operation can take a few minutes. A progress bar with an estimate time to completion is provided_
-
-To search for adverse event data for a given clinical trial, enter
-`python aact-connect.py -u [your acct username] -p [your aact password] -l [NCT id]`
-
-The results of the AE look up will be in the `AE_lookup` directory with the file name `AE_lookup_[NCT id]_[search date].csv`
-
-Example outputs for each option are given in the appropreiate directories. 
-
-Testing files are included to log changes to our dataset beyond 4/15/23. To generate a list of updates to clinical trial records posted after data collection was completed, enter
-`python tests/test_aact_connect.py -ccf -s query_text/systematic_review_query.txt`
+- To generate a list of updates to included clinical trial records posted after data collection was completed on 4/15/23, enter
+`cargo run -- -s -c`
 
 This will re-generate the search and dataset and provide a list of changes made since 4/15/23. A comparison to an existing data frame can be generated with 
-`python tests/test_aact_connect.py -cef additional_data/[preivously generated frame]`
+`cargo run -- -e additional_data/[preivously generated frame]`
+
+## Common errors
+
+- Error:
+```
+thread 'main' panicked at 'called `Result::unwrap()` on an `Err` value: Error { kind: Db, cause: Some(DbError { severity: "FATAL", parsed_severity: Some(Fatal), code: SqlState(E53300), message: "too many connections for database \"aact\"", detail: None, hint: None, position: None, where_: None, schema: None, table: None, column: None, datatype: None, constraint: None, file: Some("postinit.c"), line: Some(364), routine: Some("CheckMyDatabase") }) }'
+```
+- Solution:
+This can be fixed by reducing the number of threads used to add results. For example: `cargo run -- -s -c -t 75`
