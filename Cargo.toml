@@ -7,7 +7,7 @@ edition = "2021"
 tokio = { version = "1.21.2", features = ["full"] }
 tokio-postgres = { version = "0.7.8", features = ["with-chrono-0_4", "with-time-0_3"] }
 csv = "1.2.2"
-polars = { version = "0.31.1", features = ["lazy", "is_in"] }
+polars = { version = "0.31.1", features = ["lazy", "is_in", "temporal"] }
 chrono = "0.4.26"
 indicatif = "0.17.5"
 futures = "0.3.28"

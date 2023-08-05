@@ -27,6 +27,7 @@ pub struct Args{
     pub threads: u16
 }
 
+#[derive(Debug)]
 pub struct ConnectResults{
 	pub nct_id: Option<String>,
 	pub nlm_download_date_description: Option<String>,
@@ -780,9 +781,10 @@ pub fn add_struct_to_polars(vec: Vec<AddResults>) -> Result<DataFrame, Box<dyn E
 pub fn compare_dataset(comp_df: DataFrame)->Result<(),Box<dyn Error>>{
     let orginal_df = CsvReader::from_path("additional_data/query_5131_additional_data_2023-04-15.csv")?
         .has_header(true)
-        .finish();
+        .finish()
+        .unwrap();
     
-    let orgn_binding = orginal_df?.clone();
+    let orgn_binding = orginal_df.clone();
     let comp_binding = comp_df.clone();
 
     let orgn_shape = orgn_binding.shape();
@@ -863,21 +865,31 @@ pub fn compare_dataset(comp_df: DataFrame)->Result<(),Box<dyn Error>>{
 
     for col in 0..filter_shape.1 {
         let orgn_series = orgn_iter.next().unwrap();
-        let comp_series = comp_iter.next().unwrap();
+        let comp_series = comp_iter.next().unwrap().cast(orgn_series.dtype()).unwrap();
         let length = orgn_series.len();
+        
+        for i in 0..length {    
 
-        for i in 0..length {
-            let orgn_val: &str = &String::from(format!("{}",orgn_series.get(i).unwrap()));
-            let comp_val: &str = &String::from(format!("{}",comp_series.get(i).unwrap()));
+            let orgn_val = orgn_series.get(i).unwrap();
+            let comp_val = comp_series.get(i).unwrap();
+            
             if orgn_val != comp_val {
-                wtr.serialize((shared_ncts[i], col_names[col], orgn_val, comp_val, included_ncts.contains(&String::from(shared_ncts[i].unwrap()))))?;
-                wtr.flush()?;
-                changes += 1;
-                if included_ncts.contains(&String::from(shared_ncts[i].unwrap())) {
-                    inc_changes += 1;
+                let orgn_str: &str = &String::from(format!("{}",orgn_val));
+                let comp_str: &str = &String::from(format!("{}",comp_val));
+                if orgn_str == "\"True\"" && comp_str == "\"true\"" {
+                } else {
+                    wtr.serialize((shared_ncts[i], col_names[col], orgn_str, comp_str, included_ncts.contains(&String::from(shared_ncts[i].unwrap()))))?;
+                    wtr.flush()?;
+                    changes += 1;
+                    if included_ncts.contains(&String::from(shared_ncts[i].unwrap())) {
+                        inc_changes += 1;
+                    }
                 }
             }   
-        }        
+        }   
+
+
+             
     }
     
     println!("\n 3. {} changes logged at {}", changes, path);
