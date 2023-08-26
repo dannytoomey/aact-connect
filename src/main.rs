@@ -5,6 +5,8 @@ use clap::Parser;
 
 #[tokio::main] 
 async fn main() -> Result<(), Box<dyn Error>> {
+    let _ = aact_connect::setup().await?;
+    
     let mut args =  aact_connect::Args::parse();
     args = match aact_connect::check_args(args) {
         Ok(args) => args,
@@ -61,6 +63,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
             .unwrap();
         let _ = aact_connect::compare_dataset(comp_df);
     }
+    
     
     Ok(())
 
