@@ -1,5 +1,6 @@
 use std::error::Error;
 use std::process;
+use std::sync::Arc;
 use polars::prelude::*;
 use clap::Parser;
 
@@ -47,8 +48,11 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
         if args.current_frame {
             println!("Comparing datasets...");
+            let mut partial_schema: Schema = Schema::new();
+            partial_schema.with_column("ci_percent".into(), DataType::Utf8);
             let comp_df = CsvReader::from_path(path.clone())?
-                .has_header(true)
+                .has_header(true)            
+                .with_dtypes(Some(Arc::new(partial_schema)))
                 .finish()
                 .unwrap();
             let _ = aact_connect::compare_dataset(comp_df);
@@ -57,13 +61,15 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     if args.existing_frame != None {
         println!("Comparing datasets...");
+        let mut partial_schema: Schema = Schema::new();
+        partial_schema.with_column("ci_percent".into(), DataType::Utf8);
         let comp_df = CsvReader::from_path(args.existing_frame.unwrap())?
             .has_header(true)
+            .with_dtypes(Some(Arc::new(partial_schema)))
             .finish()
             .unwrap();
         let _ = aact_connect::compare_dataset(comp_df);
     }
-    
     
     Ok(())
 

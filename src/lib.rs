@@ -932,10 +932,7 @@ pub fn compare_dataset(comp_df: DataFrame)->Result<(),Box<dyn Error>>{
                     }
                 }
             }   
-        }   
-
-
-             
+        }    
     }
     
     println!("\n 3. {} changes logged at {}", changes, path);
