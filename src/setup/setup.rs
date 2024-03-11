@@ -45,6 +45,5 @@ pub async fn setup() -> Result<(), Box<dyn Error>> {
     if Path::new("./query_results").exists() == false {
         fs::create_dir_all("./query_results")?;
     }
-
     Ok(())
 }

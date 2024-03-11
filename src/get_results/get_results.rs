@@ -9,25 +9,18 @@ pub async fn get_results(user: &str, pw: &str) -> Result<Vec<ConnectResults>, To
     let dbname = "aact";
     let user = user;
     let pw = pw;
-
     let conn = format!("host={host} user={user} password={pw} port={port} dbname={dbname}");
-
     let (client, connection) = tokio_postgres::connect(&conn, NoTls).await?;
-
     tokio::spawn(async move {
         if let Err(e) = connection.await {
             eprintln!("connection error: {}", e);
         }
     });
-
     let query = fs::read_to_string("./query_text/systematic_review_query.txt")
         .expect("query file not found")
         .replace("\n", " ");
-
     let rows = client.query(&query, &[]).await?;
-
     let mut results = Vec::<ConnectResults>::new();
-
     for row in rows {
         let nct_id: Option<String> = row.get("nct_id");
         let nlm_download_date_description: Option<String> =
@@ -118,7 +111,6 @@ pub async fn get_results(user: &str, pw: &str) -> Result<Vec<ConnectResults>, To
             row.get("expanded_access_status_for_nctid");
         let fdaaa801_violation: Option<bool> = row.get("fdaaa801_violation");
         let baseline_type_units_analyzed: Option<String> = row.get("baseline_type_units_analyzed");
-
         results.push(ConnectResults {
             nct_id,
             nlm_download_date_description,
