@@ -3,7 +3,7 @@ use crate::structs::args::Args;
 use crate::tests::utils::print_type_of;
 
 #[test]
-fn test_check_args() {
+fn test_setup() {
     let test_args = Args {
         username: Some("test".to_string()),
         password: Some("test".to_string()),

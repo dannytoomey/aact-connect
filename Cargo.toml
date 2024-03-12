@@ -5,7 +5,10 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1.21.2", features = ["full"] }
-tokio-postgres = { version = "0.7.8", features = ["with-chrono-0_4", "with-time-0_3"] }
+tokio-postgres = { version = "0.7.8", features = [
+    "with-chrono-0_4",
+    "with-time-0_3",
+] }
 csv = "1.2.2"
 polars = { version = "0.31.1", features = ["lazy", "is_in"] }
 chrono = "0.4.26"
