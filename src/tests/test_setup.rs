@@ -1,6 +1,6 @@
 use crate::setup::check_args::check_args;
 use crate::structs::args::Args;
-use crate::tests::utils::print_type_of;
+use crate::tests::utils::get_type_of;
 
 #[test]
 fn test_setup() {
@@ -12,7 +12,7 @@ fn test_setup() {
         existing_frame: Some("".to_string()),
         threads: 64,
     };
-    let test_type = print_type_of(&test_args);
+    let test_type = get_type_of(&test_args);
     let check = check_args(test_args);
-    assert_eq!(test_type, print_type_of(&check.unwrap()))
+    assert_eq!(test_type, get_type_of(&check.unwrap()))
 }

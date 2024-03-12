@@ -4,7 +4,10 @@ use polars::df;
 use polars::prelude::*;
 use std::error::Error;
 
-pub fn result_struct_to_polars(vec: Vec<ConnectResults>) -> Result<DataFrame, Box<dyn Error>> {
+pub fn result_struct_to_polars(
+    vec: Vec<ConnectResults>,
+    test: bool,
+) -> Result<DataFrame, Box<dyn Error>> {
     let mut nct_id: Vec<Option<String>> = Vec::new();
     let mut nlm_download_date_description: Vec<Option<String>> = Vec::new();
     let mut study_first_submitted_date: Vec<Option<chrono::NaiveDate>> = Vec::new();
@@ -221,10 +224,12 @@ pub fn result_struct_to_polars(vec: Vec<ConnectResults>) -> Result<DataFrame, Bo
         "baseline_type_units_analyzed" => &baseline_type_units_analyzed
     )
     .unwrap();
-    let mut date = format!("{}", chrono::offset::Local::now());
-    date = date[0..10].to_string();
-    let path = format!("query_results/query_{}_results_{}.csv", df.shape().0, date);
-    let mut file = std::fs::File::create(path).unwrap();
-    CsvWriter::new(&mut file).finish(&mut df).unwrap();
+    if test == false {
+        let mut date = format!("{}", chrono::offset::Local::now());
+        date = date[0..10].to_string();
+        let path = format!("query_results/query_{}_results_{}.csv", df.shape().0, date);
+        let mut file = std::fs::File::create(path).unwrap();
+        CsvWriter::new(&mut file).finish(&mut df).unwrap();
+    }
     Ok(df)
 }

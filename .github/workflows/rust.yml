@@ -12,8 +12,6 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment:
-      name: worflows
     steps:
       - uses: actions/checkout@v3
       - name: Install stable toolchain
@@ -21,12 +19,8 @@ jobs:
         with:
           profile: minimal
           toolchain: 1.75.0
-          target: wasm32-unknown-unknown
           override: true
       - name: Build
-        run: cargo build --verbose
+        run: cargo build
       - name: Run tests
-        run: cargo test --verbose
-        env:
-          USERNAME: ${{ secrets.USERNAME }}
-          PWD: ${{ secrets.PWD }}
+        run: cargo test

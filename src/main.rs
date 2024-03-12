@@ -25,6 +25,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         println!("Storing results as dataframe...");
         let df = aact_connect::get_results::result_struct_to_polars::result_struct_to_polars(
             get_results,
+            false,
         )?;
         let threads_used = args.threads;
         println!(
