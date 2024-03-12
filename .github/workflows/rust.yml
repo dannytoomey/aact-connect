@@ -22,4 +22,4 @@ jobs:
         run: cargo test --verbose
         env:
           USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          PASSWORD: ${{ secrets.PWD }}
