@@ -9,7 +9,7 @@ use std::error::Error;
 #[tokio::test]
 async fn test_results() -> Result<(), Box<dyn Error>> {
     let username = var("USERNAME").unwrap_or_else(|_| String::new());
-    let password = var("PASSWORD").unwrap_or_else(|_| String::new());
+    let password = var("PWD").unwrap_or_else(|_| String::new());
     println!("{:?}", username);
     let username = username.as_str();
     let password = password.as_str();
