@@ -4,11 +4,14 @@ use chrono::{Duration, NaiveDate};
 use polars::export::num::ToPrimitive;
 use polars::lazy::frame::IntoLazy;
 use polars::prelude::*;
+use std::env::var;
 use std::error::Error;
 
 #[tokio::test]
 async fn nct_id() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -23,7 +26,9 @@ async fn nct_id() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn nlm_download_date_description() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -42,7 +47,9 @@ async fn nlm_download_date_description() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn study_first_submitted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -59,7 +66,9 @@ async fn study_first_submitted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn results_first_submitted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -76,7 +85,9 @@ async fn results_first_submitted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn disposition_first_submitted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -95,7 +106,9 @@ async fn disposition_first_submitted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn last_update_submitted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -112,7 +125,9 @@ async fn last_update_submitted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn study_first_submitted_qc_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -129,7 +144,9 @@ async fn study_first_submitted_qc_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn study_first_posted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -146,7 +163,9 @@ async fn study_first_posted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn study_first_posted_date_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -165,7 +184,9 @@ async fn study_first_posted_date_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn results_first_submitted_qc_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -182,7 +203,9 @@ async fn results_first_submitted_qc_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn results_first_posted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -199,7 +222,9 @@ async fn results_first_posted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn results_first_posted_date_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -218,7 +243,9 @@ async fn results_first_posted_date_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn disposition_first_submitted_qc_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -237,7 +264,9 @@ async fn disposition_first_submitted_qc_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn disposition_first_posted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -256,7 +285,9 @@ async fn disposition_first_posted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn disposition_first_posted_date_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -275,7 +306,9 @@ async fn disposition_first_posted_date_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn last_update_submitted_qc_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -292,7 +325,9 @@ async fn last_update_submitted_qc_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn last_update_posted_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -309,7 +344,9 @@ async fn last_update_posted_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn last_update_posted_date_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -328,7 +365,9 @@ async fn last_update_posted_date_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn start_month_year() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -347,7 +386,9 @@ async fn start_month_year() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn start_date_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -363,7 +404,9 @@ async fn start_date_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn start_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -380,7 +423,9 @@ async fn start_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn verification_month_year() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -399,7 +444,9 @@ async fn verification_month_year() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn verification_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -416,7 +463,9 @@ async fn verification_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn completion_month_year() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -435,7 +484,9 @@ async fn completion_month_year() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn completion_date_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -454,7 +505,9 @@ async fn completion_date_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn completion_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -471,7 +524,9 @@ async fn completion_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn primary_completion_month_year() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -493,7 +548,9 @@ async fn primary_completion_month_year() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn primary_completion_date_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -512,7 +569,9 @@ async fn primary_completion_date_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn primary_completion_date() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -529,7 +588,9 @@ async fn primary_completion_date() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn target_duration() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -545,7 +606,9 @@ async fn target_duration() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn study_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -560,7 +623,9 @@ async fn study_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn acronym() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -575,7 +640,9 @@ async fn acronym() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn baseline_population() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -597,7 +664,9 @@ async fn baseline_population() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn brief_title() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -612,7 +681,9 @@ async fn brief_title() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn official_title() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -631,7 +702,9 @@ async fn official_title() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn overall_status() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -647,7 +720,9 @@ async fn overall_status() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn last_known_status() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -666,7 +741,9 @@ async fn last_known_status() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn phase() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -681,7 +758,9 @@ async fn phase() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn enrollment() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -696,7 +775,9 @@ async fn enrollment() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn enrollment_type() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -712,7 +793,9 @@ async fn enrollment_type() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn source() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -727,7 +810,9 @@ async fn source() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn limitations_and_caveats() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -746,7 +831,9 @@ async fn limitations_and_caveats() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn number_of_arms() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -762,7 +849,9 @@ async fn number_of_arms() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn number_of_groups() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -778,7 +867,9 @@ async fn number_of_groups() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn why_stopped() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -793,7 +884,9 @@ async fn why_stopped() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn has_expanded_access() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -812,7 +905,9 @@ async fn has_expanded_access() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn expanded_access_type_individual() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -831,7 +926,9 @@ async fn expanded_access_type_individual() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn expanded_access_type_intermediate() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -850,7 +947,9 @@ async fn expanded_access_type_intermediate() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn expanded_access_type_treatment() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -869,7 +968,9 @@ async fn expanded_access_type_treatment() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn has_dmc() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -884,7 +985,9 @@ async fn has_dmc() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn is_fda_regulated_drug() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -903,7 +1006,9 @@ async fn is_fda_regulated_drug() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn is_fda_regulated_device() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -922,7 +1027,9 @@ async fn is_fda_regulated_device() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn is_unapproved_device() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -941,7 +1048,9 @@ async fn is_unapproved_device() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn is_ppsd() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -956,7 +1065,9 @@ async fn is_ppsd() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn is_us_export() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -971,7 +1082,9 @@ async fn is_us_export() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn biospec_retention() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -990,7 +1103,9 @@ async fn biospec_retention() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn biospec_description() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1009,7 +1124,9 @@ async fn biospec_description() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn ipd_time_frame() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1025,7 +1142,9 @@ async fn ipd_time_frame() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn ipd_access_criteria() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1044,7 +1163,9 @@ async fn ipd_access_criteria() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn ipd_url() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1059,7 +1180,9 @@ async fn ipd_url() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn plan_to_share_ipd() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1078,7 +1201,9 @@ async fn plan_to_share_ipd() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn plan_to_share_ipd_description() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1097,7 +1222,9 @@ async fn plan_to_share_ipd_description() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn source_class() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1112,7 +1239,9 @@ async fn source_class() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn delayed_posting() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1128,7 +1257,9 @@ async fn delayed_posting() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn expanded_access_nctid() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1147,7 +1278,9 @@ async fn expanded_access_nctid() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn expanded_access_status_for_nctid() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1166,7 +1299,9 @@ async fn expanded_access_status_for_nctid() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn fdaaa801_violation() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()
@@ -1185,7 +1320,9 @@ async fn fdaaa801_violation() -> Result<(), Box<dyn Error>> {
 }
 #[tokio::test]
 async fn baseline_type_units_analyzed() -> Result<(), Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let row = polars_struct_test
         .unwrap()

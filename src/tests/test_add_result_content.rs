@@ -3,6 +3,7 @@ use crate::add_results::add_struct_to_polars::add_struct_to_polars;
 use crate::get_results::get_results::get_results;
 use crate::get_results::result_struct_to_polars::result_struct_to_polars;
 use polars::prelude::*;
+use std::env::var;
 use std::error::Error;
 
 #[tokio::test]
@@ -151,7 +152,9 @@ async fn num_aes_described() -> Result<(), Box<dyn Error>> {
 }
 
 async fn get_data() -> Result<DataFrame, Box<dyn Error>> {
-    let test_results = get_results("dannytoomey", "aact").await?;
+    let un = var("USERNAME").unwrap_or_else(|_| String::new());
+    let pw = var("PASSW").unwrap_or_else(|_| String::new());
+    let test_results = get_results(un.as_str(), pw.as_str()).await?;
     let polars_struct_test = result_struct_to_polars(test_results, true);
     let included_results = polars_struct_test
         .unwrap()
@@ -159,7 +162,7 @@ async fn get_data() -> Result<DataFrame, Box<dyn Error>> {
         .filter(col("nct_id").eq(lit("NCT01059565")))
         .collect()
         .unwrap();
-    let add_test = add_results("dannytoomey", "aact", included_results, 8).await?;
+    let add_test = add_results(un.as_str(), pw.as_str(), included_results, 8).await?;
     let add_test_polars = add_struct_to_polars(add_test);
     Ok(add_test_polars.unwrap())
 }
