@@ -1,0 +1,40 @@
+use crate::add_results::add_results::add_results;
+use crate::add_results::add_struct_to_polars::add_struct_to_polars;
+use crate::get_results::get_results::get_results;
+use crate::get_results::result_struct_to_polars::result_struct_to_polars;
+use crate::tests::utils::get_type_of;
+use polars::prelude::*;
+use std::error::Error;
+use std::fs::File;
+use std::io::{BufRead, BufReader};
+
+#[tokio::test]
+async fn test_add_results() -> Result<(), Box<dyn Error>> {
+    let test_results = get_results("dannytoomey", "aact").await?;
+    let polars_struct_test = result_struct_to_polars(test_results, true);
+    let mut included_ncts = Vec::<String>::new();
+    let filename = "./comparisons/included_records.txt";
+    let file = File::open(filename).unwrap();
+    let reader = BufReader::new(file);
+    for (_, line) in reader.lines().enumerate() {
+        included_ncts.push(line?);
+    }
+    let ids_series = Series::new("ID", included_ncts);
+    let included_results = polars_struct_test
+        .unwrap()
+        .lazy()
+        .filter(col("nct_id").is_in(lit(ids_series)))
+        .collect()
+        .unwrap();
+    let add_test = add_results("dannytoomey", "aact", included_results, 8).await?;
+    assert_eq!(
+        "alloc::vec::Vec<aact_connect::structs::add_results::AddResults>",
+        get_type_of(&add_test)
+    );
+    let add_test_polars = add_struct_to_polars(add_test);
+    assert_eq!(
+        "polars_core::frame::DataFrame",
+        get_type_of(add_test_polars.as_ref().unwrap())
+    );
+    Ok(())
+}
