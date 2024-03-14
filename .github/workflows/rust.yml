@@ -8,12 +8,11 @@ on:
 
 env:
   CARGO_TERM_COLOR: always
-  USERNAME: ${{ secrets.USERNAME }}
-  PASSW: ${{ secrets.PASSW }}
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: workflows
     steps:
       - uses: actions/checkout@v3
       - name: Install stable toolchain
@@ -25,4 +24,7 @@ jobs:
       - name: Build
         run: cargo build
       - name: Test
+        env:
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSW: ${{ secrets.PASSW }}
         run: cargo test
