@@ -1,9 +1,9 @@
 name: Rust
 
 on:
-  push:
-    branches: ["master"]
   pull_request:
+    branches: ["master"]
+  push:
     branches: ["master"]
 
 env:
@@ -12,6 +12,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: workflows
     steps:
       - uses: actions/checkout@v3
       - name: Install stable toolchain
@@ -22,5 +23,8 @@ jobs:
           override: true
       - name: Build
         run: cargo build
-      - name: Run tests
+      - name: Test
+        env:
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSW: ${{ secrets.PASSW }}
         run: cargo test
