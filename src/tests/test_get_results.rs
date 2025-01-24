@@ -13,6 +13,7 @@ async fn test_get_results() -> Result<(), Box<dyn Error>> {
         "alloc::vec::Vec<aact_connect::structs::connect_results::ConnectResults>",
         get_type_of(&test_results)
     );
+    assert!(test_results.len() > 0);
     let polars_struct_test = result_struct_to_polars(test_results, true);
     assert_eq!(
         "polars_core::frame::DataFrame",

@@ -105,7 +105,7 @@ pub async fn get_results(user: &str, pw: &str) -> Result<Vec<ConnectResults>, To
         let created_at: Option<chrono::NaiveDateTime> = row.get("created_at");
         let updated_at: Option<chrono::NaiveDateTime> = row.get("updated_at");
         let source_class: Option<String> = row.get("source_class");
-        let delayed_posting: Option<String> = row.get("delayed_posting");
+        let delayed_posting: Option<bool> = row.get("delayed_posting");
         let expanded_access_nctid: Option<String> = row.get("expanded_access_nctid");
         let expanded_access_status_for_nctid: Option<String> =
             row.get("expanded_access_status_for_nctid");

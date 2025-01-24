@@ -34,6 +34,7 @@ async fn test_add_results() -> Result<(), Box<dyn Error>> {
         "alloc::vec::Vec<aact_connect::structs::add_results::AddResults>",
         get_type_of(&add_test)
     );
+    assert!(add_test.len() > 0);
     let add_test_polars = add_struct_to_polars(add_test);
     assert_eq!(
         "polars_core::frame::DataFrame",

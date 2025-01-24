@@ -73,7 +73,7 @@ pub fn result_struct_to_polars(
     let mut created_at: Vec<Option<chrono::NaiveDateTime>> = Vec::new();
     let mut updated_at: Vec<Option<chrono::NaiveDateTime>> = Vec::new();
     let mut source_class: Vec<Option<String>> = Vec::new();
-    let mut delayed_posting: Vec<Option<String>> = Vec::new();
+    let mut delayed_posting: Vec<Option<bool>> = Vec::new();
     let mut expanded_access_nctid: Vec<Option<String>> = Vec::new();
     let mut expanded_access_status_for_nctid: Vec<Option<String>> = Vec::new();
     let mut fdaaa801_violation: Vec<Option<bool>> = Vec::new();
