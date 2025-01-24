@@ -1,5 +1,5 @@
 select * from studies where
-study_type = 'Interventional'
+study_type = 'INTERVENTIONAL'
 and
 enrollment < 1000
 and
@@ -50,4 +50,4 @@ s.nct_id = b.nct_id and
 (b.description ilike '%infection%' or
 b.description ilike '%controlled%' or
 b.description ilike '%experimental%')))
-) 
+)

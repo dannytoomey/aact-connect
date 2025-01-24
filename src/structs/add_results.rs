@@ -1,4 +1,4 @@
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct AddResults {
     pub nct_id: Option<String>,
     pub number_of_nsae_subjects: Option<i32>,

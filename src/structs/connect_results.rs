@@ -1,4 +1,4 @@
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct ConnectResults {
     pub nct_id: Option<String>,
     pub nlm_download_date_description: Option<String>,
@@ -65,7 +65,7 @@ pub struct ConnectResults {
     pub created_at: Option<chrono::NaiveDateTime>,
     pub updated_at: Option<chrono::NaiveDateTime>,
     pub source_class: Option<String>,
-    pub delayed_posting: Option<String>,
+    pub delayed_posting: Option<bool>,
     pub expanded_access_nctid: Option<String>,
     pub expanded_access_status_for_nctid: Option<String>,
     pub fdaaa801_violation: Option<bool>,

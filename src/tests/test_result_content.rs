@@ -179,7 +179,7 @@ async fn study_first_posted_date_type() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("Actual", study_first_posted_date_type[0].unwrap());
+    assert_eq!("ACTUAL", study_first_posted_date_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -238,7 +238,7 @@ async fn results_first_posted_date_type() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("Actual", results_first_posted_date_type[0].unwrap());
+    assert_eq!("ACTUAL", results_first_posted_date_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -360,7 +360,7 @@ async fn last_update_posted_date_type() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("Actual", last_update_posted_date_type[0].unwrap());
+    assert_eq!("ACTUAL", last_update_posted_date_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -381,7 +381,7 @@ async fn start_month_year() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("May 18, 2017", start_month_year[0].unwrap());
+    assert_eq!("2017-05-18", start_month_year[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -399,7 +399,7 @@ async fn start_date_type() -> Result<(), Box<dyn Error>> {
         .unwrap();
     let start_date_type: Vec<Option<&str>> =
         row.column("start_date_type")?.utf8()?.into_iter().collect();
-    assert_eq!("Actual", start_date_type[0].unwrap());
+    assert_eq!("ACTUAL", start_date_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -439,7 +439,7 @@ async fn verification_month_year() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("November 2019", verification_month_year[0].unwrap());
+    assert_eq!("2019-11", verification_month_year[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -479,7 +479,7 @@ async fn completion_month_year() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("February 21, 2018", completion_month_year[0].unwrap());
+    assert_eq!("2018-02-21", completion_month_year[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -500,7 +500,7 @@ async fn completion_date_type() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("Actual", completion_date_type[0].unwrap());
+    assert_eq!("ACTUAL", completion_date_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -540,10 +540,7 @@ async fn primary_completion_month_year() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!(
-        "February 7, 2018",
-        primary_completion_month_year[0].unwrap()
-    );
+    assert_eq!("2018-02-07", primary_completion_month_year[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -564,7 +561,7 @@ async fn primary_completion_date_type() -> Result<(), Box<dyn Error>> {
         .utf8()?
         .into_iter()
         .collect();
-    assert_eq!("Actual", primary_completion_date_type[0].unwrap());
+    assert_eq!("ACTUAL", primary_completion_date_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -618,7 +615,7 @@ async fn study_type() -> Result<(), Box<dyn Error>> {
         .collect()
         .unwrap();
     let study_type: Vec<Option<&str>> = row.column("study_type")?.utf8()?.into_iter().collect();
-    assert_eq!("Interventional", study_type[0].unwrap());
+    assert_eq!("INTERVENTIONAL", study_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -715,7 +712,7 @@ async fn overall_status() -> Result<(), Box<dyn Error>> {
         .unwrap();
     let overall_status: Vec<Option<&str>> =
         row.column("overall_status")?.utf8()?.into_iter().collect();
-    assert_eq!("Completed", overall_status[0].unwrap());
+    assert_eq!("COMPLETED", overall_status[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -753,7 +750,7 @@ async fn phase() -> Result<(), Box<dyn Error>> {
         .collect()
         .unwrap();
     let phase: Vec<Option<&str>> = row.column("phase")?.utf8()?.into_iter().collect();
-    assert_eq!("Phase 1", phase[0].unwrap());
+    assert_eq!("PHASE1", phase[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -788,7 +785,7 @@ async fn enrollment_type() -> Result<(), Box<dyn Error>> {
         .unwrap();
     let enrollment_type: Vec<Option<&str>> =
         row.column("enrollment_type")?.utf8()?.into_iter().collect();
-    assert_eq!("Actual", enrollment_type[0].unwrap());
+    assert_eq!("ACTUAL", enrollment_type[0].unwrap());
     Ok(())
 }
 #[tokio::test]
@@ -1250,8 +1247,8 @@ async fn delayed_posting() -> Result<(), Box<dyn Error>> {
         .filter(col("nct_id").eq(lit("NCT03135899")))
         .collect()
         .unwrap();
-    let delayed_posting: Vec<Option<&str>> =
-        row.column("delayed_posting")?.utf8()?.into_iter().collect();
+    let delayed_posting: Vec<Option<bool>> =
+        row.column("delayed_posting")?.bool()?.into_iter().collect();
     assert!(delayed_posting[0].is_none());
     Ok(())
 }
